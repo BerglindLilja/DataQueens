@@ -1,0 +1,36 @@
+{{Infobox Enemy
+|image= 
+{{Media
+ |Model BotW= File:BotW Spiked Boulder Model.png
+ |Model StBotW= File:StBotW Spiked Boulder Model.png
+}}
+|caption= 
+|race= 
+|game= {{BotW}}<br>{{StBotW}}
+|other= 
+|habitat= {{Plural|BotW|Ancient Shrine|link}}
+|member= 
+|weapon= 
+|spoils= 
+|exp= 
+|theme= 
+}}
+{{Term/Store|Spiked Boulder|Spiked Boulders|Series|plural}} are recurring traps in {{TLoZ|Series}}.{{Name Ref|BotW, StBotW}}
+{{Clear}}
+==Overview==
+{{Stub}}
+
+==={{BotW|-}}===
+{{Stub|BotW}}
+{{Plural|BotW|Spiked Boulder}} appear in {{Plural|BotW|Ancient Shrine|link}}.
+
+==={{StBotW|-}}===
+{{Stub|StBotW}}
+
+{{Ref}}
+{{Enemies}}
+
+{{Categories
+ |Traps
+ |enemies= BotW, StBotW
+}}
