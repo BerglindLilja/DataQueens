@@ -1,20 +1,5 @@
-{{Infobox Character
-|image= File:BotW Sherfin Model.png
-|caption= 
-|pronunciation= 
-|title= 
-|alias= 
-|race= 
-|gender= 
-|game= {{BotW}}
-|other= 
-|era= {{Term|BotW|Era of the Wilds|link}}
-|family= 
-|voiceactor= 
-|theme= 
-|counter= 
-}}
-{{Term/Store|Sherfin||Series, BotW}} is a character in {{BotW}}.{{Fact}}
+Sherfin is a character in Breath of the Wild.[citation needed]
 
-==Biography==
+
+== Biography ==
 No this is not a character in breath of the wild.

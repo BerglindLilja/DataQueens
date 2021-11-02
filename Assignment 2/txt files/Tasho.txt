@@ -1,29 +1,10 @@
-{{Infobox Character
-|image= File:BotW Tasho Model.png
-|caption= 
-|pronunciation= 
-|title= 
-|alias= 
-|race= {{Term|BotW|Korok|link}}
-|gender= 
-|game= {{BotW}}
-|other= 
-|era= {{Term|BotW|Era of the Wilds|link}}
-|family= 
-|voiceactor= 
-|theme= 
-|counter= 
-}}
-{{Term/Store|Tasho||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Tasho|N/A|BotW}}</ref>
+Tasho is a character in Breath of the Wild.
 
-==Biography==
-{{Stub|BotW}}
 
-==Nomenclature==
-{{Nomenclature}}
+== Biography ==
 
-{{Ref}}
-{{Categories
- |Hyruleans, Koroks
- |characters= BotW
-}}
+
+== Nomenclature ==
+
+
+== References ==

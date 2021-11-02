@@ -1,9 +1,4 @@
-{{Disambig}}
-{{Term/Store|Voo Lota||Series, BotW}} may refer to:
+Voo Lota may refer to:
 
-*'''[[Voo Lota Shrine]]''', an [[Ancient Shrine]] in the [[Tabantha Frontier]].
-*'''[[Monk#Voo Lota|Voo Lota]]''', the [[Monk]] who designed the eponymous Shrine.
-
-{{Categories
- |characters= BotW
-}}
+Voo Lota Shrine, an Ancient Shrine in the Tabantha Frontier.
+Voo Lota, the Monk who designed the eponymous Shrine.

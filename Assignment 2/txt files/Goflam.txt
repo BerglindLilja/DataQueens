@@ -1,28 +1,16 @@
-{{Infobox Character
-|image= File:BotW Goflam Model.png
-|caption= 
-|pronunciation= 
-|title= 
-|alias= 
-|race= 
-|gender= 
-|game= {{BotW}}
-|other= 
-|era= {{Term|BotW|Era of the Wilds|link}}
-|family= 
-|voiceactor= 
-|theme= 
-|counter= 
-}}
-{{Term/Store|Goflam||Series, BotW}} is a character in {{BotW}}.{{Fact}}
+Goflam is a character in Breath of the Wild.
 
-==Biography==
-{{Stub|BotW}}
 
-==Nomenclature==
-{{Nomenclature}}
+== Biography ==
+Goflam is an unseen character. They had a secret Hot Spring in the Hebra Mountains, known as Goflam's Secret Hot Spring. It is located south of the Hebra North Crest.
 
-{{Categories
- |Hyruleans
- |characters= BotW
-}}
+
+== Nomenclature ==
+
+
+== See Also ==
+Sherfin
+Goflam's Secret Hot Spring
+
+
+== References ==

@@ -1,9 +1,4 @@
-{{Disambig}}
-{{Term/Store|Sah Dahaj||Series, BotW}} may refer to:
+Sah Dahaj may refer to:
 
-*'''[[Sah Dahaj Shrine]]''', an [[Ancient Shrine]] in [[Eldin Canyon]].
-*'''[[Monk#Sah Dahaj|Sah Dahaj]]''', the [[Monk]] who designed the eponymous Shrine.
-
-{{Categories
- |characters= BotW
-}}
+Sah Dahaj Shrine, an Ancient Shrine in Eldin Canyon.
+Sah Dahaj, the Monk who designed the eponymous Shrine.

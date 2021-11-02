@@ -1,9 +1,4 @@
-{{Disambig}}
-{{Term/Store|Sha Gehma||Series, BotW}} may refer to:
+Sha Gehma may refer to:
 
-*'''[[Sha Gehma Shrine]]''', an [[Ancient Shrine]] in the [[Tabantha Tundra]].
-*'''[[Monk#Sha Gehma|Sha Gehma]]''', the [[Monk]] who designed the eponymous Shrine.
-
-{{Categories
- |characters= BotW
-}}
+Sha Gehma Shrine, an Ancient Shrine in the Tabantha Tundra.
+Sha Gehma, the Monk who designed the eponymous Shrine.

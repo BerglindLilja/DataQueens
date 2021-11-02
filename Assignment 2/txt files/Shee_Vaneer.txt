@@ -1,9 +1,4 @@
-{{Disambig}}
-{{Term/Store|Shee Vaneer||Series, BotW}} may refer to:
+Shee Vaneer may refer to:
 
-*'''[[Shee Vaneer Shrine]]''', an [[Ancient Shrine]] in [[West Necluda]].
-*'''[[Monk#Shee Vaneer|Shee Vaneer]]''', the [[Monk]] who designed the eponymous Shrine.
-
-{{Categories
- |characters= BotW
-}}
+Shee Vaneer Shrine, an Ancient Shrine in West Necluda.
+Shee Vaneer, the Monk who designed the eponymous Shrine.

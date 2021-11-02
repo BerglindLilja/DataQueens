@@ -1,9 +1,4 @@
-{{Disambig}}
-{{Term/Store|Mogg Latan||Series, BotW}} may refer to:
+Mogg Latan may refer to:
 
-*'''[[Mogg Latan Shrine]]''', an [[Ancient Shrine]] in the [[Hyrule Ridge]].
-*'''[[Monk#Mogg Latan|Mogg Latan]]''', the [[Monk]] who designed the eponymous Shrine.
-
-{{Categories
- |characters= BotW
-}}
+Mogg Latan Shrine, an Ancient Shrine in the Hyrule Ridge.
+Mogg Latan, the Monk who designed the eponymous Shrine.

@@ -1,53 +1,30 @@
-{{Infobox Enemy
-|image= File:BotW Silver Bokoblin Model.png
-|caption= 
-|race= [[Bokoblin]]
-|game= {{BotW}}
-|other= {{HWAoC}}
-|habitat= 
-|health= 720
-|member= 
-|attack=
-|weapon= 
-|spoils= [[Bokoblin Horn]]<br>[[Bokoblin Fang]]<br>[[Bokoblin Guts]]<br>[[Amber]]<br>[[Opal]]<br>[[Topaz]]<br>[[Ruby]]<br>[[Sapphire]]<br>[[Diamond]]
-|exp= 
-|theme= 
-}}
-{{Term/Store|Silver Bokoblin|Silver Bokoblins|Series, BotW|plural}} are recurring enemies in {{TLoZ|Series}}.<ref>{{Cite|'''{{Color|BotW Shrine Quest|Silver Bokoblin}}'''|Hyrule Compendium|BotW}}</ref>
+Silver Bokoblins are recurring enemies in The Legend of Zelda series.
 
-==Characteristics==
-{{Improve}}
-==={{BotW|-}}===
-{{Compendium/Extract|Silver Bokoblin}}
-The Silver Bokoblin is much more clever, powerful, and dangerous than the other three lower-tiered [[Bokoblin|Bokoblins]]. Silver Bokoblins tend to use similar weapons as the [[Black Bokoblin|Black Bokoblins]], including the [[Dragonbone Boko Club|Dragonbone Boko Clubs]], [[Dragon Bone Boko Bow|bows]], and [[Dragonbone Boko Shield|shields]].
 
-The Silver Bokoblin retains all the skills other Bokoblins have, like kicking and avoiding [[Remote Bomb|remote bombs]]. New to this Bokoblin is the faster reaction time and use of more powerful attack patterns. When first encountered, they tend to use a double slash attack and will use a slower single slash attack sometimes too. They will also use their jump and swinging attacks more often, lasting much longer than the weaker Bokoblins.
+== Characteristics ==
 
-Silver Bokoblins are much stronger than all its Bokoblin variants and have been influenced by [[Ganon]]'s dark magic.<ref>{{Cite|They have been influenced by Ganon's fiendish magic, so they are stronger than even the Black Bokoblins.|Hyrule Compendium|BotW}}</ref>, only being outclassed by the Golden Bokoblins introduced during Master Mode. They carry stronger {{Plural|BotW|Weapon|link}} than other Bokoblins and may drop [[Bokoblin Horn]]s, [[Bokoblin Fang]]s, [[Bokoblin Guts]], [[Amber]], [[Opal]], [[Topaz]], [[Ruby|Rubies]], [[Sapphire]]s, and [[Diamond]]s when defeated.
 
-==Other Appearances==
-{{Noncanon|Start}}
-=== {{HWAoC|-}} ===
-{{Stub}}
-In Hyrule Warriors: Age of Calamity, the Silver Bokoblin appears as the strongest type of [[Bokoblin]]. It has more HP and does more damage, and is an enemy that first appears in the [[Scenario]], "[[Calamity Strikes]]."
-{{Noncanon|End}}
+=== Breath of the Wild ===
 
-==Nomenclature==
-{{Nomenclature}}
+The Silver Bokoblin is much more clever, powerful, and dangerous than the other three lower-tiered Bokoblins. Silver Bokoblins tend to use similar weapons as the Black Bokoblins, including the Dragonbone Boko Clubs, bows, and shields.
+The Silver Bokoblin retains all the skills other Bokoblins have, like kicking and avoiding remote bombs. New to this Bokoblin is the faster reaction time and use of more powerful attack patterns. When first encountered, they tend to use a double slash attack and will use a slower single slash attack sometimes too. They will also use their jump and swinging attacks more often, lasting much longer than the weaker Bokoblins.
+Silver Bokoblins are much stronger than all its Bokoblin variants and have been influenced by Ganon's dark magic., only being outclassed by the Golden Bokoblins introduced during Master Mode. They carry stronger Weapons than other Bokoblins and may drop Bokoblin Horns, Bokoblin Fangs, Bokoblin Guts, Amber, Opal, Topaz, Rubies, Sapphires, and Diamonds when defeated.
 
-==See Also==
 
-*[[Bokoblin]]
-*[[Blue Bokoblin]]
-*[[Black Bokoblin]]
-*[[Golden Bokoblin]]
-*[[Stalkoblin]]
-*[[Green Bokoblin]]
-*[[Purple Bokoblin]]
+== Other Appearances ==
 
-{{Ref}}
 
-{{Categories
- |Blins, Bokoblins
- |enemies= BotW, HWAoC
-}}
+== Nomenclature ==
+
+
+== See Also ==
+Bokoblin
+Blue Bokoblin
+Black Bokoblin
+Golden Bokoblin
+Stalkoblin
+Green Bokoblin
+Purple Bokoblin
+
+
+== References ==

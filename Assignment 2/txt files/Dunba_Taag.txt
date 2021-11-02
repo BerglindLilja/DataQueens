@@ -1,9 +1,4 @@
-{{Disambig}}
-{{Term/Store|Dunba Taag||Series, BotW}} may refer to:
+Dunba Taag may refer to:
 
-*'''[[Dunba Taag Shrine]]''', an [[Ancient Shrine]] in the [[Tabantha Frontier]].
-*'''[[Monk#Dunba Taag|Dunba Taag]]''', the [[Monk]] who designed the eponymous Shrine.
-
-{{Categories
- |characters= BotW
-}}
+Dunba Taag Shrine, an Ancient Shrine in the Tabantha Frontier.
+Dunba Taag, the Monk who designed the eponymous Shrine.

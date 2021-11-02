@@ -1,55 +1,22 @@
-{{Infobox Character
-|image= File:BotW Giro Model.png
-|caption= 
-|pronunciation= 
-|title= 
-|alias= 
-|race= {{Term|BotW|Hylian|link}}
-|gender= 
-|game= {{BotW}}
-|other= 
-|era= {{Term|BotW|Era of the Wilds|link}}
-|family= 
-|voiceactor= 
-|theme= 
-|counter= 
-}}
-{{Term/Store|Giro||Series, BotW}} is a character in {{BotW}}.<ref>{{Cite|Giro|N/A|BotW}}</ref>
+Giro is a character in Breath of the Wild.
 
-==Biography==
-{{Stub|BotW}}
 
-===Wares and Pricing===
-{{Tab2
-|format= top
-|align= 
-|default= 1
-|tabwidth= 12em
-|tab1= Normal Weather
-|content1= 
-{{ShopItem/h|desc=yes}}
-{{ShopItem|BotW|Hearty Truffle|24|quantity=2|typeimg=Icon|desc=This rare mushroom has a rich scent. Cook it before eating to temporarily increase your maximum hearts.|dispname=Hearty Truffles}}
-{{ShopItem|BotW|Swift Carrot|16|quantity=3|typeimg=Icon|desc=This carrot is cultivated extensively in Kakariko Village. It strengthens the legs and hips when cooked into a dish, which helps increase your movement speed.|dispname=Swift Carrots}}
-{{ShopItem|BotW|Stamella Shroom|20|quantity=3|typeimg=Icon|desc=A green mushroom that grows near trees in the forest. It's chock-full of natural energy. Cook it to release its stamina-restoration properties.|dispname=Stamella Shrooms}}
-{{ShopItem|BotW|Rock Salt|12|quantity=5|typeimg=Icon|desc=Crystallized salt from the ancient sea commonly used to season meals. Cannot be eaten in this form.}}
-{{ShopItem|BotW|Arrow|12|quantity=3|typeimg=Icon|desc=A bundle of five common arrows.<br>The shafts of these arrows were carved from the wood of a sturdy tree.|dispname=Arrows x5}}
-{{!)}}
-|tab2= Rain
-|content2= 
-{{ShopItem/h|desc=yes}}
-{{ShopItem|BotW|Arrow|20|quantity=3|typeimg=Icon|desc=A bundle of five common arrows.<br>The shafts of these arrows were carved from the wood of a sturdy tree.|dispname=Arrows x5}}
-{{ShopItem|BotW|Swift Violet|40|quantity=2|typeimg=Icon|desc=This vitality-rich flower blooms mainly on cliffsides. When cooked into a dish, the nourishing compounds increase your movement speed.|dispname=Swift Violets}}
-{{ShopItem|BotW|Hearty Truffle|24|quantity=2|typeimg=Icon|desc=This rare mushroom has a rich scent. Cook it before eating to temporarily increase your maximum hearts.|dispname=Hearty Truffles}}
-{{ShopItem|BotW|Big Hearty Truffle|60|quantity=1|typeimg=Icon|desc=Years of going unpicked have allowed this hearty truffle to grow quite large. It's chock-full of nutrients. When cooked into a dish, it temporarily increases your maximum hearts.|dispname=Big Hearty Truffles}}
-{{ShopItem|BotW|Rock Salt|12|quantity=5|typeimg=Icon|desc=Crystallized salt from the ancient sea commonly used to season meals. Cannot be eaten in this form.}}
-{{!)}}
-}}
+== Biography ==
+Giro is a Hylian merchant who camps out in the woods along the Squabble River, between Proxim Bridge and Dueling Peaks Stable. He greets Link based on the time of day, such as noticing how hard he must be working if he is staying up late or how early he is. During rain, he decides to rest under his tarp until it starts.
+When Link first approaches him, Giro is worried and asks who is there. Realizing that Link is a traveler, he invites him to sit by the Campfire with him. He introduces himself and says that it is nice to meet him. Even though it is dangerous, Giro gathers his wares himeself. However, he also offers to buy off of Link, since it is much safer. He asks Link if he has anything rare he would want to sell.
+On subsequent visits, Giro will call Link over and comment on him coming back. When Link offers to sell to him, Giro wants to see what he has. He is grateful whenever Link offers him Items, though he encourages him to take his time and come back for more.
+Giro is proud of the wares he has collected and asks Link to look. He admires Link adventuring in rainy weather, so he decides to offer his special wares. When Link makes a purchase, Giro is thankful. However, if Link wants a product that he is all out of, he apologizes. With his whole stock bought out, Giro thanks Link for all of his purchases.
 
-==Nomenclature==
-{{Nomenclature}}
 
-{{Ref}}
-{{Categories
- |Hylians, Hyruleans, Merchants
- |characters= BotW
-}}
+=== Wares and Pricing ===
+
+
+== Nomenclature ==
+
+
+== See Also ==
+Hylian
+Squabble River
+
+
+== References ==

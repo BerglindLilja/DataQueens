@@ -1,9 +1,4 @@
-{{Disambig}}
-{{Term/Store|Rucco Maag||Series, BotW}} may refer to:
+Rucco Maag may refer to:
 
-*'''[[Rucco Maag Shrine]]''', an [[Ancient Shrine]] in the [[Lanayru Great Spring]].
-*'''[[Monk#Rucco Maag|Rucco Maag]]''', the [[Monk]] who designed the eponymous Shrine.
-
-{{Categories
- |characters= BotW
-}}
+Rucco Maag Shrine, an Ancient Shrine in the Lanayru Great Spring.
+Rucco Maag, the Monk who designed the eponymous Shrine.

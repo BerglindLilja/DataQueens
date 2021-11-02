@@ -1,9 +1,4 @@
-{{Disambig}}
-{{Term/Store|Shoda Sah||Series, BotW}} may refer to:
+Shoda Sah may refer to:
 
-*'''[[Shoda Sah Shrine]]''', an [[Ancient Shrine]] in [[West Necluda]].
-*'''[[Monk#Shoda Sah|Shoda Sah]]''', the [[Monk]] who designed the eponymous Shrine.
-
-{{Categories
- |characters= BotW
-}}
+Shoda Sah Shrine, an Ancient Shrine in West Necluda.
+Shoda Sah, the Monk who designed the eponymous Shrine.

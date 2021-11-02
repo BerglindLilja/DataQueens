@@ -1,9 +1,4 @@
-{{Disambig}}
-{{Term/Store|Sho Dantu||Series, BotW}} may refer to:
+Sho Dantu may refer to:
 
-*'''[[Sho Dantu Shrine]]''', an [[Ancient Shrine]] in the [[Gerudo Highlands]].
-*'''[[Monk#Sho Dantu|Sho Dantu]]''', the [[Monk]] who designed the eponymous Shrine.
-
-{{Categories
- |characters= BotW
-}}
+Sho Dantu Shrine, an Ancient Shrine in the Gerudo Highlands.
+Sho Dantu, the Monk who designed the eponymous Shrine.
