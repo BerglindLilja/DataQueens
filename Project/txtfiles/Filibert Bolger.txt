@@ -1,0 +1,63 @@
+{{Infobox Person Hobbits
+| image = Screen_shot_2010-12-08_at_7.56.27_PM.png
+| caption = '''Filibert Bolger''' in the ''[[The Fellowship of the Ring (film)|Motion Picture]]''.
+| name = 
+| othernames = 
+| title = 
+| birth = [[TA 2942]] (SR 1342)
+| rule = 
+| death = [[FO 22]] (SR 1443)
+| realms = 
+| spouse = [[Poppy (Chubb-Baggins) Bolger|Poppy Chubb-Baggins]]
+| weapon = 
+| race = [[Hobbits]]
+| culture = [[Shire]]-hobbits ([[Bolgers|Bolger family]])
+| gender = Male
+| height = 
+| hair = 
+| eyes = 
+| actor = 
+| voice = 
+| character = 
+}}
+
+'''Filibert Bolger''' was a [[hobbit]] of the [[Shire]].
+
+==Biography==
+
+Filibert was a distant cousin of [[Frodo Baggins]], and nephew of [[Bilbo Baggins]], through marriage to [[Poppy (Chubb-Baggins) Bolger|Poppy Chubb-Baggins]] (married [[TA 2944]] ([[Shire Reckoning|SR]] 1344). He was a guest at Bilbo's [[Farewell Party]]. He died in FO 22 (SR 1443) at the age of one-hundred and one.<ref>''[[The Lord of the Rings]]'', [[Appendix C]], "Bolger of Budgeford"</ref>
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Bulgarian Cyrillic
+|Филиберт Болгер
+|-
+|Danish
+|Filibert Bulner
+|-
+|French
+|Filibert Bolgeurre
+|-
+|Italian
+|Filiberto Bolgeri
+|}
+
+</div>
+{{Clear}}
+
+==References==
+<references/>
+
+{{DEFAULTSORT:Bolger, Filibert}}
+
+[[de:Filibert Bolger]]
+[[it:Filiberto Bolgeri]]
+[[pl:Filibert Bolger]]
+[[Category:Hobbits]]
+[[Category:Bolgers]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters|Bolger]]

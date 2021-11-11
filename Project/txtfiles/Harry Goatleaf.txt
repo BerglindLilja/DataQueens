@@ -1,0 +1,146 @@
+{{Infobox Person Men of Bree
+| image = [[File:Harry_Goatleaf.jpg|thumb|245px]]
+| caption = '''Harry Goatleaf''' in the New Line Cinema film
+| name = 
+| othernames = Gatekeeper, Gatekeeper of West [[Bree]]
+| title =  
+| birth = Late [[Third Age]] ?
+| rule = 
+| death = In or after [[TA 3019]]
+| realms = 
+| spouse =  
+| weapon = 
+| race = [[Men]]
+| culture = [[Men of Bree]]
+| gender = 
+| height = 
+| hair = 
+| eyes = 
+| actor = [[Martyn Sanderson]]
+| voice = [[Tom Kane]] ([[The Lord of the Rings: The Fellowship of the Ring (video game)|video game]])<br>Martyn Sanderson ([[LEGO The Lord of the Rings: The Video Game|video game]])
+| character = 
+}}
+
+'''Harry Goatleaf''' was the gatekeeper of [[Bree]]'s western gate during the time of the [[War of the Ring]].
+
+== History ==
+Harry Goatleaf encountered [[Frodo]], [[Merry]], [[Pippin]] and [[Sam]] when they entered Bree in the year [[TA 3018]]. The gate which he guarded was located within a great hedge surrounding the township of Bree.<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Fellowship of the Ring|''The Fellowship of the Ring'']], Book One, Ch. IX: "[[At the Sign of the Prancing Pony]]"</ref>
+
+Harry was in the Common Room of the [[Prancing Pony]] and witnessed Frodo's disappearance when the [[The One Ring|Ring]] slipped onto his finger after his performance of a folk [[The Man in the Moon Stayed Up Too Late|song]]. Harry left the inn following the departure of [[Bill Ferny]] and a [[Squint-eyed Southerner]]. [[Aragorn]] later told Frodo that he suspected that the [[Black Riders]] might use Bill Ferny and Harry Goatleaf as well as others for evil work. Later that night the inn was attacked and the [[hobbits]]' empty room was ransacked.<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Fellowship of the Ring|''The Fellowship of the Ring'']], Book One, Ch. X: "[[Strider (chapter)|Strider]]"</ref>
+
+Early in the New Year of [[TA 3019]], fighting broke out between the Southerners and the [[Men of Bree|Bree-folk]]. Harry Goatleaf and Bill Ferny sided with a group of brigands from the south, and participated in trouble that caused the death of five Men of Bree. He left Bree with the group, presumably to join [[Saruman|Sharkey]]'s Men in the [[Shire]].<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Return of the King|''The Return of the King'']], Book Six, Ch. VII: "[[Homeward Bound]]"</ref>  
+
+== Appearances ==
+
+=== Books ===
+*''[[The Fellowship of the Ring (novel)|The Fellowship of the Ring]]'' (first appearance)
+*[[The Return of the King (novel)|''The Return of the King'']]'' ''(mentioned only)
+
+=== Adaptations ===
+*[[The Lord of the Rings: The Fellowship of the Ring|''The Lord of the Rings: The Fellowship of the Ring'']]
+*[[The Lord of the Rings: The Fellowship of the Ring (video game)|''The Fellowship of the Ring'' (video game)]]
+*[[LEGO The Lord of the Rings: The Video Game|''LEGO The Lord of the Rings: The Video Game'']] (Portable versions only)
+
+== Portrayal in adaptations ==
+In the novel Harry's fate is not elaborated upon; however, in [[Peter Jackson]]'s [[The Lord of the Rings: The Fellowship of the Ring|''The Lord of the Rings: The Fellowship of the Ring'']], he is ridden down by the Ringwraiths and killed, at Bree's entrance.
+
+=== Voice dubbing actors ===
+
+{| class="wikitable" style="text-align: center;"
+!Foreign Language
+!Voice dubbing artist
+|-
+|Portuguese (Brazil) (Television/DVD)
+|Sidney Lilla
+|-
+|Spanish (Latin America)
+|Gonzalo Curiel
+|-
+|Spanish (Spain)
+|Javier Amilibia
+|-
+|German
+|Fred Maire
+|}
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Armenian
+|Հարրի Այծի տերեւ
+|-
+|Belarusian Cyrillic
+|Гары Казінае ліст
+|-
+|Bulgarian Cyrillic
+|Хари Коза листо
+|-
+|Chinese (Hong Kong)
+|哈利·羊啼甲
+|-
+|Czech
+|Jindra Kozílist
+|-
+|Finnish
+|Harri Selja
+|-
+|French
+|Harry Chèvrefeuille
+|-
+|Georgian
+|ჰარი თხა ფოთოლი
+|-
+|German
+|Heinrich Geißblatt
+|-
+|Greek
+|Χάρι Φύλλα φύλλο
+|-
+|Hebrew
+|הארי אזוביון
+|-
+|Italian
+|Harry Caprifoglio
+|-
+|Latvian
+|Harijs Kaza lapa
+|-
+|Lithuanian
+|Haris Ožka lapų
+|-
+|Macedonian Cyrillic
+|Хари Коза лист
+|-
+|Marathi
+|हॅरी शेळी पान
+|-
+|Portuguese (Brazil)
+|Harry Barba-de-Bode
+|-
+|Slovak
+|Harry Kozinec
+|-
+|Spanish (Spain and Latin America)
+|Herri Madreselva
+|}
+
+</div>
+{{Clear}}
+
+== References ==
+<references />
+
+{{DEFAULTSORT:Goatleaf, Harry}}[[Category:Men of Bree]]
+[[Category:Agents of Saruman]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:Servants of Sauron]]
+
+[[de:Heinrich Geißblatt]]
+[[it:Enrico Lanicardo]]
+[[nl:Harry Geiteblad]]
+[[pl:Harry Goatleaf]]

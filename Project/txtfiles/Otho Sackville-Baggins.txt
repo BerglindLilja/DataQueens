@@ -1,0 +1,98 @@
+{{Infobox Person Hobbits
+| image = Osbaggins3.jpg
+| caption = '''Otho Sackville-Baggins''' (in Peter Jackson's films)
+| name = Otho Sackville-Baggins
+| othernames = 
+| title = 
+| birth = [[TA 2910]] (SR 1309)
+| rule = 
+| death = [[TA 3012]] (SR 1411)
+| realms = 
+| spouse = [[Lobelia Sackville-Baggins]]
+| weapon = 
+| race = [[Hobbits]]
+| culture = [[Shire]]-hobbits ([[Sackville-Baggins]])
+| gender = Male
+| height =1.22m (4'0") 
+| hair = 
+| eyes = 
+| actor = [[Peter Corrigan]]<br/>(The Lord of the Rings),<br/> [[Brian Hotter]]<br/> (The Hobbit trilogy)
+| voice = 
+| character = 
+}}
+
+'''Otho Sackville-Baggins''' was a [[Hobbit]] of the [[Shire]].
+
+== Biography  ==
+
+Otho was married to [[Lobelia Sackville-Baggins]]. He adopted the name of both his parents, [[Longo Baggins]] and [[Camellia (Sackville) Baggins|Camellia Sackville]], effectively founding a new family. He was the head of the family for many years, and his son [[Lotho Sackville-Baggins|Lotho]] had ambitions to succeed [[Bilbo Baggins|Bilbo]] (and later [[Frodo Baggins|Frodo]]) as head of the Baggins family. Had that happened before he died, Lotho would have called himself 'Baggins-Sackville-Baggins'.<ref>''[[The Lord of the Rings]], [[The Fellowship of the Ring (novel)|The Fellowship of the Ring]],'' Book One, Ch. I: "[[A Long-expected Party (chapter)|A Long-expected Party]]"</ref><ref>''[[The Lord of the Rings]],'' [[Appendix C]]: Family Trees, Baggins of Hobbiton</ref>
+
+== Portrayal in adaptations ==
+=== Radio ===
+Otho was voiced by [[John Livesey]] in the [[The Lord of the Rings (1981 radio series)|1981 radio series ''The Lord of the Rings'']].
+
+=== Films ===
+In ''[[The Fellowship of the Ring (film)|The Lord of the Rings: The Fellowship of the Ring]]'' (Special Extended Edition) Otho is played by [[Peter Corrigan]], but has no lines.
+
+In ''[[The Hobbit: An Unexpected Journey]]'' (Special Extended Edition), Otho is played by [[Brian Hotter]] in a cameo, walking with his (Otho's) wife at the market at the [[Green Dragon Inn]].
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Bulgarian Cyrillic
+|Ото Влачи-Торбинс
+|-
+|Chinese
+|羅索·塞克維爾巴金斯
+|-
+|Danish
+|Otho Posenborg-Sækker
+|-
+|Dutch
+|Otho Buul-Balings
+|-
+|Finnish
+|Otho Säkinheimo-Reppuli
+|-
+|French
+|Otho sacquet de besace
+|-
+|German
+|Otho Sackheim-Beutlin
+|-
+|Hebrew
+|אותו סאקוויל-באגינס
+|-
+|Hungarian
+|Tarisznyádi-Zsákos Othó
+|-
+|Japanese
+|オソ・サックビル・バギンズ
+|-
+|Russian
+|Отто Саквилль-Бэггинс
+|}
+
+</div>
+{{Clear}}
+
+==References==
+<references />
+
+__NOTOC__
+
+[[de:Otho Sackheim-Beutlin]]
+[[it:Otho Sackville-Baggins]]
+[[nl:Otho Buul-Balings]]
+[[pl:Otto Sackville-Baggins]]
+[[ru:Отто Саквилль-Бэггинс]]
+[[Category:Hobbits]]
+[[Category:Sackville-Baggins]]
+[[Category:The Hobbit: An Unexpected Journey Characters]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:The Hobbit: The Battle of the Five Armies Characters]]

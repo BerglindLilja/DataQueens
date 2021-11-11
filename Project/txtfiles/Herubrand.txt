@@ -1,0 +1,39 @@
+{{Infobox Person Men Rohan
+| image = Herubrand.jpg
+| caption = 
+| name = Herubrand
+| othernames = 
+| title = 
+| birth = Late-[[Third Age]]
+| rule = 
+| death = [[March 15]], [[3019]]
+| realms = 
+| spouse = Unnamed wife
+| weapon = Sword
+| race = [[Men]]
+| culture = [[Rohirrim]]
+| gender = Male
+| height = 
+| hair = 
+| eyes = 
+| actor = Unknown
+| voice = 
+| character = 
+}}
+
+'''Herubrand''' was a [[Rohirrim]] warrior who served was a guard of [[King of Rohan|King]] [[Théoden]]. He perished during the [[Battle of the Pelennor Fields]], and his name was remembered in the poem ''[[Song of the Mounds of Mundburg]]''.
+
+==Etymology==
+
+'''''Herubrand''''' is [[Old English]] for "War-Sword".{{Cite}}
+
+==Portrayal in adaptations==
+
+[[File:The Lord of the Rings Online - Herubrand.jpg|thumb|left|Herubrand in ''[[The Lord of the Rings Online]]'']]
+* In ''[[The Lord of the Rings Online]]'' Herubrand comes from the town of Woodhurst in the Stonedeans, a province in the western [[Rohan]] where many men have a mix of Rohirrim and Dunlending ancestry. His parents are Briant and Reeve Heremond; his wife is named Cynethryth and their son is [[Herefara]]. Under the influence of [[Saruman]], in early March of T.A. 3019 a conspiracy of men attacks the Reeve's family in the Mead Hall of Woodhurst. Heremond and Cynethryth are slain but Herubrand, who is wounded, is saved by his loyalist who hide him and his mother outside the city. Unaware of how many men are involved in the conspiracy, the men loyal to the new Reeve bar the doors of the Mead Hall and keep the attack secret from the people. Herubrand and his advisors enlist the player, an outsider who could not have been involved the attack, to help them in uncovering the conspiracy and eventually take back the control of his city. [[Herefara]] is not present during these events, as he is leading the defence of the village of Brockbridge to the south from the forces of [[Isengard]]. Herubrand and Herefara are later met in the [[Druadan Forest]] during the march of Rohirrim towards [[Minas Tirith]]. During the [[Battle of the Pelennor Fields]] the father and son fight side by side, but are slain by [[Gothmog]]'s orcs.
+
+[[de:Herubrand]]
+[[pl:Herubrand]]
+[[Category:Rohirrim]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]

@@ -1,0 +1,54 @@
+{{NonCanon}}
+{{Infobox Non-canonical Character
+|Name= Guritz
+|Image= [[File:Guritz.jpg|thumb]]
+|AKA=
+|title= Lieutenant of [[Gothmog (Lieutenant of Morgul)|Gothmog]]
+|Race= [[Orc]]
+|Lifespan= [[TA 3019]] - [[March]], [[3019]]
+|Gender= Male
+|Realm=
+|Culture= [[Morannon Orcs]]
+|Weapon= Scythe
+|Actor= [[Joel Tobeck]]
+|Voice= [[Craig Parker]]
+}}
+
+{{Quote|There's knife-work here needs doing! Come on, [[Corsairs of Umbar|you sea rats]], get off your [[The Black Ships (scene)|ships]]!|Guritz to the [[Corsairs of Umbar|Corsairs]]}}
+
+'''Guritz'''<ref>http://www.asmuslotr.com/guritz-2 Name verified</ref> was an [[Orc]] captain in [[Peter Jackson]]'s ''[[The Return of the King (film)|The Return of the King]]'' film who served [[Gothmog (Lieutenant of Morgul)|Gothmog]] at the [[Battle of the Pelennor Fields]].
+
+He does not appear in [[J.R.R. Tolkien]]'s books.
+
+== Portrayal in adaptations ==
+=== Peter Jackson's The Lord of the Rings trilogy ===
+
+Guritz had a large scar across his face that split his nose in two. He wore a helmet with a skull impaled on a spike, earning him the nickname '''Skully''' from the movie production crew, and the only weapon he was seen wielding was a two-handed scythe. He fled the charging [[Rohirrim]] and went with [[Murgash]] and a band of [[Orc]]s to the docks to mock the late-arriving Corsairs aboard their [[ship]]s. But the Corsairs were not on board; instead, Guritz and his company were met by [[Aragorn]], [[Legolas]], and [[Gimli]], and the first wave of the [[Army of the Dead]]. When the Army of the Dead charged, Guritz tried to escape but fell backwards and was trampled by the charging army.
+
+=== Video games ===
+
+*He is also seen in ''[[The Lord of the Rings: Conquest]]'' video game as a warrior type Orc captain whom you must kill in many missions in the [[War of the Ring]] campaign.
+
+*He also appeared in ''[[LEGO The Lord of the Rings: The Video Game]]'' Level 15 ''[[The Battle of the Pelennor Fields]]'', but only in the cutscenes, and is not a playable character.
+
+=== Board games ===
+* As of 2-18, Guritz is a playable hero in the Middle-earth Strategy Battle, Game and was released together with Murgash.
+
+== Gallery ==
+{{Gallery|width=120|height=160|captionalign=center|position=center
+|Guritz in ROTK.png|Guritz on the field of the [[Pelennor Fields]].
+|Crew of Guritz.png|Crew of Guritz awaiting the approach of the Corsairs.
+|Guritz' helm.PNG|Guritz' helmet became adapted as an available helm for custom Orc heroes in BFME 2}}
+
+== References ==
+<references/>
+
+[[de:Guritz]]
+[[nl:Guritz]]
+[[pl:Guritz]]
+[[Category:Non-canonical villains]]
+[[Category:Non-canonical Orcs]]
+[[Category:Non-canonical Servants of Sauron]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]
+[[Category:Characters created for Peter Jackson's trilogy]]
+[[Category:Non-canonical Deaths in Battle]]

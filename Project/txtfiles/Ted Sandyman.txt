@@ -1,0 +1,96 @@
+{{Infobox Person Hobbits
+| image = Ted_sandyman.png
+| caption = '''Ted Sandyman''' in the New Line film
+| name = Ted Sandyman
+| othernames = 
+| title = 
+| birth = 
+| rule = 
+| death = 
+| realms = 
+| spouse = 
+| weapon = 
+| race = [[Hobbits]]
+| culture = [[Shire]]-hobbits
+| gender = Male
+| height = 
+| hair = 
+| eyes = 
+| actor = [[Brian Sergent]] 
+| voice = 
+| character = 
+}}
+
+'''Ted Sandyman''' was a [[Hobbit]] allied with the Chief's Men during the [[War of the Ring]]. Ted Sandyman was the son of [[Sandyman]] the Miller of [[Hobbiton]].
+
+== Biography ==
+
+One evening in early April of [[3018]], Ted Sandyman was at the [[The Green Dragon Inn|Green Dragon Inn]] with [[Sam Gamgee]], the gardener at [[Bag End]]. Sam talked about strange things that had been happening in the Shire, including a [[Ents|Tree-man]] that his cousin [[Halfast Gamgee]] claimed to have seen walking on the North Moors. Ted Sandyman scoffed at Sam's tales, calling them children's stories. Neither was Ted interested in the news that the [[Elves]] were leaving [[Middle-earth]]. He questioned the reliability of Sam's sources of information - [[Bilbo]] and [[Frodo Baggins]] - saying: "Oh, they're both cracked. Leastways old Bilbo was cracked, and Frodo's cracking."<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Fellowship of the Ring|''The Fellowship of the Ring'']], Book One, Ch. I: "[[A Long-expected Party]]"</ref>
+
+When Sam looked at the [[Mirror of Galadriel]], he saw a vision of Ted cutting down trees at the avenue beyond the mill, that shades the road to [[Bywater]]. Sam was enraged, wishing he could get at Ted. Sam suspected that there was some devilry at work in the Shire, and exclaimed that he had to go home, but Galadriel said he could not go home alone, and should not blindly trust what he saw in the mirror. Sam reluctantly accepted that, but said "If what I've seen turn out true, somebody's going to catch it hot!". The vision Sam saw indeed came true, as revealed in "[[Scouring of the Shire]]".<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Fellowship of the Ring|''The Fellowship of the Ring'']], Book Two, Ch. VII: "[[The Mirror of Galadriel]]"</ref>
+
+After Frodo and Sam left the Shire in September of 3018, [[Lotho Sackville-Baggins]] bought the [[Old Mill]] and tore it down. He replaced it with an ugly brick building that straddled the river and was full of wheels and strange contraptions to increase production. The next year in [[September]] of 3019, [[Saruman]] took over operation of the Mill and it was used for some industrial purpose that created noise and pollution.
+
+Ted Sandyman was pleased by these developments and he continued to work in the New Mill. He took orders from the [[Chief's men]] and he participated in the wanton destruction of the Shire by cutting down the trees beyond the Mill that shaded the road to [[Bywater]].
+
+After the [[Battle of Bywater]] on [[November 3]], [[3019]], Frodo and Sam returned to [[Hobbiton]] with [[Meriadoc Brandybuck|Merry Brandybuck]] and [[Peregrin Took|Pippin Took]]. They encountered Ted Sandyman at the [[New Mill]]. Ted laughed at their dismay at the destruction that had been done to Hobbiton, and he said that if they touched him he would report them to the Chief. When Merry told him that the Chief's Men had been defeated and that the Chief was about to be removed, Ted was shocked. He sounded a horn to raise the alarm, but Merry responded by sounding the Horn of the Mark, and Hobbits from all over Hobbiton responded.<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Return of the King|''The Return of the King'']], Book Six, Ch. VIII: "[[The Scouring of the Shire]]"</ref>
+
+His fate afterwards is unknown.
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Chinese (Hong Kong)
+|泰迪·山迪曼
+|-
+|Dutch
+|Ted Roothooft
+|-
+|Finnish
+|Ted Hiesuli
+|-
+|Georgian
+|ტედ ქვიშენი
+|-
+|German
+|Timm Sandigmann
+|-
+|Hebrew
+|טד סנדימן
+|-
+|Italian
+|Ted Sabbioso
+|-
+|Spanish
+|Ted Arenas
+|-
+|Portuguese
+|Ted Ruivão (Brazil)
+|-
+|Russian
+|Тед Сэндимэн
+|}
+
+</div>
+{{Clear}}
+
+== References ==
+<references />
+
+{{DEFAULTSORT:Sandyman, Ted}}
+
+[[Category:Hobbits]]
+[[Category:Sandyman]]
+[[Category:Villains]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+
+[[de:Timm Sandigmann]]
+[[it:Ted Sabbioso]]
+[[nl:Ted Roothooft]]
+[[pl:Ted Sandyman]]
+[[ru:Тед Сэндимэн]]

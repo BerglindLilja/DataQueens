@@ -1,0 +1,49 @@
+{{NonCanon}}
+<br />
+{{Infobox Non-canonical Character
+|Name= Aldor
+|Image=Aldor.png
+|Caption= '''Aldor''' as seen in [[Peter Jackson]]'s ''[[The Lord of the Rings: The Two Towers]]''.
+|AKA=
+|Race= [[Men]]
+|Lifespan= 
+|Gender= 
+|Realm=
+|Culture= [[Rohirrim]]
+|Weapon= [[Bow]]
+|Actor= [[Bruce Allpress]]
+|Voice=
+}}
+{{Quote|This is all we could save, my lady.|Aldor to Éowyn in the extended edition.}}
+
+'''Aldor''' was an elderly [[Rohirrim|Man of Rohan]].<ref>[http://lotrtcgwiki.com/wiki/lotr04262 ''http://lotrtcgwiki.com/wiki/lotr04262'']</ref>
+
+== Portrayal in adaptations ==
+=== ''The Lord of the Rings: The Two Towers'' ===
+
+Having fled with his people to the fortress of the [[Hornburg]] from [[Edoras]], he was among those forced to defend the fortress from [[Saruman]]'s [[Saruman's army|army]] of [[Uruk-hai]]. He stood beside [[Haleth (Son of Háma)|Haleth]], son of [[Háma]], where they witnessed the arrival of the Uruk-hai. Before the Uruk-hai began their attack, Aldor prepared to loose an arrow from his bow. However, he was unable to steady his hand and accidentally released the arrow, killing an Uruk, which preempted the attacking army's assault.
+
+His fate in the subsequent [[Battle of the Hornburg]] is unknown.
+
+=== Video games ===
+[[File:Aldon Lego.png|thumb|175px|Aldor in the ''LEGO: The Lord of the Rings'']]
+
+* In [[The Lord of the Rings Online|''The Lord of the Rings Online'']], Aldor's role is similar to his role in [[Peter Jackson]]'s film.
+*He additionally appears in [[LEGO The Lord of the Rings: The Video Game|''LEGO The Lord of the Rings: The Video Game'']].
+
+== Notes ==
+*Aldor is portrayed by the [[Bruce Allpress]] in the film adaptation of ''The Two Towers''.
+*He is featured in ''[[The Lord of the Rings Trading Card Game]]''.
+
+<br />
+<br />
+
+==References==
+<references />
+
+[[de:Aldor (Rohan)]]
+[[pl:Aldor]]
+[[ru:Алдор (Две крепости)]]
+[[Category:Non-canonical Rohirrim]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:Characters created for Peter Jackson's trilogy]]

@@ -1,0 +1,74 @@
+{{Infobox Person Servants of Evil
+|image = Ufthak.jpg
+|name = Ufthak
+|title = 
+|birth = 
+|death = Likely [[TA 3019]]
+|spouse = 
+|realms = [[Cirith Ungol]]
+|weapon = 
+|race = [[Orc]]
+|culture = Orcs of [[Mordor]]
+|gender = Male
+|height = 
+|hair = 
+|eyes = 
+|actor = 
+|caption = Ufthak long after his demise}}
+
+'''Ufthak''' was a [[Mordor]] [[Orc]] serving in the [[Tower of Cirith Ungol]].
+
+== Biography ==
+
+At some time while with a band of fellow Orcs including [[Shagrat]], Ufthak got lost in the tunnels of [[Torech Ungol]] and was caught by [[Shelob]], poisoned and hung up in a corner. When others found him, he was still alive and awake, but they did nothing to help him, out of fear of what would happen if they interfered with her work.<ref>''[[The Lord of the Rings]], [[The Two Towers (novel)|The Two Towers]],'' Book Four, Ch. X: "[[The Choices of Master Samwise]]"</ref>
+
+== Gallery ==
+<gallery>
+Efsgtsjsrtyj.jpg|The Ufthak card, from the [[LOTR TCG]]
+</gallery>
+
+==Translations around the world==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Arabic
+|أوفثاك
+|-
+|Bulgarian Cyrillic
+|Уфтак
+|-
+|Chinese
+|烏夫塔克
+|-
+|Georgian
+|უფთაკი
+|-
+|Hebrew
+|אופתאק
+|-
+|Persian
+|یوف ثاک
+|-
+|Russian
+|Уфтак
+|-
+|Ukrainian Cyrillic
+|Уртхак
+|}
+
+</div>
+{{Clear}}
+
+==References==
+<references />
+
+[[de:Ufthak]]
+[[pl:Ufthak]]
+[[ru:Уфтак]]
+[[Category:Orcs]]
+[[Category:Servants of Sauron]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]

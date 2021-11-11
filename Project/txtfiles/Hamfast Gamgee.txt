@@ -1,0 +1,158 @@
+{{Infobox Person Hobbits
+|image = Hamfast.jpg
+|caption = '''Hamfast "The Gaffer" Gamgee''' in Peter Jackson's ''The Lord of the Rings''
+|name = Hamfast Gamgee
+|othernames = The Gaffer<br/>Ranugad Galbasi<ref>''[[The Lord of the Rings]]'', [[Appendix F]], "On Translation"</ref>
+|birth = [[TA 2926]] (SR 1326)<ref name="lotr">''[[The Lord of the Rings]]'', [[Appendix C]], "The Longfather-tree of Master Samwise"</ref>
+|death = [[FO 7]] (SR 1428)<ref name="lotr"/>
+|spouse = [[Bell Goodchild]]
+|race = [[Hobbit]]
+|gender = Male
+|height = 
+|hair = Brown, later gray
+|culture = [[Shire]]-hobbits
+|actor = [[Norman Forsey]]
+|voice = 
+}}
+
+{{Quote|It's an ill wind as blows nobody no good, as I always say. And all's well as ends Better!|The Gaffer, following the Scouring of the Shire}}
+'''Hamfast "The Gaffer" Gamgee''' was a [[Hobbit]] of [[the Shire]], gardener by trade and father of [[Samwise Gamgee]].
+
+== Biography ==
+
+Hamfast was the son of [[Hobson Gamgee|Hobson "Roper" Gamgee]]. He married [[Bell Goodchild]], with whom he had six children, including Samwise Gamgee, his youngest son. He was a gardener on the [[Baggins]] property at [[Bag End]] for many years. He was frequently consulted for his knowledge of root vegetables (generally over a pint at the local [[inn]]), and was seen as a particular authority on the growing of potatoes. As the time of [[Bilbo Baggins]]'s [[Bilbo's Farewell Birthday Party|birthday party]] drew near, he was also in demand for his stories of Bilbo and his family. He didn't particularly like [[Sandyman]] the miller.<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Fellowship of the Ring|''The Fellowship of the Ring'']], Book One, Ch. I: "[[A Long-expected Party]]"</ref>
+
+On the evening that [[Frodo Baggins]] left Bag End, the Gaffer encountered a [[Black Rider]] asking about Frodo. He told the Rider that Frodo had gone to [[Bucklebury]]. He later reported the conversation to his son Sam, who in turn told Frodo about it.<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Fellowship of the Ring|''The Fellowship of the Ring'']], Book One, Ch. III: "[[Three is Company]]"</ref>
+
+During the troubles fomented by [[Lotho Sackville-Baggins]], the Gaffer was turned out of his hole at Number Three, [[Bagshot Row]], as Sam saw in [[Galadriel]]'s [[The Mirror of Galadriel|mirror]]. [[Farmer Cotton]] helped look after him, sharing food, although this was against the Rules that the Chief and later [[Sharkey]] made up. When Sam arrived back in the Shire, the Gaffer was rather disbelieving of his son's adventures and disapproved of Sam's wearing "ironmongery." Once the Shire had been cleaned up, the Gaffer was restored to Number Three of the new, brick-lined holes in the hill where he was well-looked after by [[Widow Rumble]].<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Return of the King|''The Return of the King'']], Book Six, Ch. VIII: "[[The Scouring of the Shire]]"</ref><ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Return of the King|''The Return of the King'']], Book Six, Ch. IX: "[[The Grey Havens]]"</ref> He would live there until his death in [[SR 1428]].
+
+==Etymology==
+
+'''''Hamfast''''' means 'stay-at-home' or 'Home-fast' in the Hobbits' own language, and the full name is translated into [[Westron]] as "Ranugad Galbasi".
+
+== Portrayal in adaptations ==
+===Peter Jackson's The Lord of the Rings trilogy===
+
+{{Quote|That's for Frodo. That's for The Shire. And that's for my old Gaffer!|[[Samwise Gamgee]] in ''[[The Return of the King (film)|The Return of the King]]'' upon slaying three orcs}}
+Hamfast is portrayed by [[Norman Forsey]] in [[The Fellowship of the Ring (film)|''The Fellowship of the Ring'']] film, appearing briefly in the [[Green Dragon Inn|Green Dragon]] inn early in the film.
+
+=== 1981 Radio series ===
+Hamfast is portrayed in [[The Lord of the Rings (1981 radio series)|''The Lord of the Rings'' (1981 radio series)]], voiced by [[John Church]].
+
+=== Video games ===
+
+Hamfast appeared as a child in [[The Hobbit (2003 video game)|''The Hobbit'' (2003 video game)]].
+
+In the [[The Lord of the Rings: The Fellowship of the Ring (video game)|''Fellowship of the Ring'' video game]], he appears as an NPC in his conversation with the Black Rider on the hill.
+
+=== Voice dubbing actors ===
+
+{| class="wikitable" style="text-align: center;"
+!Foreign Language
+!Voice dubbing artist
+|-
+|Portuguese (Brazil) (Television/DVD)
+|Mauro Castro
+|-
+|German
+|Jochen Striebeck
+|}
+
+==Behind the scenes==
+
+The word '''Gaffer''' means "the chief electrician in a film production". It is also a historical and contemporary British colloquialism that refers to an overseer or boss, who is often older than his subordinates. (Tolkien was more likely thinking of the latter definition when he gave Sam's father his nickname.)
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" bgcolor="#EDEEFF" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;"
+| width="300px" |'''Foreign Language'''
+| width="300px" |'''Translated name'''
+|-
+|Armenian
+|Հեմսֆասթ Գեմջիի
+|-
+|Bulgarian Cyrillic
+|Бързохам Майтапер
+|-
+|Catalan
+|Hamfast Gamgí, el Vellot
+|-
+|Chinese (Hong Kong)
+|詹吉·老人
+|-
+|Czech
+|Peckoslav Křepelka
+|-
+|Danish
+|Hamfast Gammegod, farlille
+|-
+|Galician
+|Hamveloz Gamllí
+|-
+|Hebrew
+|האמפאסט גאמג'י
+|-
+|Estonian
+|Hamfast Mängla
+|-
+|Finnish
+|Hamfast Gamgi
+|-
+|French
+|Hamfast Gamegie
+|-
+|Georgian
+|ბებრუხანა გემჯი
+|-
+|German
+|Hamfast Gamdschie
+|-
+|Japanese
+|ハムファスト・ギャムジー
+|-
+|Lithuanian
+|Hemas Gemdžis, Gaferas
+|-
+|Persian
+|هامفست گمجی
+|-
+|Portuguese
+|Hamfast Gamgi
+|-
+|Russian
+|Хэмфаст "Жихарь" Гэмджи
+|-
+|Spanish
+|Hamfast Gamyi
+|-
+|Swedish
+|Hamfast "Tjyvgubben" Gamgi
+|-
+|Thai
+|แฮมฟาสท์ "พ่อเฒ่าแกฟเฟอร์" แกมจี
+|-
+|Ukrainian Cyrillic
+|Хемфаста "Геффера" Гемджі
+|}
+
+</div>
+{{Clear}}
+
+==References==
+<references />
+
+{{DEFAULTSORT:Gamgee, Hamfast}}
+
+[[de:Hamfast Gamdschie]]
+[[es:Hamfast Gamyi]]
+[[fr:Hamfast Gamegie]]
+[[it:Hamfast Gamgee]]
+[[nl:Hamfast Gewissies]]
+[[pl:Hamfast Gamgee]]
+[[ru:Хэмфаст Гэмджи]]
+
+[[Category:Hobbits]]
+[[Category:Gamgees]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]

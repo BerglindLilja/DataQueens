@@ -1,0 +1,31 @@
+{{NonCanon}}<br />
+
+{{Infobox Non-canonical Character
+|Name=
+|Image=Unferth.png
+|Caption=Trading Card Game image (an unnamed henchman in The Two Towers film)
+|AKA=
+|Race=[[Men]]
+|Lifespan=Unknown
+|Gender=Male
+|Realm=[[Rohan]]
+|Culture=[[Rohirrim]]
+|Weapon=
+|Actor=Unknown (LOTR TCG)
+|Voice=
+}}
+
+'''Unferth''' was one of [[Grima Wormtongue|Grima Wormtongue']]s bodyguards at [[Edoras]], and also a loyal agent to [[Saruman]] in the [[War of the Ring]].
+
+He is not mentioned in the books, and is named solely for ''[[The Lord of the Rings Trading Card Game]]''.<ref name="lotrtcgwiki">http://lotrtcgwiki.com/wiki/lotr04178</ref>
+
+== References ==
+<references/>
+[[it:Unferth]]
+[[pl:Unferth]]
+[[Category:Non-canonical Rohirrim]]
+[[Category:Non-canonical villains]]
+[[Category:Non-canonical Agents of Saruman]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:Characters created for Peter Jackson's trilogy]]
+[[Category:Non-canonical Servants of Sauron]]

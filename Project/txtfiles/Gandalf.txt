@@ -1,0 +1,719 @@
+{{Infobox Person Wizards
+|image = Gandalf the Grey.jpg
+|caption = Gandalf portrayed by [[Ian McKellen]]
+|name = Gandalf
+|othernames = Olórin, Mithrandir, Incánus, Tharkûn, Greyhame, Old Greybeard, The Grey Pilgrim, Stormcrow, White Rider, Láthspell, Gandalf the Wandering Wizard
+|title = Istar (Wizard),<br/>The Grey, The White, Servant of the Secret Fire,<br/>Wielder of the [[Flame of Anor]],<br/>Elf-friend 
+|race = [[Ainur]] ([[Maiar]])
+|culture = Istari ([[Wizards]]),<br/>Maia of Manwë and Varda
+|gender = Male 
+|hair = Grey, later white
+|eyes = Blue
+|birth = Before the Shaping of Arda
+|death = January 25, [[3019]], [[Battle of the Peak]] (physical death only, resurrected); [[Immortal]]
+|weapon = [[Glamdring]],<br>[[Narya]],<br>[[Wizard staff]]
+|actor = [[Sir Ian McKellen]] (LOTR Trilogy)
+Victor Kostetskiy (Khraniteli)
+|voice = [[John Huston]] (animated films);<br>[[Michael Hordern]] (BBC's radio series);<br>[[Tom Kane]] (video games)
+}}
+{{Title|image=Gandalf tengwar.png}}
+{{Quote|He wore a tall pointed blue hat, a long grey cloak, and a silver scarf. He had a long white beard and bushy eyebrows that stuck out beyond the brim of his hat.|''[[The Fellowship of the Ring (novel)|The Fellowship of the Ring]],'' "[[A Long-expected Party (chapter)|A Long-expected Party]]"}}
+'''Gandalf''' ([[Old Norse|Norse]]; [[IPA chart for English|IPA]]: {{IPA|[gand:alf]}})''' the Grey''', later known as '''Gandalf the White''', and originally named '''Olórin''' ([[Quenya]]; [[IPA charts|IPA]]: {{IPA|[oˈloːrin]}}), was an ''[[Wizards|Istar]]'' (Wizard), dispatched to [[Middle-earth]] in the [[Third Age]] to combat the threat of [[Sauron]]. He joined [[Thorin II Oakenshield|Thorin]] and [[Thorin and Company|his company]] to reclaim the [[Lonely Mountain]] from [[Smaug]], helped form the [[Fellowship of the Ring (group)|Fellowship of the Ring]] to destroy the [[One Ring]], and led the [[Free Peoples]] in the final campaign of the [[War of the Ring]].
+
+== History ==
+=== Years of the Lamps ===
+[[File:Olorin_or_gandalf_maia_by_annie_claudine.jpg|thumb|250px|left|Gandalf as a Maia named ''Olórin'' before leaving the Undying Lands (by [https://www.deviantart.com/annie-claudine Annie Claudine])]]
+Originally called ''Olórin'', he was accounted as the wisest of the [[Maiar]] (with the possible exception of [[Melian]]). He was created by [[Eru Ilúvatar|Ilúvatar]] before the [[Music of the Ainur]]<ref>''[[The Silmarillion]]'', "Ainulindalë: The Music of the Ainur"</ref>, and was at the beginning of Time amongst the [[Ainur]] who entered into [[Eä]].<ref>''[[The Silmarillion]]'', "Valaquenta: Account of the Valar and Maiar According to the Lore of the Eldar"</ref> In his "youth", he became one of the Maiar who served [[Manwë]], [[Varda]], [[Irmo]] and [[Nienna]]. He was associated with light and fire, much like his peer Varda.<ref name=silmarillion>''[[The Silmarillion]]'', "Valaquenta: Of the Maiar"</ref> Yet his ways often took him to Nienna, from whom he learned pity and patience. He loved the [[Elves]], but he walked unseen among them, or wore a fana that appeared like an Elf, and sent them fair visions in their hearts that made them wiser. Throughout his existence, he followed the example of Nienna, he took pity on the sorrows of the [[Children of Ilúvatar]] and drove those who listened to him out of despair.<ref name=silmarillion/>
+
+When the [[Valar]] decided to send the order of the Istari (also known as ''Wizards'') to Middle-earth, to counsel and assist all those who opposed the Dark Lord Sauron, Manwë and Varda decided to include Olórin among the five who were sent. At first, Olórin was nervous and described himself as too weak and too afraid of Sauron. Manwë understood, and told him that was one main reason why he should go - to overcome that fear. Furthermore, the One Ring, which held much of Sauron's power, presumably still existed somewhere. Thus, Manwë insisted that Olórin should go as the third, but Varda convinced him to have Olórin go as the second instead.<ref name="istari">''[[The Silmarillion]]'', "[[The Istari (chapter)|The Istari]]"</ref> He agreed, and prepared for his departure from the [[Undying Lands]] with the other four, arriving about the same time the [[Sauron|Necromancer]] appeared in [[Mirkwood]].
+
+=== Third Age ===
+==== Arrival in Middle-earth ====
+[[File:Gandalf_is_received_by_Cirdan.jpg|thumb|276x276px|Gandalf is received by Cirdan]]
+Olórin, like the other Wizards, took the shape of an old man. He was robed in grey and went about as a wanderer and counsellor. At [[Grey Havens|Mithlond]] he was welcomed by [[Glorfindel]], his friend from Valinor (who had been sent earlier on a similar mission), and [[Círdan]] the shipwright, who possessed [[Narya]], one of the [[Rings of Power#The Three|Three Elven]] [[Rings of Power]]. Círdan divined in Olórin a sense of strength and power despite his appearance as a bent and aged old man. Círdan gave Narya to Olórin with a prediction of his future struggles with evil, and a promise that it would support and aid him in his labours.<ref name=appendixb>''[[The Lord of the Rings]]'', [[Appendix B]]: The Tale of Years (Chronology of the Westlands), "The Third Age"</ref>
+
+He then began his sojourn in Middle-earth and during many years, he walked among the elves as a stranger, learning from them and teaching them. Unlike [[Saruman]], Olórin did not take up a single permanent residence and never went to the east<ref>"To the East I go not"</ref>, apparently restricting his activities to the Westlands of Middle-earth, where the remnants of the [[Dúnedain]] and the [[Elves|Eldar]] remained to oppose Sauron. He was known by many names during the long years he wandered: Elves named him ''Mithrandir'', the "Grey Pilgrim", while the men of [[Arnor]] named him ''Gandalf'', which became his most common name. He was also known as ''Incánus'' (in the south), and ''Tharkûn'' to the [[Dwarves]].<ref name=istari/> He later revealed himself as one of the Istari, and eventually became known as not only the wisest but also the most powerful individual in that order.
+
+A legend says that Gandalf was given by [[Yavanna]] the [[Elfstone]] of [[Eärendil]], to bring to the peoples of Middle-earth as a token that the [[Valar]] had not forsaken them. He gave it to [[Galadriel]], bearer of [[Nenya|one]] of the Three Elven Rings and mighty among the Eldar, remarked prophetically that she would in turn pass it to an individual who would also be called [[Aragorn II Elessar|Elessar]].<ref>''[[Unfinished Tales]]'', "The History of Galadriel and Celeborn"</ref>
+
+==== Reemergence of the [[Necromancer]] ====
+[[File:Gandalf_investigating_Dol_Guldur.jpg|thumb|left|250px|Gandalf investigating Dol Guldur]]
+Around year [[TA 1100]], the Istari and Eldar discovered that some evil entity resided in at [[Dol Guldur]] in [[Mirkwood]]; while some thought a [[Nazgûl]] had returned to torment the world, or some new evil was arising, Gandalf began to suspect that perhaps [[Sauron]] himself might have returned.<ref name=appendixb/><ref name=RPTA>''[[The Silmarillion]]'', "Of the Rings of Power and the Third Age"</ref> As in the next two hundred years, evil continued to grow and spread, as well as the source directing it. Gandalf went to Dol Guldur in [[TA 2063]] to discover its secret.<ref name=appendixb/> However, the Necromancer fled upon Gandalf's arrival, preventing Gandalf from identifying him.<ref name=RPTA/> After Gandalf's incursion, the evil there seemed to desist, and its absence allowed for some centuries of calmness.<ref name=RPTA/>
+
+That peaceful period was known as the [[Watchful Peace]] and lasted for almost four hundred years, but the Nazgûl had used this period to prepare for Sauron's return, in [[TA 2460]].<ref name=appendixb/> Realising the returning evil, [[Galadriel]] formed and reunited the [[White Council]] three years later composed of four members: herself, Gandalf, Saruman, and [[Elrond]] the Half-elven (who was the bearer of [[Vilya|another]] of the Three Rings). Galadriel wished Gandalf to be the chief of the Council, but he refused the position, wishing to set down no roots and to maintain his independence; Saruman took this place instead because of his vast knowledge and skill.<ref name=RPTA/> However, he later grew jealous and afraid of Gandalf,<ref name=appendixb/> which was one of the reasons for his future betrayal.
+[[File:The_Hobbit_-_Gandalf_giving_a_fireworks_display.png|thumb|250px|Gandalf giving a fireworks display at Old Took's party in the Shire]]
+During his wanderings in [[Eriador]], Gandalf met and befriended the isolated and secretive people of the [[Hobbits]] in their country, the [[Shire]]. During the [[Long Winter]] of [[TA 2758]] Gandalf came to their aid.<ref name=appendixb/> It was then when he witnessed and admired the pity and courage that the humble Hobbits reserved in their hearts.<ref name=questerebor>''[[Unfinished Tales]]'', "The Quest of Erebor"</ref> 
+He then passed onward but nevertheless would return to visit the Shire occasionally and participate in the Midsummer-eve parties of the [[Old Took]], where he impressed young Hobbits with his [[Gandalf’s Fireworks|fireworks]], and his stories about [[Dragons]], [[Goblins]] and princesses.<ref name="questerebor" /> He was thus known to be "responsible for so many quiet lads and lasses going off into the Blue for mad adventures". He also met a relatively adventurous Hobbit named [[Bilbo Baggins]], although he was in fact far from "adventuresome."<ref name="thehobbit">''[[The Hobbit]]'', "An Unexpected Party"</ref>
+[[File:Gandalf finds Thrain.jpg|thumb|left|250px|Gandalf finds Thrain in the dungeons of Dol Guldur]]
+When King [[Thráin II]], a dwarf of the royal line of [[Lonely Mountain]], disappeared on journey to [[Lonely Mountain|Erebor]], Gandalf looked for him. At some point after [[TA 2845]] he entered the abandoned city of [[Khazad-dûm]] during this search. After this proved to be in vain, the Wizard exited through the [[Doors of Durin]]; however this experience did not help him know how to open the doors from the outside.<ref>''[[The Lord of the Rings]], [[The Fellowship of the Ring]]'', "A Journey in the Dark"</ref> In [[TA 2850]], his quest led him once more to Dol Guldur, this time in secrecy.<ref name="appendixb" /> He found Thráin in the dungeons, who gave the Wizard his last possessions, the [[Thrór's Map|map]] and [[Key to the Side-door|key]] to Erebor.<ref>''[[The Lord of the Rings]]'', [[Appendix A]], "Durin's Folk"</ref> Most importantly, he found out that the Necromancer was not a Nazgûl – it was Sauron himself, and he had taken the last of the [[Seven Rings]] from the Dwarf King; Sauron was gathering the remaining Rings of Power and possibly searching for his lost One Ring.
+[[File:12wc.jpg|thumb|250px|The White Council meeting on the question of Dol Guldur]]
+Gandalf escaped Dol Guldur and returned to the White Council.<ref name="RPTA" /> After relating his discoveries, he urged the council to attack Sauron while the One Ring was still lost and while Sauron's power was not yet beginning to be restored . But Saruman said that it was better to watch and wait; that the One Ring had long ago rolled from [[Anduin]] to the [[Sea]]. The majority of the council agreed with Saruman. [[Elrond]] later privately told Gandalf he had a foreboding that the Ring would be found, and that the war to end the Age was coming. Indeed, Elrond added, he feared that it would end in darkness and despair. Gandalf encouraged him, saying there were many "strange chances," and that, "help oft shall come from the hands of the weak". Gandalf did not yet realise that Saruman now wanted the Ring for himself and was secretly searching for it along the banks of river Anduin.
+
+As time went on, the wizard became increasingly troubled by his knowledge of Sauron's resurgent strength. He knew that Sauron was already plotting war from Dol Guldur, and that as soon as he felt strong enough, he would attack [[Rivendell]]. Unfortunately, the only power left besides Rivendell to resist an attempt from [[Mirkwood]] to regain the lands of [[Angmar]] were the isolated Dwarves of the [[Iron Hills]].
+
+==== Quest of Erebor ====
+{{Main|Quest of Erebor}}
+===== Conception of a plan =====
+Over the years, Gandalf became concerned about the weak state of the North. [[Smaug]] the Dragon had destroyed both the [[Kingdom under the Mountain]] and the town of [[Dale]], and the wizard feared that Sauron might use the desolation around [[Lonely Mountain|Erebor]] to regain the northern passes in the mountains and the old lands of [[Angmar]]. Gandalf knew that exiled Dwarf King of [[Durin's Folk]], [[Thorin II Oakenshield]], planned to battle against Smaug, but he knew that it would not be enough. In [[TA 2941]],<ref name="appendixb" /> while staying the night in [[Bree]], Gandalf happened across the Dwarf King.<ref name="questerebor" /> Thorin initiated conversation; he had been having a strange feeling urging him to seek Gandalf. The same was intrigued, for he had thought to seek Thorin as well. They found they were taking the same road for a while (Thorin passing through the Shire on his way to the [[Blue Mountains|Ered Luin]]), and they agreed to travel together. Thorin wanted advice, and Gandalf in turn wanted to discuss the Dragon Smaug with Thorin.
+
+Ultimately, Gandalf concocted a plan wherein Thorin could destroy Smaug and recover his family fortune, albeit with a "burglar" of Gandalf's own choosing.
+
+===== Leading the company =====
+[[File:Come_with_me_.jpg|thumb|250px|left|Gandalf invites Bilbo Baggins on an adventure]]
+Feeling that a Hobbit should be involved, Gandalf remembered Bilbo Baggins. At first he found only [[Holman Cotton]] as Bilbo had left on the occasion of the Elven new year, something that persuaded Gandalf that Bilbo was the right person for the job.<ref name="questerebor" /> He visited Bilbo later, bringing along the kinsmen of Thorin.<ref name="thehobbit" /> In the end, Gandalf convinced the reluctant Baggins to become a burglar for Thorin. Gandalf then accompanied [[Thorin and Company]] to Rivendell. During the journey Gandalf was instrumental in saving the travellers' lives from several calamities. He saved them from a trio of [[Stone-trolls]], and later obtained the legendary sword [[Glamdring]] from their [[Troll]]-hoard; Gandalf bore it thenceforth.<ref name="mutton">''[[The Hobbit]]'', Chapter II: "[[Roast Mutton]]"</ref>
+
+He also helped Thorin and Company through the [[Misty Mountains]]; when unknowingly they camped in the [[Front Porch]] of the [[Goblin-town]], the same captured the whole company except Gandalf, who surprised them much later, killing the [[Great Goblin]] and then leading the Dwarves to the [[Back-door|exit]].<ref>''[[The Hobbit]]'', "Over Hill and Under Hill"</ref> It was during this time that Bilbo obtained a "[[One Ring|magic ring]]".<ref>''[[The Hobbit]]'', Chapter V: "[[Riddles in the Dark]]"</ref> Bilbo initially claimed he "won" it from the creature "[[Gollum]]" while the company was under the Misty Mountains.<ref name="fryingpan">''[[The Hobbit]]'', "Out of the Frying-Pan into the Fire"</ref> The Ring conferred invisibility on Bilbo when he wore it, and he kept it secret from Gandalf for some time.
+
+On their escape out, the Company was saved by the [[Eagles]] of the Misty Mountains; Gandalf once had healed the Great Eagle from a poisoned wound, and thenceforth they became friends. The Eagles picked them up to their [[Eagle's Eyrie|eyrie]], and the next day they dropped them off on the [[Carrock]].<ref name="fryingpan" />
+
+===== Pressing Business =====
+Gandalf then sought the hospitality of [[Beorn]], persuading him to welcome and host the whole Company in his hall. But then he left the quest prior to its completion; after leading the Company to the outskirts of the [[Forest Gate]], he gave them some final advice (but little did he know that the lands had changed by then) before they'd enter [[Mirkwood]], and went to attend other obligations.<ref>''[[The Hobbit]]'', "Queer Lodgings"</ref><ref>''[[The Hobbit]]'', Chapter VIII: "[[Flies and Spiders]]"</ref> The [[White Council]] had met under the gravest of circumstances: Sauron's vast power was returning, even without his Ring. Gandalf at last convinced the Council to attack [[Dol Guldur]], to which even [[Saruman]] agreed (as by now he feared Sauron as a rival, and wished to delay his search for the Ring). Gandalf joined his peers in assailing Dol Guldur, ridding Mirkwood of the Necromancer's presence, who fled to [[Mordor]] to his long-prepared stronghold of [[Barad-dûr]].<ref>''[[The Lord of the Rings]]'', Appendix B, "The Third Age"</ref> When he was about to finish his task, news about what happened to Thorin's Company in Mirkwood reached him, and realised that the instructions he gave did not help them; they had lost their way, and then vanished due to the encounter with the [[Silvan Elves|Wood-elves]], who had captured them. He was anxious to get back to them as soon as possible.<ref>''[[The Hobbit]]'', "A Warm Welcome"</ref>
+
+===== The Battle of Five Armies =====
+[[File:Gandalf_fighting_at_Battle_of_the_Five_Armies.jpg|thumb|left|250px|Gandalf fighting at the Battle of Five Armies]]
+Meanwhile Thorin's quest was successful: Erebor was retaken and Smaug was killed,<ref>''[[The Hobbit]]'', "Fire and Water"</ref> but when Gandalf finally arrived to the area, he found the [[Dwarves]] of [[Lonely Mountain|Erebor]] and the [[Iron Hills]] preparing for an attack by the [[Lake-men]] and the Elves of Mirkwood. He was with [[Bard]] and [[Thranduil]] and thus revealed his presence, trying to reason with Thorin. When the attack was beginning, Gandalf halted them, to warn that the [[Orcs]] and [[Wargs]] were coming to claim the treasure. He invited [[Dáin II Ironfoot|Dáin Ironfoot]] for council, and soon Dwarves, Elves and Men formed an alliance, and defeated the Orcs of the Misty Mountains in the [[Battle of Five Armies]].<ref>''[[The Hobbit]]'', "The Clouds Burst"</ref>
+
+King Thorin was mortally wounded and after his funeral and the reestablishment of Erebor under Dáin, Bilbo and Gandalf followed their way back; they celebrated [[Yule]] at Beorn's, and then returned to Rivendell, where he discussed with Elrond the events of Dol Guldur and the Lonely Mountain. Gandalf had accomplished his immediate goal, which was to destroy Smaug, since he could have been used to disastrous effect by Sauron. A large number of Orcs and Wargs also were killed in the North, removing threats to Rivendell and Lothlórien.<ref name="questerebor" /> The two still both agreed that it would be better if the Necromancer were banished from the world altogether.<ref name="laststage">''[[The Hobbit]]'', Chapter XIX: "[[The Last Stage]]"</ref>
+
+As Gandalf and Bilbo passed by the site of their former encounter with the stone-trolls, they made sure to recover the gold of the troll-hoard they had buried before the Wizard left to perform other duties and Bilbo returned to the Shire.<ref name="laststage" /> Gandalf, for his part, found himself amazed by the Hobbit; until then, the Wise had paid no attention to Hobbits and knew little of them. For the rest of his sojourn in Middle-earth, Gandalf took a special interest in Hobbits, and particularly in the [[Baggins]] family.
+
+==== Return of the Shadow ====
+[[File:The_White_Council_last_reunion_by_Alan_Lee.jpg|250px|thumb|The White Council's last meeting, as illustrated by [[Alan Lee]]]]
+Despite the Council's hopes, Sauron was not weakened by this attack. He had foreseen the move that drove him from Mirkwood, and his retreat was but a feint. Ten years after the attack, Sauron declared himself openly in Mordor in [[TA 2951|2951]] and rebuilt his fortress of [[Barad-dûr]]. The White Council met for one last time in [[TA 2953|2953]] to debate about the Rings of Power. Saruman quieted his peers claiming to have the knowledge that the One Ring was lost in the [[Belegaer]]. After their meeting, Saruman, jealous and afraid of Gandalf, set spies to watch all his movements; this would affect the peaceful Hobbits, as Saruman thus discovered the existence and noted Gandalf's interest in the Shire, and started sending agents to [[Bree]] and the [[Southfarthing]].<ref name="appendixb" />
+
+In [[TA 2956|2956]], Gandalf met [[Aragorn II Elessar|Aragorn]], the hidden [[Heir of Isildur]], and soon became friends with him. From that point on Aragorn and Gandalf often worked together towards a common end - the defeat of Sauron.
+
+===== Return to the Shire=====
+During this period Gandalf visited the Shire frequently, especially his friend Bilbo Baggins, and his younger nephew, [[Frodo Baggins|Frodo]]. He noted Bilbo's unusual youthfulness, despite his advancing age; the suspicious "magic [[One Ring|ring]]" that Bilbo had acquired during his adventure began to weigh on his mind. Gandalf recalled the deceit Bilbo used in originally claiming it for his own -- Bilbo had later admitted to stealing it from Gollum. Gandalf could see that Bilbo was now very preoccupied with the ring and had begun to suspect that the same was indeed a ring of power. Such un-hobbitlike behaviour aroused his suspicions.
+
+[[File:GandalfReturningShire.png|thumb|left|250px|Gandalf returning to the Shire]]
+In [[TA 3001|3001]], Bilbo planned what would become known as his [[Bilbo's Farewell Birthday Party|Farewell Birthday Party]], and at the culmination of the hobbit's speech, Bilbo put on the mysterious ring and disappeared, as a joke on his neighbours. Later as he was bidding farewell to Gandalf, who had known about his plans to leave, Bilbo began to change his mind about leaving his ring to Frodo, as he had earlier agreed. When Gandalf tried to persuade him to leave it, Bilbo became hostile and accused Gandalf of trying to steal the ring for his own benefit, which he referred to as his "precious." Horrified by Bilbo's outburst, Gandalf stood to his full height and projected his power, frightening the hobbit. This brought Bilbo back to his senses; he apologised, admitted that the Ring had been troubling him lately, and left it behind. Bilbo and Gandalf bid each other goodbye before Bilbo left the Shire for his journey.<ref>''[[The Lord of the Rings]], [[The Fellowship of the Ring]]'', Book One, Chapter II: "[[The Shadow of the Past]]"</ref> Before leaving the Shire, he spoke with Frodo and emphatically warned Frodo not to use the Ring.<ref>''[[The Lord of the Rings]], [[The Fellowship of the Ring]]'', Book One, Chapter I: "[[A Long-expected Party]]"</ref>
+
+===== One Ring's Search =====
+[[File:Gandalf.manuscripts.png|thumb|250px|Gandalf seeking answers in Minas Tirith]]
+Keen now to find out more about [[Gollum]], he sought Aragorn's help to capture him. Studying the records in [[Minas Tirith]], he found the Scroll of [[Isildur]] and pieced together the missing history of the One Ring. In [[TA 3017]] on his way back to the Shire he got word from the [[Galadhrim]] that Aragorn had finally captured Gollum and he went to Mirkwood to meet him. For days he interrogated him in order to verify what he already suspected. A great fear came over him when he learned that Gollum had been to the Tower of Barad-dûr. Sauron had tortured Gollum and learned not only of the "magic ring", but also the names "Shire" and "Baggins". Gandalf left Mirkwood soon after, and left Gollum with the [[Silvan Elves|Wood-elves]] of Northern Mirkwood.<ref name="appendixb" /> He now returned in haste to the Shire, certain that Frodo's ring was not simply a ring of power: it was the [[One Ring|One Ruling Ring]] of Sauron.
+
+==== War of the Ring ====
+{{Main|War of the Ring}}
+[[File:Gandalf_telling_Frodo_bout_the_Ring.png|thumb|left|250px|Gandalf telling Frodo of the One Ring]]
+Upon returning to the Shire, Gandalf immediately went to Frodo and confirmed his suspicions by throwing the Ring into Frodo's hearth fire, which revealed, in [[Black Speech]], the inscription upon the ring. Gandalf then told a dumbfounded Frodo about the One Ring and its history, and how Sauron would seek to regain it. Instructing Frodo to go to [[Rivendell]] with the ring, Gandalf told him to make arrangements to leave the Shire quietly.
+
+While in the Shire, he had a sense of foreboding; in the aftermath of [[Sauron's assault on Osgiliath]], Gandalf heard disturbing news about war in [[Gondor]] and a Black Shadow. He started wandering around [[Eriador]], hearing news from the refugees who had a fear they could not speak about, until he met [[Radagast|Radagast the Brown]] who brought a message from Saruman that he must seek him at once; and a warning that the [[Nazgûl|Ringwraiths]] were looking for the Shire.<ref name="council" /> He went to the [[Prancing Pony]] at Bree. Believing that he would not be able to return to Frodo in time, he wrote a letter, urging him to move as soon as possible for Rivendell, and seek a "Strider" whose real name was Aragorn, along with a riddle to identify him; Gandalf would then try to catch up with them when available. He also instructed [[Barliman Butterbur]] to send the letter to [[Hobbiton]] and to expect a Mr. Baggins that would come under the name of "Mr. Underhill". He left the inn, but Barliman would forget to send the letter.<ref>''[[The Lord of the Rings]], [[The Fellowship of the Ring]]'', Book One, Chapter X: "[[Strider (chapter)|Strider]]"</ref>
+
+===== Saruman's betrayal =====
+Soon thereafter Gandalf arrived at [[Isengard]]. At their meeting, [[Saruman]] at last revealed his desire for the One Ring. He offered to his "old friend and helper" that they take the Ring for themselves and seize power from [[Sauron]]. Gandalf rejected this with horror, and was imprisoned by Saruman on the pinnacle of [[Orthanc]]. [[Gwaihir]], chief of the Eagles, soon arrived and helped Gandalf escape. Gwaihir's real purpose for visiting Orthanc was to report a sighting of the Nazgûl, as Radagast had appealed to him to do so earlier on. Gandalf knew he must return quickly to the Shire, as Frodo (and the ring) were in grave danger from both Sauron's Nazgûl and now Saruman's treacherous desire for the ring.
+
+===== Journey to Rivendell =====
+Gandalf hurriedly went to [[Rohan]], desiring to find a strong steed; there he obtained [[Shadowfax]] from [[King Théoden]], who later resented the gift. This lord of horses and Gandalf forged a special bond, and Gandalf made quick use of Shadowfax's incredible strength and endurance.
+
+Gandalf sped to the Shire. Fortunately, Frodo had already left the Shire without waiting for Gandalf, and was seeking the refuge of Rivendell. Upon arrival Gandalf learned that the [[Nazgûl]], arrayed as Black Riders, had been searching the area. Dismayed, he set out for Bree; Barliman apologised to Gandalf for forgetting to send the letter, worried that the hobbits had left with Strider, the suspicious [[Rangers of the North|Ranger]]. But for Gandalf this was a hope which far exceeded his expectations. After congratulating a puzzled Barliman, and blessing his beer, Gandalf then made for [[Weathertop]], a high point in the region, to observe the surrounding area.
+
+[[File:Ted_Nasmith_-_Fire_on_Weathertop.jpg|thumb|left|280x280px|Gandalf fighting the Nazgûl, as illustrated by [[Ted Nasmith]]]]
+There he was assaulted at night by the Nazgûl, but drove them off after a great battle of light and flame. These phenomena were seen by Aragorn and the hobbits from afar, without knowing it was Gandalf. Before leaving, he marked some stones with the [[Cirth|certh]] G for them to find.
+
+Several days later, Frodo, Aragorn, and company stayed at Weathertop and were confronted by the remaining five Nazgûl. Despite their escape, Frodo was stabbed in the process by the [[Witch-king of Angmar|Lord of the Nazgûl]] with a [[Morgul-knife]].<ref>''[[The Lord of the Rings]], [[The Fellowship of the Ring]]'', Book One, Chapter XI: "[[A Knife in the Dark]]"</ref> Gandalf was able to evade the four Nazgûl and successfully reach [[Rivendell]] and was welcomed by [[Glorfindel]] However, several days later, an injured Frodo arrived at the [[Ford of Bruinen]], though the Nazgûl pursued him all the way there. Gandalf, along with [[Elrond]], saved Frodo from the Nazgûl by enchanting the water and sweeping them away.<ref>''[[The Lord of the Rings]], [[The Fellowship of the Ring]]'', Book One, Chapter XII: "[[Flight to the Ford]]"</ref>
+
+===== Forming of the Fellowship =====
+Elrond called a [[Council of Elrond|council]] after Frodo was healed to consider the momentous decision regarding the ring. There Gandalf explained to the others how Saruman had imprisoned him and how the White Wizard was creating his own army of orcs to rival Sauron's.<ref name="council">''[[The Lord of the Rings]], [[The Fellowship of the Ring]]'', Book Two, Chapter II: "[[The Council of Elrond (chapter)|The Council of Elrond]]"</ref> By chance, representatives of most of the free peoples happened to be in Rivendell already for various reasons. Elrond and Gandalf advised that the Ring should be destroyed in the fires of [[Mount Doom]], where it was made. Others dissented or objected, but eventually submitted to Gandalf's plan. Ultimately, Elrond appointed the [[Fellowship of the Ring (group)|Fellowship of the Ring]] as nine walkers, numerically set against Sauron's nine Nazgûl. The relatively small number reflected the realisation by Elrond and the other council members that the [[Quest of the Ring|Quest]] of Mount Doom would not rely upon strength of arms, but on stealth and good fortune. Gandalf was chosen to lead the company, which included Aragorn, [[Boromir]], [[Legolas]] the Elf, [[Gimli]] the Dwarf, and the hobbits Frodo, [[Samwise Gamgee]], [[Peregrin Took]], and [[Meriadoc Brandybuck]].
+
+[[File:Gandalf leading the Fellowship.png|thumb|383x383px|left|Gandalf leading the Fellowship through Eregion|alt=]]
+Several obstacles stood in the company's way. The vast [[Misty Mountains]] had to be crossed, for Gandalf was determined not to lead the company near Isengard. Gandalf decided to take a southern route to the [[Caradhras|Redhorn Pass]] and there to cross the Misty Mountains near Caradhras, thereby traversing the mountain range and avoiding Isengard. When this attempt failed due to a terrible storm he then decided to take the Fellowship through the ruins of [[Khazad-dûm|Moria]], where the remains of the great Dwarf city of Khazad-dûm was now a labyrinth of abandoned tunnels under the mountains. Others in the company were loathe enter the maze, as it was now the lair of Orcs and something known only as "[[Durin's Bane]]".
+
+===== Fall in Mines of Moria =====
+At the [[Doors of Durin]] on the west side of the mountains, Gandalf, after some delay, spoke the password and led the company into the dark. Having been in Moria on an earlier perilous errand, he was somewhat familiar with the underground passages. Eventually the party came to the [[Chamber of Mazarbul]], where Gandalf read the [[Book of Mazarbul|Book of Records]], which revealed the fate of [[Balin]], the leader of an ill-fated attempt to re-colonise Moria. Soon after, the party was attacked by Orcs, and forced to flee the chamber. By then Gandalf was well aware of their location, and he led the party quickly towards the eastern exit.
+
+{{Blockquote|You cannot pass," he said. The orcs stood still, and a dead silence fell. "I am a servant of the Secret Fire, wielder of the flame of Anor. You cannot pass. The dark fire will not avail you, flame of [[Utumno|Udûn]]. Go back to the Shadow! You cannot pass.|''[[The Lord of the Rings]], [[The Fellowship of the Ring (novel)|The Fellowship of the Ring]],'' Book II, Chapter 5: "The Bridge of Khazad-dûm"}}
+
+[[File:Gandalf_confronts_balrog.jpg|thumb|280x280px|left|Gandalf and the Balrog]]
+Unfortunately Durin's Bane caught up to the group at the [[Bridge of Khazad-dûm]]. Gandalf and Legolas immediately realised what it was: a [[Balrog]] of [[Melkor|Morgoth]], a servant of the first [[Dark Lord]]. In a spectacular display of bravery Gandalf faced the demon and broke the bridge both stood upon, leaving the beast to fall into a seemingly bottomless chasm. But the Balrog's whip lashed out, and grasped Gandalf by the knees, causing him to fall into the pit. While falling, Gandalf shouted "Fly, you fools" and vanished into the abyss.<ref name="bridge">''[[The Lord of the Rings]], [[The Fellowship of the Ring]]'', Book Two, Chapter V: "[[The Bridge of Khazad-dûm]]"</ref>
+
+[[File:Battle_of_the_Peak_-_Two_Towers.png|thumb|250px|Gandal battling the Balrog on Durin's Tower]]
+Yet Gandalf did not die; he and the Balrog fell for a long time, and the wizard was burned by the Balrog's fire. Then they plunged into a deep lake in the depths of the mountain, which Gandalf later said was cold as the tide of death and almost froze his heart. They fought in the water until finally the Balrog fled into dark tunnels, where the world was gnawed by nameless things, older even than Sauron. Gandalf pursued the creature until it led him to the spiralling [[Endless Stair]], and they climbed it until they reached [[Durin's Tower]] in the living rock of [[Zirakzigil]], the pinnacle of the Silvertine above the clouds. There they [[Battle of the Peak|fought]], until at last Gandalf threw down his enemy, and the Balrog broke the mountain-side as it fell. Then darkness took Gandalf, and he passed away. His body lay on the peak. The entire battle, from the confrontation on the Bridge of Khazad-dûm to the mutual demise of the Balrog and Gandalf, had taken ten days.
+
+===== Resurrection =====
+{{Blockquote|Then darkness took me, and I strayed out of thought and time, and I wandered far on roads that I will not tell... Naked I was sent back – for a brief time, until my task is done. And naked I lay upon the mountain-top. … There I lay staring upward, while the stars wheeled over, and each day was as long as a life-age of the earth.|''[[The Two Towers (novel)|The Lord of the Rings, The Two Towers]],'' Book Three, Chapter V: "The White Rider"}}But Gandalf's spirit did not depart Middle-earth forever at this time. As the only one of the five Istari to stay true to his errand, Olórin/Gandalf was sent back to mortal lands by [[Eru Ilúvatar|Eru]], and he became Gandalf once again. Yet, as he was now the sole emissary of the [[Valar]] to Middle-earth, he was granted the power to "reveal" more of his inner [[Maiar]] strength. This naked power that lay within him was seldom used during the remainder of his time in Middle-earth, as his mission was essentially the same: to support and succor those who opposed Sauron. Nevertheless, when Gandalf's wrath was kindled his "unveiled" strength was such that few of Sauron's servants could withstand him.
+
+Three days later he was found by the windlord Gwaihir, [[Lord of the Eagles]], who had been sent by Galadriel to find him. Gandalf was carried to [[Caras Galadhon]] in [[Lothlórien]], where he was healed, given a new staff, and clothed in white, and thus became Gandalf the White. He soon learned that Frodo and Sam had left the Fellowship and were attempting the quest of Mount Doom alone.
+
+===== War in Rohan =====
+[[File:Gandalf Rohan.png|thumb|250px|left|Gandalf confronting Théoden, controlled by Saruman]]
+As Frodo was beyond his assistance now, Gandalf promptly went south to [[Fangorn Forest]], where he met the Three Hunters, Aragorn, Legolas, and Gimli, and gave them messages from Galadriel. Then he called forth Shadowfax, and rode with them to [[Edoras]]. There he found that Saruman's spy [[Gríma Wormtongue]] had deceived King [[Théoden]] into hopeless impotence. Gandalf quickly deposed Wormtongue and encouraged Théoden to ride west to war against Saruman. Gandalf by now was keenly aware that the great war to end the age was beginning; if Saruman conquered [[Rohan]] then [[Gondor]] would be alone with enemies on all sides.<ref>''[[The Lord of the Rings]], [[The Two Towers]]'', Book Three, Chapter V: "[[The White Rider]]"</ref><ref name="golden">''[[The Lord of the Rings]], [[The Two Towers]]'', Book Three, Chapter VI: "[[The King of the Golden Hall]]"</ref>
+
+{{Blockquote|Keep well the Lord of the Mark, till I return. Await me at Helm's Gate. Farewell!|Gandalf to Aragorn and Éomer and the men of the king's household}}
+[[File:Gandalf the White returns.png|thumb|250px|Gandalf the White returns, at Helm's Deep]]
+At Gandalf's encouragement King Théoden went west to the [[Hornburg]] where he was quickly besieged; Gandalf then searched for [[Erkenbrand]] and the scattered forces of the [[Westfold]], which he later found and led to the Deep, thus breaking the siege. Meanwhile, the [[Ents]] (along with the Hobbits Merry and Pippin) moved against Saruman and sent [[Huorns]] against the Orcs, resulting in the utter ruin of the outer walls of Isengard and the complete annihilation of Saruman's Orcs. After the battle, Gandalf went to [[Orthanc]] with Théoden, Aragorn, and a small group. There Saruman rejected Gandalf's offer of forgiveness with contempt. Gandalf then broke Saruman's staff and cast him from the Istari Order and the White Council. Gandalf imposed a strict watch on Isengard by the Ents and then advised King Théoden to ride to Gondor's defence as soon as possible. The wizard's mind had already turned to Gondor and the coming climactic battle in the east.<ref>''[[The Lord of the Rings]], [[The Two Towers]]'', Book Three, Chapter VII: "[[Helm's Deep (chapter)|Helm's Deep]]"</ref>
+
+===== Siege of Gondor =====
+[[File:Gandalf_save_the_Gondor_Army.jpg|thumb|250px|left|Gandalf saves the Osgiliath force]]
+As a 'reward' for Pippin, who had foolishly gazed into a [[palantír]], Gandalf took the Hobbit with him to [[Minas Tirith]], the last bastion of the west. Soon after arriving, Gandalf confronted [[Denethor II]], the Ruling [[Stewards of Gondor|Steward]], and learned that he was near despair over the death of his eldest son, Boromir. Pippin entered the Steward's service in payment of the debt that he and Merry owed, the death of Boromir. Ostensibly they were allies, but the Steward treated Gandalf with disrespect and suspicion. When [[Faramir]], the Steward's younger son, returned from [[Osgiliath]] and was attacked by Nazgûl, Gandalf upon Shadowfax drove them away by revealing the power within him; later Faramir told him that Frodo and Sam were still alive and headed towards [[Mordor]].
+
+[[File:Witch_King_confronting_Gandalf.png|thumb|250px|Gandalf faces the Witch-king of Angmar]]
+Minas Tirith was soon besieged by a vast force from Mordor, led by the [[Witch-king of Angmar]]. Faramir having received a wound from a poisoned dart in the retreat from Osgiliath, lay near death inside the Tower. Still, Gandalf encouraged the men of Minas Tirith to have hope, and dispelled the fear of the Ringwraiths by his very presence. But Sauron's catapults hurled flaming bolts upon the city; soon the first circle of the city burned unchecked. Denethor now lost all heart as the city burned and his only remaining son hovered near death; he abandoned his leadership of the city. Gandalf then took it upon himself to direct the defense in cooperation with Prince [[Imrahil]] of [[Dol Amroth]]. When the gigantic ram [[Grond]] destroyed the [[Great Gate of Minas Tirith]], Gandalf placed himself alone at the ruined gateway. The [[Witch-king of Angmar|Witch-king]] then appeared in the midst of the blasted gate upon a black horse and threatened Gandalf with death; but Gandalf did not move — seated upon Shadowfax he defied the mightiest of Sauron's minions. However, the stand-off ended inconclusively, as the morning arrived along with the host of the Rohirrim. Hearing the horns of the Riders of Rohan, the Witch-king departed.
+
+But Gandalf did not pursue his foe, for Pippin brought him news that Denethor was about to commit suicide in the high tower, burning himself and his son Faramir on a pyre like the heathen Kings of old. Gandalf rushed to stop this madness and was able to save Faramir, but not Denethor, whose despair and grief had overcome his mind. Gandalf also learned how it was that Denethor's will had been broken: Denethor clutched a [[Palantíri|palantír]] in his hands as he burned. Clearly Denethor had been using the stone's special properties for some time — extending his vision far beyond those of men's eyes, but also wrestling in thought with Sauron. And even though Sauron could not completely overwhelm Denethor's mind, his courage was daunted by knowledge of the vast might of Mordor. Thus the shadow entered into the capital of Gondor.
+
+Nevertheless, and against all hope, the siege was broken. [[Éowyn]] of Rohan and the hobbit Merry defeated the Witch-king, whose last wail was heard by many as he was reduced to impotence. Soon after, Aragorn arrived with a large valour of men from the southern fiefs upon a captured pirate fleet from Umbar. The forces of the men of the west then utterly defeated Sauron's attack against Minas Tirith, relieving the city and killing virtually all of the invaders. Gandalf's carefully laid plans and words of wisdom, along with acts of heroism not seen since the elder days, had defeated Sauron's first move.
+
+===== The Fall of Sauron =====
+In Minas Tirith, Gandalf was selected by Aragorn, Imrahil, and [[Éomer]] (the [[Captains of the West]]) to be their leader in the coming final battles. This would be the culmination of Gandalf's efforts in Middle-earth. Fully aware that the west would stand or fall on the outcome of [[Frodo Baggins|Frodo]]'s mission, he advised the lords to launch an attack against the [[Black Gate|Morannon]], thereby drawing Sauron's eye away from Frodo's likely location. This plan surely would result in a catastrophic loss for the outnumbered army, but it gave Frodo a chance to achieve the quest of [[Mount Doom]].
+
+[[File:Gandalf;_The_White.jpg|thumb|250px|Gandalf in the final battle at the Black Gate of Mordor|left]]
+Led by Gandalf and Aragorn, the army of the West crossed the [[Anduin]] and marched north, pausing occasionally to announce their coming and to dispatch small numbers of men to lesser tasks. Upon arriving at the Black Gate, the forces halted and prepared for battle. As they ordered their companies, the foul [[Mouth of Sauron]] rode forth to parley with them; he revealed Frodo's [[Bilbo's Mithril shirt|mithril coat]] and [[Samwise Gamgee|Sam]]'s [[Barrow-blades|Barrow-blade]] and implied that their owner was captured and tortured. The emissary of Sauron then proposed that the forces of the west surrender; Gandalf however was undaunted, and, seizing his friend's belongings, rejected Sauron's offer. In shock, the Mouth of Sauron turned back towards the Black Gate, which slowly opened to reveal a vast army of Orcs and Trolls advancing on the lords of the west. Sauron's trap was sprung.
+
+Yet Sauron himself became the victim of Gandalf's trap. Unbeknownst to all, Frodo and Sam had succeeded in scaling Mount Doom and even as the [[Battle of the Black Gate]] began Frodo stood at the [[Cracks of Doom]]. But the power and lure of the Ring finally overcame his will and he placed the Ring upon his finger, claiming it as his own. Immediately the Nazgûl were summoned by their lord, as he in terror realised his blunder: his enemies intended to destroy his Ring.
+
+[[File:Gwaihir.jpg|thumb|250px|Gandalf with Gwaihir rescues Frodo and Sam]]
+But Gandalf's foresight proved accurate again as the creature Gollum, who had been doggedly following the Ring-bearer, seized the ring from Frodo, and, while celebrating his reunion with "his precious," unwittingly fell into the fires of Orodruin. The ring was unmade as the fiery mountain erupted. The tower of [[Barad-dûr]], the Black Gate and the [[Towers of the Teeth]] began to collapse, their foundations crumbling, the Ring-wraiths burned out like shooting stars, and Sauron was reduced to a mere shadow of malice, never to torment the world again. With Sauron gone, his forces scattered like frightened insects; the Men of the West now set upon them with fury. Gandalf announced the success of the Ring-bearer and the end of Sauron; the quest had been fulfilled. Seeing that victory was achieved, Gandalf then mounted on Gwaihir the Eagle for a third time, and set out to see if Frodo and Samwise had survived the tumults of Mount Doom. To his great relief, the two were found on the slopes of Orodruin, clinging to life amid the volcanic eruptions. The great quest was over.
+
+=== Fourth Age ===
+In Minas Tirith, Gandalf and the remaining members of the Fellowship reunited. At the [[Crowning of King Elessar|coronation]] of King [[Aragorn II Elessar|Elessar]], Gandalf (at Aragorn’s request) set the crown upon the King’s head, and declared "Now come the days of the King, and may they be blessed while the thrones of the [[Valar]] endure!". Thus Gandalf ushered in the new age of men. Not long after Gandalf led Aragorn to the High Hallow on the upper slopes of [[Mindolluin]] and there they found a sapling of the [[White Tree of Gondor]], a sign of the renewal that was to come.
+
+After the coronation and wedding of Aragorn to [[Arwen]], Gandalf left with the rest of the remaining Fellowship on the journey home. For Gandalf, it was his last long journey in Middle-earth. His errand to Arda had been fulfilled; Sauron had been defeated. He said farewell to his friends one by one until at last only the four Hobbits remained at his side. At the borders of the Shire he, too, turned away. He left the Hobbits to settle with the Shire, for the shattered pieces of evil still remaining in the world were no longer his concern, and went to talk to "moss gatherer" [[Tom Bombadil]].
+
+[[File:Into_the_west_.jpg|thumb|250px|Departing from Middle-earth|left]]
+What Gandalf did during the next two years is unknown; it is possible that his "long talk" with Bombadil was just that. At any rate, on [[September 29]] [[TA 3021|3021]], he met Frodo at Mithlond, ready to take the White Ship over the [[sea]] to [[Aman]]. He wore [[Narya]] openly on his finger, and Shadowfax was beside him (perhaps even to take ship with him). His mission was over, and his homecoming after more than 2000 years was nigh. He bade farewell to Samwise, Merry, and Pippin (the latter two of whom he had forewarned of the passage), then boarded the ship beside Frodo, Bilbo, Elrond, and was never seen again in Middle-earth.<ref>''[[The Lord of the Rings]], [[The Return of the King]]'', Book Six, Chapter IX: "[[The Grey Havens]]"</ref>
+
+The ship passed west upon the sea, and then took the hidden straight path to [[Valinor]]: Gandalf became Olórin once more. There, presumably, he dwells still in the gardens of [[Irmo]]. Olórin, the wisest of the Maiar and the sole Istar to remain true to his mission, had successfully kindled the hearts of the free people in Middle-earth to overcome the evil of their time. In a large way, it was his victory.
+
+== Etymology ==
+The name ''Gandalf'' means "Elf of the wand" or "Wand-elf", from old northern [[Mannish]].
+
+Within [[Tolkien Mythology|Tolkien's legendarium]], "Gandalf" is a mysterious name of the meaning "Wand-Elf" (alternatively cane/staff) in old northern Mannish. Most denizens of Middle-earth incorrectly assumed Gandalf was a [[Man]] (human), although he was really a Maia spirit (equivalent to an angel).
+
+The name ''Gandalf'' is originally from the "Dvergatal", a list of Dwarf-names found in the ''[https://en.wikipedia.org/wiki/V%C3%B6lusp%C3%A1 Völuspá] ''poem of Norse Mythology, from which the names of [[Thorin]] and his fellow Dwarves were also drawn.<ref>[[Tom Shippey]], ''[[J.R.R. Tolkien: Author of the Century]]'', "''The Hobbit'': Re-inventing Middle-earth", pgs. 15-16</ref>
+
+=== Other names ===
+*'''Olórin''', his name in Valinor and in very ancient times. It comes from the [[Quenya]] ''olor'' or ''olos'' ("dream").<ref name="etymology">''[[The History of Middle-earth]]'', Vol. V: ''[[The Lost Road and Other Writings]]'', Part Three: "[[The Etymologies]]"</ref> The name could also be spelled as ''Olorion''.<ref name="faramir">''[[The History of Middle-earth]]'', Vol. VIII: ''[[The War of the Ring (book)|The War of the Ring]]'', Part Two: The Ring Goes East, V: "Faramir"</ref>
+*'''Mithrandir''', his [[Sindarin]] name, used in [[Gondor]] and by the Elves. It means "Grey Pilgrim", from the [[Sindarin]] ''mith'' ("grey") and ''ran'' ("wander") or ''rhandir'' ("pilgrim").<ref name="etymology" /><ref name="parma">''[[Parma Eldalamberon]]'', Words, Phrases and Passages in Various Tongues in ''The Lord of the Rings'' by J.R.R. Tolkien</ref>
+*'''Tharkûn''', given by the [[Dwarves]], which means "Staff man".<ref name="faramir" />
+*'''Incánus''', a name of unclear language and meaning. He must have acquired the name from one of his many travels in the south, near [[Harad]].<ref name="faramir" /> Tolkien several times changed his mind about it, varying between the Latin word ''incanus'' (meaning Grey and a possible [[Westron]] invention meaning "Greymantle"), a word ''Ind-cano'' (meaning Cruel Ruler), or even a form of Southron meaning "Spy of the North".
+*'''Old Greybeard''', by the [[Mouth of Sauron]] when they meet at the [[Morannon]]. 
+*The '''White Rider''' (when mounted on the great horse [[Shadowfax]])
+*'''Stormcrow''' (a reference to his arrival being associated with times of trouble), often used by his detractors to mean he is a troublesome meddler in the affairs of others.
+*'''Lathspell''', by Grima Wormtongue<ref name="golden" />
+*'''Gandalf Greyhame'''
+*The '''Grey Pilgrim'''
+*'''Gandalf the Grey''', and later '''Gandalf the White''' after he was reborn as the successor to [[Saruman]].
+*'''Gandalf the Wandering Wizard'''
+
+== Character development ==
+
+{{Blockquote|Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be too eager to deal out death in judgment. For even the very wise cannot see all ends.|''[[The Lord of the Rings]], [[The Fellowship of the Ring (novel)|The Fellowship of the Ring]],'' Book I, Chapter 2: "The Shadow of the Past"}}
+
+=== Mythical roots ===
+
+The Old Norse name "''Gandalfr''" <!-- this is the nominative, not a typo!-->appears in the list of dwarves in the ''Völuspá'' of the Elder Edda; the name means "cane-elf," or "wand-elf." [[Tolkien|J.R.R. Tolkien]] took the name along with the [[dwarves]]' names when he wrote ''[[The Hobbit]]'' in the 1930s. He came to regret the creation of this ''"rabble of eddaic-named dwarves, [...] invented in an idle hour"'' ([[The History of The Lord of the Rings|''The Return of the Shadow'']], pg. 452), since it forced him to come up with an explanation of why Old Norse names should be used in [[Third Age]] of [[Middle-earth]]. He solved the dilemma in 1942 by the explanation that Old Norse was a ''translation'' of the language of [[Dale]]. The figure of Gandalf has other influences from Germanic mythology, particularly [https://en.wikipedia.org/wiki/Odin Odin] in his incarnation as "the Wanderer", an old man with one eye, a long white beard, a wide brimmed hat, and a staff. Tolkien states that he thinks of Gandalf as an ''"Odinic wanderer"'' in a letter of [[1946]].<ref>''[[The Letters of J. R. R. Tolkien]],'' [[Letter 107]]</ref>
+
+Gandalf is also similar to [https://en.wikipedia.org/wiki/V%C3%A4in%C3%A4m%C3%B6inen Väinämöinen], a Bard in Finnish mythology.
+
+Gandalf's equivalence to [https://en.wikipedia.org/wiki/Merlin Merlin the Magician], of English Mythology, is discussed in [[The Magical Forest of Brocéliande (episode)|episode two]] of the 2014 documentary ''[[Looking for the Hobbit]]'','' ''featuring French Arthurian expert [[Nicholas Mezzalira]] and Medieval specialist [[Leo Carruthers]].
+
+=== Der Berggeist ===
+
+[[File:Der Berggeist.jpg|thumb|Der Berggeist]]
+ 
+Tolkien had a postcard labelled ''Der Berggeist'' ("the mountain spirit"), and on the paper cover in which he kept it, he wrote "origin of Gandalf" at some point. The postcard reproduces a painting of a bearded figure, sitting on a rock under a pine tree in a mountainous setting. He wears a wide-brimmed round hat, and a long cloak and a white fawn is nuzzling his upturned hands. 
+ 
+[[Humphrey Carpenter]] in his [[J.R.R. Tolkien - A Biography|Biography]] said that Tolkien had bought the postcard during his 1911 holiday in [[wikipedia:Switzerland|Switzerland]]. However, [[wikipedia:Manfred Zimmerman|Manfred Zimmerman]] (1983) discovered that the painting was by [[wikipedia:German|German]] artist [[wikipedia:Josef Madlener|Josef Madlener]] and dates to the late 1920s. Carpenter concluded that Tolkien was probably mistaken about the origin of the postcard. Tolkien must have acquired the card at some time in the early 1930s, at a time when ''The Hobbit'' had already begun to take shape.<ref>Manfred Zimmerman, ''The Origin of Gandalf and Josef Madlener,'' Mythlore 34 (1983)</ref> 
+
+The original painting was auctioned at [[wikipedia:Sotheby's|Sotheby's]] in [[London]] on July 12, 2005 for 84,000. The previous owner had been given the painting by Madlener in the 1940s and recalled that he had stated the mountains in the painting's background were the Dolomites.
+
+== Personality ==
+[[File:Gandalf_the_Grey_profile.jpg|thumb|250px]]
+Gandalf is often described in ''The Lord of the Rings'' as quick to anger, and equally quick to laugh.<ref>''[[The Lord of the Rings]]'', [[The Fellowship of the Ring]], "[[Lothlórien (chapter)|Lothlórien]]"</ref> His deep wisdom and compassion clearly derived from the patience he learned in Valinor, just as his care for all creatures of good will must have come from his strong sense of pity for the weak. Both his patience and sense of pity were revealed again and again, extending even to the servants of his enemies.
+
+Keen observers of Gandalf often detected a veiled power, usually revealed in his eyes, which appeared deep and wise. He was alternately affectionate and brusque; he often surprised others with his bluntness when time was of the essence. Gandalf consistently upbraided foolish behaviour, but also richly rewarded those who acted with good intentions.
+
+Hobbits appealed to him more than to the other Wizards, and he went often to the Shire for respite from errands. His attachment was likely because the Shire was of more bliss and peace than other inhabited realms of Middle-earth.
+
+== Appearance ==
+Gandalf is described as an old man with a pointed blue hat, a long grey cloak, and a silver scarf. He had a long white beard and bushy eyebrows that stuck out beyond the brim of the hat.
+
+After he is resurrected, the change of his signature colour from grey to white is significant, for he was sent back to replace the corrupted head of the Order of Wizards and leader of the White Council [[Saruman]] as the Chief of the Order of Wizards. In the book, he says that he has himself become what Saruman should have been.
+
+[[Círdan]] the Shipwright seemed to have foreseen this, for he entrusted the care of [[Narya]], the Ring of Fire (one of the [[Rings of Power|Three Rings]] of the Elves) to Gandalf rather than Saruman.
+
+== Powers and abilities ==
+Gandalf is one of the wisest and most knowledgeable beings in Middle-earth, and believed by Galadriel to be more worthy than Saruman in leading the White Council. He has extensive knowledge of many languages and writing systems used in Middle-earth, as well as in the history and customs of several of its peoples. He considers himself the greatest scholar of Hobbit traditions. His long journeys have allowed him to meet many influential and powerful individuals and form lasting bonds with them. The Hobbits know him as a masterful crafter of firecrackers.
+
+Outside of the Shire, however, Gandalf the Grey is revered as one of the most powerful and wisest beings to tread Middle-earth, although he was wary of confronting Saruman and Sauron directly, the latter also after his rebirth, as well as of the influence of the One Ring. He was considered the most powerful member of the Fellowship of the Ring, as well as, according to Aragorn, its leader, not in small part thanks to his encyclopedic knowledge. His vast intelligence allows him to accurately guess the thoughts of others, and makes him perhaps the preeminent architect of Sauron's defeat. He is often noted to have extremely sharp eyes which can see not only into darkness, but also into the dimension of wraiths, such as when he perceived the lingering effects of the Morgul-blade on Frodo as part of his body having become almost transparent. He also has a degree of extrasensory perception, which he demonstrated by feeling Durin's Bane while casting a spell.
+
+Armed with an Elfin blade, Gandalf is as valiant a fighter as the other swordsmen in the Fellowship, in no way hindered by his elderly appearance when fighting or riding. He is rendered even more formidable by his magic. Gandalf the Grey has command over a great array of spells for all situations, such as to enhance Elrond's flood spell, giving the water the appearance of galloping knights, and seal doors shut or open them, although it should be noted that he was unable to open the Doors of Durin prior to remembering the password. He stated that Durin's Bane nearly overpowered him with its counter-spell, forcing him to rely on a word of Command that resulted in a blast which caused the ceiling of the room beyond the door to collapse.
+
+Gandalf described himself as "a servant of the [[Secret Fire]], wielder of the flame of Anor". Coincidentally, many of his spells are based on light and fire. He was able to light a faggot of wet wood simply with a touch of his staff, which he considered distinctive enough that any onlooker would recognize his handiwork. He can cause the tip of his staff to glow with bright white light so as to see in the dark and increase the radiance at will, as demonstrated in Moria. He later displays the ability to focus this light into a beam. When fighting a pack of wolves, he set fire to all treetops on a hill with a single blazing branch, and the air became so hot that an arrow burned mid-flight. At the cost of shattering his staff, he was able to conjure a sea of white flames that caused the bridge under the feet of Durin's Bane to crumble. Similar spells he displayed are: 
+
+• Heating fire
+
+• Manipulating sparks
+
+• Creating massive pillars of smoke
+
+Gandalf the White displays these same powers, but more advanced. When he first met Aragorn, Gimli, and Legolas in his new form, he shocked and quickly overpowered them with his agility and magic: he effortlessly disarmed the former two, one by causing his sword to burst into flames, the other by pulling the axe from his hands with a wave of his staff, and burnt the Elf's arrow into nothing when the latter loosed it. Shortly afterwards, he said that he had recently battled Sauron's eye to prevent him from locating Frodo, and although successful, the confrontation left him spent. He also displayed the ability to communicate with horses, and was able to reach Shadowfax with his mind. 
+
+Finally, he also shattered Saruman’s staff, and stripped him of his divine power.
+
+As his unrestricted form, Olorin, he had all his previous powers massively boosted, and the ability to shapeshift. However, even this form seems to have restrictions, as the Ainur were said to have their power restricted upon descending to earth. 
+
+== Weapons ==
+
+Gandalf primarily used his staff, but also carried a sword in combat. Sometimes during combat, Gandalf would be seen wielding both weapons against his enemies.
+
+=== Staff ===
+{{Main|Wizard Staff}}
+
+Gandalf utilised his staff for various spells and abilities. He didn't use it just as a weapon; he also utilized a staff as if it were a walking stick. He initially had an old wooden staff which he lost in the Mines of Moria while fighting the [[Balrog]]. He used a new one upon becoming Gandalf the White.
+
+=== Glamdring ===
+{{Main|Glamdring}}
+
+This was an Elven sword Gandalf found in a [[Tom, Bert, and William's cave|troll cave]]. From that point until the resolution of the War of the Ring, he used this as a weapon to complement his staff, wielding them with equal skill. In many cases, he fought with both weapons at once.
+
+{{Gallery|width=150|height=150|captionalign=center|position=center
+|Gandalf-staff-small.jpg|Gandalf's second staff
+|Glamdring Sword of Gandalf.jpg|Glamdring
+|Gandalf and Glamdring.PNG|Gandalf finds Glamdring in the Trolls' cave
+}}
+
+
+== Portrayal in adaptations ==
+=== ''The Hobbit'' and ''The Lord of the Rings'' film trilogies ===
+[[Sir Ian McKellen]] portrayed Gandalf in the ''[[The Lord of the Rings film trilogy|The Lord of the Rings]]'' film trilogy directed by [[Peter Jackson]].
+
+{{Blockquote|I gave you the chance of aiding me willingly, but you have elected the way of pain!|Saruman to Gandalf}}
+
+[[wikipedia:Sean Connery|Sean Connery]] was originally considered for the role of Gandalf, but turned it down because he didn't want to spend so long in [[New Zealand]], where the film was shot; [[wikipedia:Tom Baker|Tom Baker]] of ''[[wikipedia:Doctor Who|Doctor Who]]'' fame, [[wikipedia:Patrick Stewart|Patrick Stewart]], [[wikipedia:Christopher Plummer|Christopher Plummer]], and [[wikipedia:David Bowie|David Bowie]] were also considered or approached<ref>http://www.vanityfair.com/hollywood/2016/12/david-bowie-gandalf-elrond-lotr</ref>. McKellen's interpretation of the role was widely praised. He was nominated for an Academy Award for his portrayal of Gandalf in ''[[The Lord of the Rings: The Fellowship of the Ring (film)|The Lord of the Rings: The Fellowship of the Ring]]'', making him the only individual cast member to be nominated for his performance. [[Christopher Lee]], a lifelong fan of Tolkien's works, had hoped to be cast as Gandalf, but due to his advancing age instead opted for the role of Saruman, as Gandalf would require horse riding and more swordsmanship.
+
+Gandalf's staff in ''[[The Fellowship of the Ring]]'' film was sculpted by [[Brigitte Wuest]], after a drawing by [[Alan Lee]].<ref>[[Gary Russell]], ''[[The Art of The Fellowship of the Ring]]'', pg. 41</ref>
+[[File:Rankin-Bass's Gandalf.PNG|thumb|Gandalf the Grey (1977)]]
+Ian McKellen reprised his role of Gandalf the Grey for the three-part adaptation of ''[[The Hobbit]]'', noting in early interviews that he preferred portraying Gandalf the Grey to Gandalf the White, as Gandalf the Grey required a more nuanced performance. He maintains, however, that he enjoyed playing both Gandalf's, but felt Gandalf the Grey was easier and calmer to portray.
+
+=== Voice dubbing actors ===
+
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Voice dubbing artist'''
+|-
+|Spanish (Latin America)
+|José Lavat
+|-
+|Spanish (Spain)
+|Pepe Mediavilla
+|-
+|Japanese
+|Hiroshi Arikawa
+|-
+|Czech (Czech Republic)
+|Petr Pelzer
+|-
+|Portuguese (Brazil) (Television/DVD)
+|Hélio Vaccari / Luiz Carlos Persy ''(The Hobbit trilogy)''
+|-
+|German
+|Joachim Höppner † / Eckart Dux ''(The Hobbit trilogy)''
+|-
+|Italian (Italy)
+|Gianni Musy † / Gigi Proietti ''(The Hobbit trilogy)''
+|-
+|Hungarian
+|Ferenc Bács
+|-
+|French (France)
+|Jean Piat
+|-
+|Polish
+|Włodzimierz Bednarski (1978)
+Wiktor Zborowski ''(The Hobbit trilogy)''
+|-
+|Slovak
+|Leopold Haverl (''The Lord of the Rings'')
+Marián Slovák (''The Hobbit trilogy'')
+|-
+|Turkish
+|İstemi Betil
+|}
+
+</div>
+{{Clear}}
+
+=== Rankin/Bass films ===
+[[John Huston]] provided the voice of Gandalf in two animated television features by [[Rankin/Bass]] (''[[The Hobbit (1977 film)|The Hobbit]]'' and ''[[The Return of the King (1980 film)|The Return of the King]]'').
+
+=== Ralph Bakshi's The Lord of the Rings ===
+[[File:1716329-gandalflotr.jpg|thumb|Gandalf the Grey (1978)]]In the 1978 animated film of ''[[The Lord of the Rings (1978 film)|The Lord of the Rings]]'' by [[Ralph Bakshi]], Gandalf was voiced by [[wikipedia:William Squire|William Squire]] with John A. Neris doing the modeling. (It is not known whether Squire played him in the live-action recordings used for [[Wikipedia:Rotoscope|rotoscoping]].)
+
+=== Radio ===
+
+*[[wikipedia:Norman Shelley|Norman Shelley]] voiced the character in the [[1955]] [[wikipedia:BBC Radio|BBC Radio]] radio adaptation of ''[[The Lord of the Rings (1956 radio series)|The Lord of the Rings]]''.
+*[[wikipedia:Heron Carvic|Heron Carvic]] voiced the character in the [[1968]] [[wikipedia:BBC Radio|BBC Radio]] radio adaptation of ''The Hobbit''.
+*[[File:Rankin-Bass's Gandalf (White).PNG|thumb|Gandalf the White (1980)]]Bernard Mayes voiced the character in the [[1979]] The Mind's Eye radio adaptations of ''The Hobbit'' and ''The Lord of the Rings''.
+*Bernhard Minetti voiced the character in the [[1980]] German radio serial adaptation of ''The Hobbit''.<ref>[https://www.ardapedia.org/wiki/Der_Hobbit_(H%C3%B6rspiel) ''Der Hobbit'' (hörspiel). (German: "''The Hobbit'' (radio play)". Ardapedia.org (German-language wiki of Tolkien's Legendarium). Retrieved/cited 30 May 2021.] </ref>
+*[[Sir Michael Hordern]] played him in the ([[1981]]) [[wikipedia:BBC Radio|BBC Radio]] radio serial of the ''[[The Lord of the Rings (1981 radio series)|The Lord of the Rings]]'' .
+*Karol Machata voiced the character in the [[1989]] Slovak two-episode radio miniseries adaptation of ''The Hobbit''. <ref>[http://tolkiengateway.net/wiki/Hobit_(1989_Slovak_radio_series) ''Hobit''. (Slovak: "''The Hobbit''") Slovak 1989 radio play. Tolkien Gateway.net (English-language wiki of Tolkien's Legendarium). Retrieved/cited 30 May 2021.]</ref>
+*Manfred Steffen voiced the character in the [[1991]]-[[1992]] German radio serial adaptation of ''The Lord of the Rings''. <ref>[https://www.ardapedia.org/wiki/Der_Herr_der_Ringe_(H%C3%B6rspiel) ''Der Herr der Ringe'' (hörspiel). (German: "''The Lord of the Rings'' (radio play)". Ardapedia.org (German-language wiki of Tolkien's Legendarium). Retrieved/cited 30 May 2021.] </ref>
+*Martin Huba voiced the character in the [[2001]]-[[2003]] three-season Slovak radio serial adaptation of ''The Lord of the Rings''. <ref>[http://tolkiengateway.net/wiki/P%C3%A1n_prste%C5%88ov_(2001-2003_Slovak_radio_series) ''Pán prsteňov''. (Slovak: "''The Lord of the Rings''") Slovak 2001-2003 radio play. Tolkien Gateway.net (English-language wiki of Tolkien's Legendarium). Retrieved/cited 30 May 2021.]</ref>
+
+=== Video games ===
+{{Scroll-1|
+[[File:Gandalf_Grey.png|thumb|175px|Gandalf in The Hobbit game.]]
+
+*''The Hobbit video game''
+
+Gandalf is a character that appears in the [[The Hobbit (2003 video game)]]. He is a tall wizard who is just called "Gandalf."
+
+He organizes [[The Quest of Erebor]] with Thorin. He is not a playable character, but gives Bilbo different jobs and helps him against the powerful and unexpected goblins at the end of the level Over Hill and Under Hill. He appears in a few levels and guides Bilbo.
+
+"The Fellowship of the Ring"
+
+J.R.R. Tolkien's The Lord of the Rings, Vol. I (video game) 1994 Gandalf is an A. I. character that the player controls in the game. However in the Balrog boss fight, he sacrifices himself and the player has to defeat the Balrog themselves.
+
+Console Versions: PS2, Xbox, Gameboy Advance, Gandalf appears in the game The Lord of the Rings Fellowship of the Ring (2002) first introducing himself to Frodo Baggins and later on as a playable up until the fight against the Balrog which he leaves the party.
+
+*''Two Towers, Return of the King and Third Age''
+
+Console Versions: PS2, Xbox and Gamecube<br />
+Gandalf appeared in the action adventure video games ''The Two Towers (2002)'' and ''The Return of the King'' (2003), both games follow Peter Jackson's Rings Movie Trilogy and the games were made by New Line Cinema (owned by Warner Bros.) published by EA Games and licensed by various companies such as Nintendo, Microsoft and Sony. Each Rings Trilogy actor reprised their original role and added voice to the character in the game. For Sir Ian McKellen who played Gandalf reprises his role of Gandalf and is narrator for both games. 
+
+Gandalf is <u>only</u> playable in the ''The Two Towers'' Gameboy Advance game. While he is indeed in The Two Towers console video game, he is computer controlled and therefore is a <u>non-playable character</u> in the PS2, Xbox or Gamecube console versions of ''The Two Towers'' game. However, he is playable in ''The Return of the King video game ''for (PC, PS2, Xbox, Gamecube and Gameboy Advance.) He also appears in ''The Lord of the Rings: The Third Age (2004)'' video game based on the Lord of the Rings Movie Trilogy for (PS2, Xbox, Gamecube and Gameboy Advance) which is a turn-based game. In the console version he is an important ally in [[Berethor]]'s quest; he is used twice when fighting specific enemies the game. For example in ''Eastern Moria'' as Gandalf the Grey, where the party will help him vanquish [[Durin's Bane]] (The Balrog of Moria) before the party exits the dwarf city. He also makes a one time appearance in a scene in the Plains of Rohan warning you of orcs that the party encounters along the path they're taking. You fight with him again in the ''[[Minas Tirith]]'' level, as Gandalf the White where the party aids him in fighting the [[Witch-king of Angmar]].
+
+The Gameboy Advance or handheld version of ''The Lord of the Rings: The Third Age'' follows a different style of gameplay while still being a turn-based game like the console versions. However major differences do occur between the console and handheld versions. The difference between the console and handheld versions is that in the console version you follow a character and form a fellowship along the way, and go through the same missions as the Fellowship of the Ring with variations of missions and alter in the story. The handheld version of The Third Age game takes a somewhat different approach while still retaining some similar features on the console version, but not entirely similar to the console version of the game. 
+
+War of the Ring (video game) 2003
+
+Similar to Age of Empires or Warcraft, Gandalf is a playable unit which the play can control on the Campaign maps.
+
+*''The Lord of the Rings: The Third Age''
+
+According to ''[[The Lord of the Rings: The Third Age (GBA)|The Lord of the Rings: The Third Age]]'' Gameboy Advance Manual it says the following:
+
+"The game is organized into three episodes that corresponds to events from each of the three ''The Lord of the Rings'' movies. Each episode contains up to eight missions. By claiming victory in battle you unlock further missions in the storyline. After selecting NEW GAME from the Main Menu, the Commander screen appears. Choose between playing the forces of good and evil by selecting one of six commanders: Aragorn, Gandalf the White or Elrond on the side of the good, and Saruman the White, The Witch-King of Angmar or The Mouth of Sauron on the side of evil (page 7)."
+
+Each of the Main Hero's or villains have special abilities that a player uses to there advantage in the game.
+
+Gandalf has the following abilities each ability increases per level and are earned with EXP earned in battle:
+
+Evasion - allows Hero +1 move through enemy units with no penalty
+
+Stealth - Takes 33% less damage from missile attacks
+
+Inspire - adds +1 command point per level to given command points the with the maximum of +2 command points +1 command point to each flank
+
+Blinding Light- all enemies on Gandalf's flank may flee based on morale with higher likelihood per level
+
+There is a Good Skill Set and a Evil Skill Set of Abilities for Good and Evil found in the pause menu during a mission they can be found in the Glossary. For example Unit Talents which are as follows: Elf Archery, Magic Attack, Double Move, Shrarpshooter, Regeneration, Shock, Trample, Inaccurate and Shieldmaiden. There are also Events that take place for example all of the following are events in the game that can take place at any time in a game: Free Move, Onslaught, Rally, Recovery, Disorder and Willpower and last but most importantly Items and are as follows: Kingsfoil, Lembas Bread, Elven Phial, Galadrim Lock, Entwater, Troll Meat, Hand of Saruman, Shelob Poison, Berkserker Root and Spoils of War.
+
+The player enters a mission with a randomly given amount of command points (CP) to each flank, for example the side of Good has 1 CP on the left flank, 1 CP on the right flank and 5 CP in the middle once these numbers reach zero then Good ends its turn and Evil takes its turn and visa versa. With each turn each side is also given a free move which costs zero CP points to start and the CP number is green when a free move is available. Usually in the game on one side are the good units and on the other is evil with The One Ring's inscription as the boundary line between flanks. The terrain is indicated with an X which restricts a units movement, with shields indicating its protective value. 
+
+As the player excels in the game at times certain missions will not require companions instead only the main hero or villain is required or in some cases a mission automatically already has a non-specfic Good or Evil commander provided. However, other missions in order to be successful companions are required to command flanks of units. The Companions for Good are as follows: Legolas, Gimli, Eoywn, Eomer, King Theoden, Boromir, Faramir and Haldir for the side of Good, and Shagrat, Sharku, Lurtz, Gothmog, Gorbag, [[Grishnakh]], Ugluk and Grima Wormtonuge for Evil. The objective of the whole game is simple save or destroy Middle Earth.
+
+*''The Hobbit Console and Handheld Games''
+
+Consoles: Windows, PS2, Xbox, Gamecube, and Gameboy Advance<br />
+Gandalf from J.R.R. Tolkien's book also makes in appearance in The Hobbit video game based on the book in 2003 by Sierria Entertainment released on Windows, PS2, Xbox, Gamecube, and Gameboy Advance.
+
+*''Handheld Game Appearances''
+
+Consoles: Windows, Mac, Xbox 360, PS3, Playstation Vita, Nintendo 3DS, Nintendo DS Gandalf is also a very important character in ''The Battle for Middle-earth'' series. Making an appearance in both ''The Battle for Middle-earth'' (Only for PC/Windows) and ''The Battle for Middle-earth II'' (Only for Windows & Xbox 360) and is one of the most used heroes in the good campaign of ''The Battle for Middle-Earth''. In ''The Battle for Middle-earth II'', he is in none of the campaigns and is only used for skirmish and War of the Ring modes.
+
+Another appearance Gandalf makes is in ''[[The Lord of the Rings: Conquest]]'' (For PS3, Xbox 360, Windows and Nintendo DS) as a mage type hero. Gandalf is used in the good campaign in Isengard to defeat and kill Saruman, the purification of Moria to kill the Balrog (this time with more power), the Siege of Minas Tirith to defend the city's higher gates from the forces of Mordor, and as one of the main heroes at the Battle of the Black Gate. In the Evil Campaign, the player kills Gandalf as Sauron and the last defense of the Shire thus Middle-Earth falls and is covered in second darkness.
+
+Gandalf also appears in ''[[LEGO The Lord of the Rings: The Video Game]]'' (For Nintendo DS, Nintendo 3DS, Wii, Wii U, Playstation Vita, Microsoft Windows, Mac OS X, Xbox 360 and Playstation 3) and its sequel/prequel ''[[LEGO The Hobbit: The Video Game]]'' (For Playstation 3, Playstation 4, Playstation Vita, XBox 360, XBox One, Wii U, Nintendo 3DS, OS X, and Microsoft Windows) as a playable minifigure. Players will first be able to play as Gandalf in the level titled ''The Black Rider'' where he will fight [[Saruman]] in the throne room of Orthanc at Isengard. Gandalf's staff has similar abilities to Saruman's staff. It can lift and/or build LEGO objects, give off light in dark places, shoot out bolts of energy in battle, and make a shield that repels orcs and protects from most projectiles. Gandalf can also be unlocked as Gandalf the Grey and Gandalf the White in the former game; he has the same abilities either way. The game reuses audio of Ian Mckellen for Gandalf's dialogue.
+
+Gandalf is also a playable character in ''[[LEGO Dimensions]]'', and one of three characters included in the starter pack; the game also features various other ''Lord of the Rings'' characters and settings.
+
+==== Magic and Abilities ====
+
+*'''Illumination'''
+
+As Gandalf the Grey, Gandalf was not capable of very powerful spells, though he still had potency up to an extent. One of his simpler spells was illumination. In Moria, Gandalf was obliged to light his staff so that the Fellowship could find their way out of Moria. Because of the light provided by Gandalf's staff, the Fellowship was able to pass over many dangers and eventually find their way out of Moria safely.
+
+*'''Magical Kinesis'''
+
+Gandalf the Grey was also capable of pushing his foes back with his staff, as shown in the movie when he battles Saruman in Orthanc. He tried to defeat Saruman as best as he could, but the White Wizard's power was too great for him to withstand. Eventually, Saruman stole Gandalf's staff and transported him to the top of Orthanc. In [[The Hobbit: The Desolation of Smaug]] he is shown to push back [[Azog]] with his staff, when he is ambushed by them.
+
+*'''Calling Gwaihir'''
+
+When times grew desperate, Gandalf contacted [[Gwaihir]], Lord of the Eagles, by means of a small, grey moth. Gandalf had saved the great Eagle from a poisoned arrow long ago, and as a result, Gwaihir was eager and ready to help out his own friend whenever he needed to. Gandalf called Gwaihir multiple times, in places ranging from Orthanc to the Black Gate of Mordor. Though not so much a magical ability as an extra lifeline, Gandalf knew exactly when he needed help and when he should call Gwaihir to get it.
+
+It was Radagast the Brown who told the eagles that Gandalf had visited with Saruman in the books; in the movie, Gandalf is seen speaking with the moth.
+
+In the Hobbit film adaption, Gandalf is seen talking to a red-orange butterfly instead of a grey moth to call Gwaihir.
+
+*'''Sword of Power'''
+
+In the film adaptation of ''[[The Lord of the Rings: The Two Towers (film)|The Two Towers]]'', while Gandalf was facing the Balrog, he charged his sword Glamdring with lightning. He then struck his foe and killed him. It is unknown whether Gandalf actually summoned the lightning or simply attracted it toward Glamdring, but either way, his sword had extra power, enough to slay the Balrog of Morgoth.
+
+*'''Call Shadowfax'''
+
+Although not magical as such, Gandalf develops a friendship with the "Lord of horses", Shadowfax in both the books and the films. After Gandalf takes Shadowfax from King Theoden's stables in Edoras, the horse develops a bond with Gandalf which meant that nobody else could ride or even touch Shadowfax, besides him. In the second film, Gandalf calls to Shadowfax by whistling just outside of Fangorn. Such is the bond between them that Gandalf rides Shadowfax without any harnesses and can direct him with his mind.
+
+*'''Counter-Spell'''
+
+As seen in the first movie, Gandalf can counter any magical spell. As Gandalf the Grey, this ability is much weaker. When the Fellowship passes through the mountains, Saruman tries to bring it down. There Gandalf attempts to counter the spell, but fails.
+
+*'''Lightning Strike'''
+
+This power is clearly described in the book ''The Hobbit'' in the Misty Mountains while escaping from an orc horde (obviously as Gandalf the Grey). He kills a few orcs and temporarily hides. The cartoon version of The Hobbit also boasts him using it during the Battle of Five Armies. In the Two Towers film adaptation, Gandalf slew the Balrog with lightning strikes repeatedly through Glamdring.
+
+*'''Blinding Light'''
+
+Gandalf's second skill was Blinding Light, with which he would strike his foes blind with a blast of light resembling a magnified sunbeam. Though this particular attack did not deal much damage to foes in itself, it allowed any soldiers or cavalry to cut their enemies down with little to no resistance. Gandalf uses this spell once in the movies against the Fell Beasts of the Nazgûl so that Faramir's company could retreat to Minas Tirith safely. Gandalf did not use this Skill during the Battle of Helm's Deep, as is erroneously claimed, as the blinding light was caused by the rising Sun rising in the East ("On the morning of the fifth day, look to the East"). Blinding Light is quite possibly a much stronger version of Illumination.
+
+In ''[[The Lord of the Rings: The Third Age (GBA)]]'' game, one of Gandalf's four skills is Blinding Light. All Evil Units on Gandalf's flank (except Fearless ones) would have a chance of going into morale failure depending on their morale, becoming useless the next turn. The higher the level of the spell, the more likely the morale failure. Some players choose Gandalf mainly because the morale failures would either play strategically into their hands or force the enemy heroes to join the fray, which would increase their chances of being killed and getting Good one-step closer to victory.
+
+In The Hobbit trilogy, Gandalf uses this ability to blind the Goblins so the Dwarves can grab their weapons and fight for freedom, as well as well as blind Azog during his investigation in Dol Guldur.
+
+*'''Shield of the Istari'''
+
+Gandalf can also conjure up a magical shield to protect himself from enemy attacks. It is shown in the movies only once, when Gandalf stands against the Balrog's flaming sword. However, on the extended version of ''The Return of the King'', Gandalf uses the shield of Istari to protect himself from a spell cast by Saruman. In The Hobbit Trilogy he used it once again against Sauron while fleeing from Azog and his orc army. A different version is used by him that expands and dissapates to remove a spell of concealment in Dol Goldur as well.
+
+*'''Fire'''
+
+Gandalf uses the power of fire in the Hobbit, to light pinecones in multi-colored fire and to throw them at wolves; he also uses fire in the Fellowship of the Ring to cast ablaze a bundle of wood, and a large cluster of trees to stay warm, and to combat more wolves. However, his ability with fire may be enhanced due to his possession of Narya (the Ring of Fire).
+
+*'''Destructive Blast'''
+
+By far Gandalf's most devastating power is the destructive blast. Gandalf initiates this by raising his staff into the air and slamming it down on the ground. The weaker version of it is enough to break the Bridge of Khazad-dum, but at full power it can send surrounding legions flying into the air, instantly destroying them. In the Hobbit film, he used it to blasted away goblins and stun them long enough for the dwarves to rally themselves.
+
+In the ''[[The Lord of the Rings: The Return of the King (video game)|The Return of the King video game]]'', the spell (from weak to full power) is known as Fog of War, Wrath of Anor, and Flame of Udun. This would imply that Gandalf could use Shadow powers as well as Light powers, though this is unconfirmed and at any case highly unlikely.
+
+In ''[[The Lord of the Rings: The Battle for Middle-earth II]]'', this spell is known as Word of Power. It can destroy all weak units (even upgraded ones), and significantly damage stronger ones.
+
+In The Lord of the Rings: Aragorn's Quest (2010), Gandalf is an optional playable character.}}
+
+==Trivia==
+*Gandalf is one of only three characters to appear in all six films of both ''The Hobbit'' and ''The Lord of the Rings'' trilogies, the other two being [[Galadriel]] and [[Sauron]].
+*[http://arrow.wikia.com/wiki/Wells_the_Grey Wells the Grey] is a homage to Gandalf from the TV show ''[http://arrow.wikia.com/wiki/The_Flash The Flash]''.
+*[[Thranduil]] had a habit of calling Gandalf "Mithrandir".
+
+== Gallery ==
+{{Gallery|width=150|height=150|captionalign=center|position=center
+|Gandalfgrey+bilbo.jpg|Gandalf the Grey in Rankin/Bass adaptation of the Hobbit
+|Gandalfbakshi.jpg|Gandalf the White in Ralph Bakshi's 1978 animated version of Lord of the Rings
+|Gandalf_the_Grey_1.jpg|Gandalf the Grey in Peter Jackson's ''The Fellowship of the Ring''
+|Gandalf-2.jpg|Gandalf the Grey
+|Picture1.jpg|Gandalf the White in Peter Jackson's ''The Return of the King''
+|Gandalf_Lego_figure.png|Gandalf as a LEGO minifigure
+|Meridian_2013-01-01_07-05-47-868.jpg|Gandalf in the 2003 The Hobbit game
+|wmplayer 2013-07-18 04-44-16-563.jpg|Gandalf in Guardians of Middle Earth trailer
+|wmplayer 2013-07-18 04-45-34-237.jpg|Gandalf in ''Guardians of Middle Earth''
+|The-Hobbit-An-Unexpected-Journey-2012.jpg|Gandalf in An Unexpected Journey
+|1017370_10151676395811558_1377750247_n.jpg|Gandalf the Grey in the Desolation of Smaug
+|Gandalf-lord-of-the-rings-3073323-800-600.jpg|Gandalf the White poster
+|GandalfandBardTBOT5A.jpg|Gandalf and Bard
+|Gandalf the Grey.jpg|Gandalf the Grey
+|Gandalf.manuscripts.png|Gandalf studying old manuscripts. 
+|GandalfPoster.jpeg|
+|Gandalf (Ally).JPG|Gandalf in ''[[Lord of the Rings: The Card Game]]''|Gandalf (Ally 2).JPG|Gandalf in ''[[The Lord of the Rings: The Card Game]]- Over Hill and Under Hill Expansion''|Gandalf (Hero).JPG|Gandalf in ''[[The Lord of the Rings: The Card Game]]- The Road Darkens''}}
+
+==Appearances==
+===Books===
+*''[[The Hobbit]]'' - <small>First appearance as "the Grey"</small>
+*''[[The Lord of the Rings]]''
+**''[[The Fellowship of the Ring (novel)|The Fellowship of the Ring]]''
+**''[[The Two Towers (novel)|The Two Towers]]'' - <small>First appearance as "the White"</small>
+**''[[The Return of the King (novel)|The Return of the King]]''
+*''[[The Silmarillion]]'' - <small>First appearance as "Olórin"</small>
+**''[[Of the Rings of Power and the Third Age]]''
+*''[[Unfinished Tales]]''
+**[[The Istari (chapter)|The Istari]]
+*''[[The History of Middle-earth]]''
+
+===Films===
+*[[The Lord of the Rings film trilogy|''The Lord of the Rings'' film trilogy]]
+**''[[The Lord of the Rings: The Fellowship of the Ring]]''
+**''[[The Lord of the Rings: The Two Towers]]''
+**''[[The Lord of the Rings: The Return of the King]]''
+*[[The Hobbit film trilogy|''The Hobbit'' film trilogy]]
+**''[[The Hobbit: An Unexpected Journey]]''
+**''[[The Hobbit: The Desolation of Smaug]]''
+**''[[The Hobbit: The Battle of the Five Armies]]''
+
+===Video Games===
+*''[[The Lord of the Rings: The Fellowship of the Ring (video game)|The Lord of the Rings: The Fellowship of the Ring]]''
+*''[[The Lord of the Rings: Aragorn's Quest]]''
+*''[[The Lord of the Rings: War in the North]]''
+*''[[LEGO The Lord of the Rings: The Video Game]]''
+*''[[Guardians of Middle-earth]]''
+*''[[LEGO The Hobbit: The Video Game]]''
+*''[[LEGO Dimensions]]''
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Amharic   
+|ጛንዳልፍ
+|-
+|Arabic
+|غاندالف
+|-
+|Armenian
+|Գանդալֆ
+|-
+|Azerbaijani
+|Qandalf
+|-
+|Belarusian Cyrillic
+|Гэндальф 
+|-
+|Bengali
+|গ্যানডালফ
+|-
+|Bulgarian Cyrillic
+|Гандалф
+|-
+|Catalan
+|Gàndalf
+|-
+|Chinese (Hong Kong)
+|甘道夫
+|-
+|Esperanto
+|Gandalfo
+|-
+|Georgian
+|განდალფი Gandalpi (Latin)
+|-
+|Greek
+|Γκάνταλφ
+|-
+|Hebrew
+|גאנדאלף
+|-
+|Italian
+|Gandalf 
+|-
+|Japanese
+|ガンダルフ
+|-
+|Kannada
+|ಗಂಡಲ್ಫ್
+|-
+|Kazakh 
+|Гендальф (Cyrillic) Gendal’f (Latin)
+|-
+|Korean
+|간달프
+|-
+|Kyrgyz Cyrillic
+|Гандалф
+|-
+|Laotian 
+|ແກນດັລ໌ຟ
+|-
+|Latin
+|Gandalfus
+|-
+|Lithuanian 
+|Gendalfas
+|-
+|Macedonian Cyrillic
+|Гандалф 
+|-
+|Marathi
+|गन्दल्फ़
+|-
+|Mongolian Cyrillic
+|Гандалф
+|-
+|Nepalese
+|ङन्दल्फ़् ?
+|-
+|Norwegian
+|Gandalv
+|-
+|Pashto
+|ګاندالف
+|-
+|Persian
+|گندالف
+|-
+|Punjabi
+|ਗਨ੍ਦਲ੍ਫ਼
+|-
+|Russian
+|Гэндальф
+|-
+|Serbian
+|Гандалф (Cyrillic) Gandalf (Latin)
+|-
+|Sinhalese
+|ගඳල්ෆ්
+|-
+|Tajik Cyrillic
+|Гандалф
+|-
+|Thai
+|แกนดัล์ฟ
+|-
+|Ukrainian Cyrillic
+|Ґандальф
+|-
+|Urdu
+|گندالف 
+|-
+|Uzbek
+|Гандалф (Cyrillic) Gandalf (Latin)
+|-
+|Yiddish
+|גאַנדאַלפֿ
+|}
+
+</div>
+{{Clear}}
+
+== References ==
+{{Scroll box
+|content=
+<references />
+}}
+
+{{Ainur}}
+{{Wizards}}
+{{Thorin and Company}}
+
+{{Fellowship}}
+{{Featured}}
+
+
+
+[[Category:Maiar]]
+[[Category:Elf friends]]
+[[Category:Wizards]]
+[[Category:White Council]]
+[[Category:Ring bearers]]
+[[Category:Thorin and Company]]
+[[Category:Fellowship members]]
+[[Category:The Hobbit Characters]]
+[[Category:The Lord of the Rings Characters]]
+[[Category:Major characters (The Lord of the Rings)]]
+[[Category:Characters in Unfinished Tales]]
+[[Category:The Hobbit: An Unexpected Journey Characters]]
+[[Category:The Hobbit: The Desolation of Smaug Characters]]
+[[Category:The Hobbit: The Battle of the Five Armies Characters]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:Characters that have appeared in the Hobbit and the Lord of the Rings]]
+[[Category:Characters in The Shaping of Middle-earth]]
+[[Category:The Silmarillion Characters]]
+
+[[ca:Gàndalf]]
+[[cs:Gandalf]]
+[[de:Gandalf]]
+[[es:Gandalf]]
+[[fi:Gandalf]]
+[[fr:Gandalf]]
+[[he:גאנדאלף]]
+[[it:Gandalf]]
+[[nl:Gandalf]]
+[[pl:Gandalf]]
+[[pt-br:Gandalf]]
+[[ru:Гэндальф]]
+[[sk:Gandalf]]
+[[uk:Ґандальф]]

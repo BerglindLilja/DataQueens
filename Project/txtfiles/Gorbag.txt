@@ -1,0 +1,190 @@
+{{Infobox Person Servants of Evil
+| image = Gorbag.jpg
+| caption = 
+| name = Gorbag
+| othernames = 
+| title = Captain of [[Minas Morgul]]
+| birth = Unknown 
+| rule = 
+| death = [[March 14]], [[3019]] slain by [[Shagrat]]
+| realms = [[Cirith Ungol]] (under overlordship of Sauron) 
+| spouse = 
+| weapon = [[Scimitar]], Whip, Knife, [[Weapons|Spear]]
+| race = [[Black Uruks|Black Uruk]] (book)/[[Orc]] (film)
+| culture = Uruks of Minas Morgul (book)\([[Morgul orcs|Morgul Orcs]]) (film)
+| gender = Male
+| height =medium 
+| hair =black 
+| eyes = Blue (film)
+| actor = [[Stephen Ure]]
+| voice = 
+| character = 
+}}
+
+'''Gorbag''' was an intelligent and crafty [[Orc]] captain of [[Cirith Ungol]] during the [[Third Age]], originally from [[Minas Morgul]].
+
+== Biography ==
+
+[[File:9301.jpg|thumb|left|250px|[[Shagrat]] and Gorbag in a deadly argument]]
+
+After [[Shelob]] paralyzed [[Frodo Baggins]], two Orc patrols led by Gorbag and [[Shagrat]] came across his cocooned body, taking him back to the [[Tower of Cirith Ungol]] where they planned to torture him. While sifting through Frodo's belongings, a dispute began between the two captains over Frodo's [[Mithril]] vest, which escalated into a vicious fight all over the fortress between the Morgul and Cirith Ungol [[Orcs]]. Gorbag survived much of the fight but was killed by Shagrat.<ref>''[[The Lord of the Rings]]'','' [[The Two Towers (novel)|The Two Towers]]'', Book Four, Chapter X: "[[The Choices of Master Samwise]]"</ref><ref>''[[The Lord of the Rings]]'','' [[The Return of the King (novel)|The Return of the King]]'', Book Six, Chapter I: "[[The Tower of Cirith Ungol]]"</ref>
+
+[[Tolkien|J.R.R. Tolkien]]'s first ideal name for Gorbag was ''Yagúl, ''as mentioned in ''[[Sauron Defeated]].''
+
+== Portrayal in adaptations ==
+=== The Lord of the Rings: The Return of the King ===
+
+[[File:Gorbag(Uruk).jpg|thumb|190px|Gorbag as an Uruk by [[John Howe]]]]In [[Peter Jackson]]'s [[The Return of the King (film)|live-action film]], Gorbag and Shagrat have a major role reversal. In the book, Shagrat informs Gorbag of the nature of Shelob's venom and how it functions, whereas Gorbag assumes this role in the film and explains it to his fellows upon finding Frodo. Also, Shagrat is the one to claim the vest for himself, while Gorbag insists it be taken to Sauron. After the fight, Shagrat flees to the [[Black Gate]] with the ''mithril'' shirt while the wounded Gorbag is left for dead in the tower. He was in fact still alive and was about to kill Frodo when [[Samwise Gamgee]] impales him from behind. Another difference is that the book version of Gorbag is a [[Black Uruks|Black Uruk]] (the same as Shagrat) while in the film, Gorbag is a crook-legged and long-armed orc. It should be noted that the death of the orc captain in the film is similar to the end of [[Snaga (orc)|Snaga]]. 
+
+Gorbag was portrayed by [[Stephen Ure]], the same actor who had played [[Grishnákh]] in the [[The Two Towers (film)|previous film]].
+
+=== The Lord of the Rings: The Return of the King (video game) ===
+
+Gorbag appears as a boss at the end of the "[[Cirith Ungol (level)|Cirith Ungol]]". In the game, Gorbag knocks down Shagrat and then Sam must defeat him by stunning him with javelins.
+
+=== The Lord of the Rings: Game Boy Advance Third Age ===
+
+In this game, Gorbag is an evil mini-hero that can be picked up in certain levels.
+
+=== LEGO: The Lord of the Rings ===
+
+[[File:ABCDEF.jpg|thumb|275x275px|Lego Gorbag]]
+
+Gorbag is a character in ''[[LEGO The Lord of the Rings]]''.
+
+=== Voice dubbing actors ===
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" bgcolor="#EDEEFF" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;"
+| width="300px" |'''Foreign Language'''
+| width="300px" |'''Voice dubbing artist'''
+|-
+|Portuguese (Brazil) (Television/DVD)
+|Guilherme Lopes
+|-
+|German
+|Thomas Albus
+|-
+|Italian (Italy)
+|Mauro Magliozzi
+|}
+
+</div>
+{{Clear}}
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Amharic
+|ጎርባግ
+|-
+|Arabic
+|جورباج
+|-
+|Armenian
+|Գորբագ
+|-
+|Belarusian Cyrillic
+|Горбаг
+|-
+|Bengali
+|গরবাগ
+|-
+|Bulgarian Cyrillic
+|Горбаг
+|-
+|Chinese (Hong Kong)
+|哥巴葛
+|-
+|Georgian
+|ღორბაგი
+|-
+|Greek
+|Γκόρμπαγκ
+|-
+|Gujarati
+|ગોરબાગ
+|-
+|Hindi
+|गोर्बग
+|-
+|Japanese
+|ゴルバグ
+|-
+|Kannada
+|ಗೋರ್ಬಾಗ್
+|-
+|Kazakh
+|Горбаг (Cyrillic) Gorbag (Latin)
+|-
+|Korean
+|고르바그
+|-
+|Kyrgyz Cyrillic
+|Горбаг
+|-
+|Macedonian Cyrillic
+|Горбаг
+|-
+|Marathi
+|गोरबाग
+|-
+|Mongolian Cyrillic
+|Горбаг
+|-
+|Nepalese
+|गोरबाग
+|-
+|Persian 
+|عورباگ ?
+|-
+|Russian
+|Горбаг
+|-
+|Serbian
+|Горбаг (Cyrillic) Gorbag (Latin)
+|-
+|Tajik Cyrillic
+|Горбаг
+|-
+|Tamil
+|கோர்பக்
+|-
+|Telugu
+|గొర్బ్యాగ్
+|-
+|Ukrainian Cyrillic
+|Горбаг
+|-
+|Urdu
+|گورباگ
+|-
+|Uzbek
+|Горбаг (Cyrillic) Gorbag (Latin)
+|-
+|Yiddish
+|גאָרבאַג
+|}
+
+</div>
+{{Clear}}
+
+== References ==
+<references />
+
+[[de:Gorbag]]
+[[es:Gorbag]]
+[[it:Gorbag]]
+[[pl:Gorbag]]
+[[pt-br:Gorbag]]
+[[ru:Горбаг]]
+[[Category:Villains]]
+[[Category:Uruk-hai]]
+[[Category:Servants of Sauron]]
+[[Category:The Lord of the Rings Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]
+[[Category:Morgul Orcs]]

@@ -1,0 +1,131 @@
+{{Infobox Person Ents
+| image = Bregalad - TT.png
+| caption = Ent presumed to be '''Quickbeam''' in the [[Peter Jackson]]'s ''[[The Lord of the Rings: The Two Towers (film)|The Lord of the Rings: The Two Towers]]''.
+| name = 
+| othernames = Quickbeam
+| title = 
+| birth =  
+| rule =
+| death = 
+| realms =[[Fangorn]] 
+| spouse = 
+| weapon = 
+| race = [[Ents]]
+| culture = 
+| gender = Male
+| height = 
+| hair = 
+| eyes = 
+| actor = 
+| voice = 
+| character =
+ }}
+
+{{Quote|Ha, hmm, my friends, let us go for a walk! I am Bregalad, that is Quickbeam in your language. But it is only a nickname, of course. They have called me that ever since I said ''yes'' to an elder [[Ent]] before he had finished his question. Also I drink quickly, and go out while some are still wetting their beards. Come with me!|Bregalad to [[Merry]] and [[Pippin]] in ''[[The Two Towers]]''}}
+
+'''Bregalad''', known in the common tongue as '''Quickbeam''', was an [[Ent]] at the time of the [[War of the Ring]]. He was significantly younger than elder Ents such as [[Treebeard]]. He guarded the rowan trees and resembled a rowan himself. 
+
+== Biography ==
+Bregalad was one of [[Skinbark|Skinbark's]] people; he made his home on the mountain-slopes west of [[Isengard]] until the [[Orcs]] cut down his forest. Having no other choice, he then moved to an Ent-house near [[Derndingle]] in [[Fangorn Forest|Fangorn]].
+
+At the [[Entmoot]], Bregalad lived up to his reputation for hastiness; he was the first Ent that decided to attack [[Isengard]], since [[Saruman]]'s Orcs had destroyed many of his rowan groves. Seeing that Bregalad's mind had already been made up, Treebeard then sent him to watch over [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] while the debate among the other Ents continued. He [[Bregalad's Song|sang songs]] and laughed with the [[hobbit]]s, who stayed at his Ent-house near Derndingle while the Entmoot was held.<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Two Towers|''The Two Towers'']], Book Three, Ch. IV: "[[Treebeard (chapter)|Treebeard]]"</ref>
+
+Bregalad later played an important role in the [[Destruction of Isengard]], as he fought alongside Treebeard and nearly captured [[Saruman]] himself. After the water from [[Isen]] river had flooded Isengard, he stood guard at the bottom of the stairs of [[Orthanc]]. After the [[War of the Ring]], his fate is unknown.
+
+== Portrayal in adaptations ==
+
+[[File:The Lord of the Rings Online - Quickbeam.jpg|thumb|Quickbeam's appearance in ''[[The Lord of the Rings Online]]'']]
+
+In [[The Lord of the Rings Online|''The Lord of the Rings Online'']] Quickbeam is found in the grove near [[Nan Curunír]] mourning the loss of his tree-friends. He asks the player to exact vengeance upon Orcs and [[Uruk]]s and deprive them of the means to hurt even more trees.
+
+In [[LEGO The Lord of the Rings: The Video Game|''LEGO The Lord of the Rings: The Video Game'']], the player can choose either using [[Treebeard]] or another lighter-colored Ent to destroy Isengard, which is assumed by some to be Quickbeam. Both of them have the same abilities and speed.
+
+== Etymology ==
+
+'''''Bregalad''''' is a [[Sindarin]] name and roughly translates as "Quickbeam" (from ''bragol'' and ''galad'' which means "sudden" and "tree"). He received this nickname when he answered "yes" before an elder Ent had finished asking the question; this also showed his "hasty" temper for his [[Ents|race]].<ref>[[J.R.R. Tolkien]], "Words, Phrases and Passages in Various Tongues in The Lord of the Rings", in Parma Eldalamberon XVII (edited by [[Christopher Gilson]]), p. 82 </ref>
+
+== Trivia ==
+* Although Quickbeam does not expressly appear in ''[[The Lord of the Rings: The Two Towers (film)|The Lord of the Rings: The Two Towers]]'' film adaptation, there is a "Rowan [[Ent]]" seen in the film that many fans have taken to be Quickbeam pared down to a non-speaking role.
+* "Quickbeam" is the internet pseudonym of [[Clifford Broadway|Cliff Broadway]], a Senior Staff at [[TheOneRing.net]].
+
+== Translations ==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Bulgarian Cyrillic
+|Брегалад
+|-
+|Chinese (Hong Kong)
+|快枝
+|-
+|Danish
+|Bregalad (Lynstråle)
+|-
+|Finnish
+|Bregalad (Äkkipää)
+|-
+|Gujarati
+|બ્રેગાલેડ
+|-
+|Hebrew
+|ברגאלאד
+|-
+|Hungarian
+|Hamariberkenye
+|-
+|Kannada
+|ಬ್ರೆಗಾಲಾಡ್
+|-
+|Macedonian Cyrillic
+|Брегалад
+|-
+|Marathi
+|ब्रेगलॅड
+|-
+|Norwegian
+|Bregalad a.k.a. Rappstråle<br />Bregalad a.k.a. Bråbom
+|-
+|Portuguese (Brazil)
+|Bregalad a.k.a. Tronquesperto
+|-
+|Punjabi
+|ਬ੍ਰਿਗਾਲਡ
+|-
+|Russian
+|Брегалад
+|-
+|Sinhalese
+|බැග්ගලඩ්
+|-
+|Tamil
+|பிரேக்லட்
+|-
+|Telugu
+|బ్రేగలదు
+|-
+|Ukrainian Cyrillic 
+|Брегалад
+|}
+
+</div>
+{{Clear}}
+
+{{Ents}}
+
+== References ==
+<references />
+
+[[Category:Ents]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:CGI characters]]
+[[Category:Sindarin words]]
+
+[[de:Bregalad]]
+[[es:Ramaviva]]
+[[it:Sveltolampo]]
+[[pl:Bregalad]]
+[[ru:Брегалад]]
+[[Category:Minor characters (The Lord of the Rings)]]

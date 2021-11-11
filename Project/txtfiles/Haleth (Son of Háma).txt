@@ -1,0 +1,58 @@
+{{NonCanon}}
+<br />
+{{Infobox Non-canonical Character
+|Name= 
+|Image= Haleth-Son_of_Hama.jpg
+|Caption= '''Haleth''', the son of [[Háma]].
+|AKA= 
+|Race= [[Men]]
+|Lifespan= Early [[Third Age]] - Unknown
+|Gender=Male 
+|Realm= [[Rohan]]
+|Culture= [[Rohirrim]]
+|Weapon= [[Sword]]
+|Actor= [[Callum Grittins]]
+|Voice=
+}}
+
+'''Haleth''' was a young boy of [[Rohan]], estimated to be around fourteen years old, who is forced to fight at the [[Battle of the Hornburg|Battle of Helm's Deep]]. He is a movie character and does not appear in the [[The Two Towers (novel)|book]].
+
+== Portrayal in adaptations ==
+=== Peter Jackson's The Two Towers ===
+
+Haleth is the son of [[Háma]], the door-warden of Meduseld who has died in a [[Warg]] attack. Haleth's only appearance is at Helm's Deep, where he has a grim conversation with [[Aragorn]], telling Aragorn that the men believe that they will not survive the night. Aragorn then reassures him, stating that there is always hope. It is uncertain whether Haleth survived the battle or died defending the fortress alongside many others.  
+
+Haleth is played by [[Calum Gittins]].
+
+=== Voice dubbing actors ===
+
+{| class="wikitable" style="text-align: center;"
+!Foreign Language
+!Voice dubbing artist
+|-
+|Portuguese (Brazil) (Television/DVD)
+|Fábio Lucindo
+|-
+|Italian (Italy)
+|Alessio Puccio
+|-
+|Spanish (Spain)
+|Jonatán López
+|-
+|Spanish (Latin America)
+|Alfonso Obregón
+|}
+
+== Gallery ==
+<gallery>
+Haleth's sword.jpg|Haleth and his sword
+Haleth, prepared for battle..jpg|Haleth preparing to defend Helm's Deep in The Two Towers film.
+</gallery>
+
+[[Category:Non-canonical Rohirrim]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:Characters created for Peter Jackson's trilogy]]
+
+[[de:Haleth (Rohan)]]
+[[pl:Haleth]]
+__NOTOC__

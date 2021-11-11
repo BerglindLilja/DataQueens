@@ -1,0 +1,339 @@
+{{Featured star}}
+{{Infobox Person Men
+| image = kingofthedead.jpg
+| caption = The '''King of the Dead''' in [[Peter Jackson]]'s ''[[The Lord of the Rings: The Return of the King (film)|The Return of the King]]''
+| name = 
+| othernames = True name unknown
+| title = 
+| birth = [[Second Age]] 
+| rule = [[Second Age]] - [[TA 3019]] 
+| death = Sometime after the [[War of the Last Alliance]] (as a Man), [[March]], [[3019]] (final death)
+| realms = [[White Mountains]], [[Paths of the Dead]]
+| spouse = 
+| weapon = [[Weapons|Spear]]
+| race = [[Men]], later [[undead]]
+| culture = [[Oathbreakers|Men of the Mountains]] (Oathbreakers)
+| gender = 
+| height =  
+| hair = 
+| eyes = 
+| actor = [[Paul Norell]]
+| voice = [[Steve Blum]] ([[The Lord of the Rings: Aragorn's Quest|video game]])
+| character = 
+}}
+{{Quote|... all that were left fled to the hills at the rumour of the coming of the King of the Dead.|''The Return of the King'', Chapter II: "The Passing of the Grey Company"}}
+
+The '''King of the Dead''', originally "'''King of the Mountains'''", was king of the [[Army of the Dead|Dead Men of the Mountains]] in [[Dwimorberg]], and before that had been a living [[Man]]. His spirit resided along with that of his kin in the [[Paths of the Dead]].
+
+==Biography==
+
+In the later years of the [[Second Age]], he and his men also served and worshiped [[Sauron]], until he and his army swore allegiance to the realm of [[Gondor]]. [[Isildur]] was the [[Kings of Gondor|King of Gondor]] at that time. The King of the Dead made an oath to fight on Isildur's side when needed, but when that moment of need arrived in the [[War of the Last Alliance]] he did not come. Isildur cursed the King of the Dead and his army. As a result, the King of the Dead and his followers could not rest until his oath was fulfilled. 
+
+In the late [[Third Age]], the king and his army joined with [[Aragorn II Elessar|Aragorn]] and the [[Grey Company]] during the [[War of the Ring]], after Aragorn passed through Dwimorberg and summoned them at the [[Stone of Erech]].<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Return of the King (novel)|''The Return of the King'']], Book Five, Ch. II: "[[The Passing of the Grey Company]]"</ref> The [[Army of the Dead]] then followed Aragorn to [[Pelargir]], where they defeated the [[Corsairs of Umbar|Corsairs of Umbar.]] Aragorn, as Heir of Isildur, subsequently declared the oath of the Army of the Dead as fulfilled. Upon hearing this, the king broke his spear and threw it aside then bowed to Aragorn, turned away, and with the rest of his people "vanished like a mist that is driven back by a sudden wind," never to be seen again.<ref>''[[The Lord of the Rings]], [[The Return of the King (novel)|The Return of the King]],'' Book Five, Ch. IX: "[[The Last Debate]]"</ref>
+
+==Portrayal in adaptations==
+===The Lord of the Rings film trilogy===
+{{Blockquote|The way is...shut. It was made by those who are dead...and the dead keep it. The way is shut.|The King of the Dead}}
+
+In [[The Lord of the Rings: The Return of the King|''The Lord of the Rings: The Return of the King'']], several details are changed from the book. This king first appears to Aragorn as a quick vision when he is looking at the [[Dimholt]] road. He later manifests to Aragorn, [[Legolas]], and [[Gimli]] when they are taking the [[Paths of the Dead]]. He spars briefly with Aragorn, resisting Aragorn's authority at first but later agreeing to fight. The king and his army attack the Corsairs, preventing them from entering Gondor, after which they accompany Aragorn, Legolas, and Gimli to [[Minas Tirith]]. To complete the oath he helped defend Minas Tirith when it was under attack by an army of [[Orc]]s and [[Trolls]] and their leader the [[Witch-king of Angmar]]. After the [[Battle of the Pelennor Fields|battle]] the curse was broken by Aragorn, putting the Oathbreakers at rest.
+
+===Video games===
+
+In the console versions of ''[[The Lord of the Rings: The Return of the King (video game)|The Lord of the Rings: The Return of the King]]'' video game (for instance, the PlayStation 2 version), he is the first boss on Aragorn, [[Legolas]] and [[Gimli]]'s path. Other than wielding a large [[sword]], he uses sorcery to create blasts of wind called "Wind of the Mountain", and chants spells to summon his undead army including undead archers and swordsmen. If one listens closely, it appears and sounds as if he is reciting part of the first line of the inscription on the One Ring, specifically "Ash nazg durbatulûk"''.'' He was voiced by [[Jairon Monroe]].
+
+The King of the Dead appears as a non-playable character in ''[[The Lord of the Rings: Aragorn's Quest]]''.  In the Wii and PS3 versions, he appears in the penultimate story level and is fought as an optional boss in the Shire overworld, after that level is completed.  This optional boss fight is the culmination of a particular Side Quest where [[Frodo Gamgee]] goes into Mushroom Woods to re-enact Aragorn's journey into the Path of the Dead to recruit the Armies of the Dead, fighting him and his men along the way to convince them to join him to save Minas Tirith.
+
+[[File:The Lord of the Rings Online - King of the Dead.jpg|thumb|left|King Rioc in life in ''[[The Lord of the Rings Online]]'']]
+In ''[[The Lord of the Rings Online]]'' The King of the Dead is named Rioc. Although his men were unwilling to fight [[Sauron]] because they had worshiped him, his excuse for not honoring the oath given to [[Isildur]] was because his daughter Bravantel had an out-of-wedlock child with one of his [[Númenórean]] warriors. He leads his people after joining [[Aragorn]]'s host and is freed after the liberation of [[Pelargir]].
+
+===Voice dubbing actors===
+
+{| class="wikitable" style="text-align: center;"
+!Foreign Language
+!Voice dubbing artist
+|-
+|Spanish (Latin America)
+|Gonzalo Curiel
+|-
+|Spanish (Spain)
+|Gonzalo Dúran
+|-
+|Portuguese (Brazil) (Television/DVD)
+|Wellington Lima
+|-
+|German
+|Jürgen Jung
+|-
+|Czech
+|Bedřich Šetena
+|-
+|Italian (Italy)
+|Nino Prester
+|-
+|French (France)
+|François Siener
+|}
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Afrikaans
+|Die Koning van die Dood
+|-
+|Albanian
+|Mbreti i të Vdekurve
+|-
+|Amharic
+|የሙታን ንጉሥ
+|-
+|Arabic
+|ملك الأموا
+|-
+|Armenian
+|Թագաւորը մեռելներուն
+|-
+|Belarusian Cyrillic
+|Кароль Мёртвых
+|-
+|Bengali
+|মৃত রাজা ?
+|-
+|Bulgarian Cyrillic
+|Краля на мъртвите
+|-
+|Burmese
+|လူသေ၏ဘုရင်
+|-
+|Cambodian
+|ស្ដេចនៃការស្លាប់
+|-
+|Catalan
+|El Rei dels Morts
+|-
+|Chinese (Hong Kong)
+|亡靈之王
+|-
+|Croatian
+|Kralj mrtvih
+|-
+|Czech
+|Král mrtvých
+|-
+|Danish
+|Kongen af Døde
+|-
+|Dutch
+|De Koning van de Doden
+|-
+|Estonian
+|Kuningas surnud
+|-
+|Fijian
+|Na tui mai na mate
+|-
+|Finnish
+|Kuningas kuollut
+|-
+|French
+|Le Roi des Morts
+|-
+|Frisian
+|De kening fan 'e Deaden
+|-
+|Galician
+|O Rei dos Mortos
+|-
+|German
+|König der Toten
+|-
+|Greek
+|Ο βασιλιάς των νεκρών
+|-
+|Gujarati
+|ડેડ ઓફ કિંગ
+|-
+|Hebrew
+|המלך המת
+|-
+|Hindi
+|मृत के राजा
+|-
+|Hmong
+|Tus huab tais ntawm cov neeg tuag
+|-
+|Hungarian
+|A halottak királya
+|-
+|Icelandic
+|Konungur af Dauðum
+|-
+|Igbo
+|Eze nke ndị nwụrụ Anwụ
+|-
+|Indonesian
+|Raja Kematian
+|-
+|Irish Gaelic
+|An Rí na Marbh
+|-
+|Italian
+|Il Re dei Morti
+|-
+|Japanese
+|死者の王
+|-
+|Javanese
+|Raja Mati
+|-
+|Kannada
+|ಸತ್ತ ರಾಜ
+|-
+|Kazakh Cyrillic
+|Өлгендердің патшасы
+|-
+|Korean
+|죽은 자의 왕
+|-
+|Kyrgyz Cyrillic
+|өлгөндөрдүн Кинг
+|-
+|Laotian
+|ກະສັດຄົນຕາຍ
+|-
+|Latin
+|Rex mortuorum
+|-
+|Latvian
+|Karalis mirušo
+|-
+|Lithuanian
+|Mirusiųjų karalius
+|-
+|Luxembourgish
+|D'Kinnek vun den Doudegen
+|-
+|Macedonian Cyrillic
+|Кралот на мртвите
+|-
+|Malay
+|Raja yang Mati
+|-
+|Malayalam
+|ഡെഡ് രാജാവ്
+|-
+|Marathi
+|मृत राजा
+|-
+|Mongolian Cyrillic
+|Үхсэн хаан
+|-
+|Norwegian
+|Kongen av Døde
+|-
+|Nepalese
+|मृत राजा
+|-
+|Pashto
+|د وژل پاچا
+|-
+|Persian
+|پادشاه مرده
+|-
+|Polish
+|Król Umarłych
+|-
+|Portuguese
+|O Rei dos Mortos
+|-
+|Punjabi
+|ਮਰਿਆ ਰਾਜਾ
+|-
+|Romanian
+|Regele Morţilor
+|-
+|Scottish Gaelic
+|Tha righ de na Marbh
+|-
+|Serbian
+|Краљ мртвих (Cyrillic) Kralj od Mrtvih (Latin)
+|-
+|Sinhalese
+|මළ රජු
+|-
+|Sindhi
+|مردار جو بادشاهه
+|-
+|Slovenian
+|Kralj mrtvih
+|-
+|Somalian
+|Markaasaa boqorkii dalka Dhimatay
+|-
+|Spanish
+|Rey de los Muertos
+|-
+|Swahili
+|Mfalme wa Wafu
+|-
+|Swedish
+|Kungen av Döda
+|-
+|Tajik Cyrillic
+|Подшоҳи мурдагон
+|-
+|Tamil
+|டெட் கிங்
+|-
+|Telugu
+|కింగ్ ఆఫ్ ది డెడ్
+|-
+|Thai
+|ราชาแห่งความตาย
+|-
+|Turkish
+|Ölüler Kralı
+|-
+|Ukrainian Cyrillic
+|король Мертвих
+|-
+|Urdu
+|مردار کے بادشاہ
+|-
+|Uzbek
+|Ўлик Қироли (Cyrillic) O'lik Qiroli (Latin)
+|-
+|Vietnamese
+|Vị vua của cái Chết
+|-
+|Welsh
+|Brenin y Meirw
+|-
+|Xhosa
+|UKumkani Abafileyo
+|-
+|Yiddish
+|דער מלך פון די דעד
+|-
+|Yoruba
+|Ọba Òkú
+|}
+
+</div>
+{{Clear}}
+
+==References==
+<references />
+
+[[de:König der Toten]]
+[[es:Rey de los Muertos]]
+[[pl:Król Umarłych]]
+[[ru:Король Мёртвых]]
+[[Category:Kings]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:Servants of Sauron]]
+[[Category:Undead Apparitions]]

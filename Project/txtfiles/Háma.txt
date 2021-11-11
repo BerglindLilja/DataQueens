@@ -1,0 +1,66 @@
+{{Disamb-two|doorward of [[Meduseld]]|son of [[Helm Hammerhand]]|[[Háma (Helm's son)|Háma]]}}
+{{Infobox Person Men Rohan
+|image = Háma.jpg
+|caption = '''Háma as portrayed by [[John Leigh]]''' in [[Peter Jackson]]'s ''[[The Two Towers (film)|The Two Towers]]''
+|name = 
+|title = Doorward of Meduseld, Captain of the King's guard
+|birth = 
+|death = [[March 3]] or [[March 4|4]], [[3019]]
+|spouse = 
+|weapon = 
+|race = [[Men]]
+|gender = 
+|hair = 
+|eyes = 
+|culture = 
+|actor = [[John Leigh]]
+|voice = [[Tom Kane]] ([[The Lord of the Rings: Aragorn's Quest|video game]])
+}}
+{{Quote|I believe you are friends and folk worthy of honour, who have no evil purpose. You may go in.|Háma to [[Gandalf]] in ''[[The Two Towers]]''}}
+
+'''Háma''' was a [[Rohirrim|Man of Rohan]], the doorward of [[Meduseld]] and captain of [[Théoden]]'s guard.
+
+== Biography ==
+
+Háma greeted [[Gandalf]], [[Aragorn II Elessar|Aragorn]], [[Legolas]] and [[Gimli]] when they arrived to speak with King Théoden. He told the company to leave their weapons behind, by order of [[Gríma Wormtongue]], before entering the King's hall. He disarmed Aragorn, Legolas, and Gimli, but against the King's orders permitted Gandalf to keep his staff with him as a courtesy, though he knew, as he remarked, that "The staff in the hand of a wizard may be more than a prop for age."
+
+Háma was present at the [[Battle of the Hornburg]], and died defending the gates of the [[Hornburg]]. He was buried at Helm's Deep after the battle.<ref>''[[The Two Towers (novel)|The Lord of the Rings]]''[[The Two Towers (novel)|,'' The Two Towers'']]'','' Book Three, Chapter VI: "[[The King of the Golden Hall]]"</ref>
+
+== Portrayal in adaptations ==
+=== Peter Jackson's The Two Towers ===
+
+[[File:LOTRO-Háma.jpg|thumb|200px|Háma in ''[[The Lord of the Rings Online]]'']]
+
+In the [[The Two Towers (film)|film]], Háma was still the doorward of Théoden. He allows Gandalf to pass with his staff as well. He is later killed by a [[Warg]]-rider scout during Saruman's attack on the retreating Rohirrim, and then devoured by the Warg while its rider fights [[Gamling]] and is killed by [[Legolas|Legolas.]] Háma's body is left behind. His only known relation is his son, [[Haleth (Son of Háma)|Haleth]] (a non-canon character), who is one of the many youth made to protect Helm's Deep.
+
+[[New Zealand]] actor [[John Leigh]] plays Háma.
+
+==== Voice dubbing actors ====
+{| class="wikitable" style="text-align: center;"
+!Foreign Language
+!Voice dubbing artist
+|-
+|German
+|Hans-Georg Panczak
+|}
+
+=== Radio ===
+[[Michael Spice]] provided the voice for Háma in ''[[The Lord of the Rings (1981 radio series)|The Lord of the Rings ]]''[[The Lord of the Rings (1981 radio series)|1981 radio series]].
+
+=== Video games ===
+* In ''[[The Lord of the Rings Online]]'', Háma escorts the player and their companions to an audience with King [[Theoden]] on two separate occasions. He later travels from [[Edoras]] to [[Helm's Deep]], where after the battle a song of his valiant last stand before the gates is sung by King's minstrel [[Gléowine]].
+
+[[File:Lego_Háma.jpg|thumb|200px|Hama as he appears in ''[[LEGO The Lord of the Rings: The Video Game]]]]
+* Háma makes an appearance in ''[[LEGO The Lord of the Rings: The Video Game]]'', where he is a playable character, and can be purchased at the gate of Edoras.
+
+== References ==
+<References />
+[[de:Háma]]
+[[es:Háma]]
+[[fr:Háma]]
+[[it:Háma]]
+[[pl:Háma]]
+[[ru:Хама]]
+[[Category:Rohirrim]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]

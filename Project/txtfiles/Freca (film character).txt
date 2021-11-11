@@ -1,0 +1,45 @@
+{{NonCanon}}
+{{Infobox Non-canonical Character
+|Name= Freca
+|Image= Freca.png
+|Caption= '''Freca''' in [[Peter Jackson]]'s ''[[The Two Towers (film)|The Two Towers]]''.
+|AKA=
+|title= Dunlending Chieftain
+|Race= [[Men]]
+|Lifespan= Late [[Third Age]] - ?
+|Gender= Male
+|Height= Average ?
+|Realm= [[Dunland]]
+|Culture= [[Dunlendings]]
+|Weapon= Dunlending Knife
+|Actor= [[Timothy Lee]]<ref>http://www.imdb.com/name/nm0498368/?ref_=ttfc_fc_cl_t57</ref>
+|Voice=
+}}
+
+{{Quote|We will die for Saruman.|Freca pledging his support to Saruman.}}
+
+'''Freca'''<ref name=colnect>http://colnect.com/en/trading_card_games/trading_card_game/17306-•Freca_Hungry_Savage-Reflection-Lord_of_The_Rings</ref> was a [[Dunlending]] Chieftain in [[Peter Jackson]]'s ''[[The Two Towers (film)|The Two Towers]]'' who allied himself with the wizard [[Saruman]]. 
+
+== Portrayal in adaptations ==
+===Peter Jackson's The Two Towers=== 
+
+Summoned at [[Orthanc]], Freca was persuaded by Saruman to join with the growing power of [[Sauron]] in a bid to weaken the kingdom of [[Rohan]]. Agreeing to the pact, Freca swore a blood oath of allegiance to Saruman, cutting his hand with a knife.  Presumably, he then led Dunlending raids against Rohan. 
+
+== Appearances ==
+*''[[The Two Towers (film)|The Two Towers]]'' <small>(First appearance)</small>
+
+== Trivia ==
+*Freca is featured in the ''[[The Lord of the Rings Trading Card Game]]'' where he was identified as a 'Hungry Savage' and a Minion - Man.<ref name=colnect>http://colnect.com/en/trading_card_games/trading_card_game/17306-•Freca_Hungry_Savage-Reflection-Lord_of_The_Rings</ref>  
+
+== References ==
+<references/>
+
+[[Category:Non-canonical Men]]
+[[Category:Non-canonical villains]]
+[[Category:Non-canonical Agents of Saruman]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:Characters created for Peter Jackson's trilogy]]
+[[Category:Characters in The Lord of the Rings Trading Card Game]]
+
+[[pl:Freka (postać filmowa)]]
+[[Category:Non-canonical Servants of Sauron]]

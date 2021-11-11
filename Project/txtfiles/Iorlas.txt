@@ -1,0 +1,46 @@
+{{Infobox Person Men Gondor
+   | image = 
+   | caption = 
+   | name = Iorlas
+   | title = 
+   | birth = c. [[TA 2990]]
+   | rule = 
+   | death = Early-[[Fourth Age]]
+   | realms = 
+   | spouse = 
+   | weapon = 
+   | race = [[Men]]
+   | culture = [[Men of Gondor|Man of Gondor]]
+   | gender = Male
+   | height = 
+   | hair = 
+   | eyes = 
+   | actor = 
+   | voice = 
+   | character = 
+   }}
+
+'''Iorlas''' (b. [[TA 2990]]) was a man who lived in [[Minas Tirith]]. He was the uncle of [[Bergil]].
+
+== Biography ==
+
+While talking with [[Peregrin Took|Pippin]] who mentioned his age, Bergil said that Pippin was as old as his uncle Iorlas. 
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Iorlas.jpg|thumb|337x337px|Iorlas in ''The Lord of the Rings Online'']]
+In ''[[The Lord of the Rings Online]]'' Iorlas is [[Beregond]]'s brother and is first found  on the seventh level of pre-battle [[Minas Tirith]]. During the siege of the city he is struck by a fallen stone, but is protected by his helmet, suffering only what he calls a "dizziness". 
+
+== References ==
+* [[The Lord of the Rings]] pg. 769
+
+== See also ==
+*[[Irolas]], a movie character in Minas Tirith whose name can be mistaken for Iorlas'
+*[[Guard of the Citadel]]
+
+[[de:Iorlas]]
+[[es:Iorlas]]
+[[ru:Иорлас]]
+[[Category:Characters]]
+[[Category:Men of Gondor]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]
+[[Category:The Silmarillion Characters]]

@@ -1,0 +1,169 @@
+{{Infobox Person Men Rohan
+| image = Grimbold2.jpg
+| caption = 
+| name = Grimbold
+| othernames = 
+| title = [[Marshal|Marshal of Rohan]]
+| birth = Late [[Third Age]] ?
+| rule =
+| death = [[March 15]], [[3019]]
+| realms = 
+| spouse = 
+| weapon = [[Sword]], spear
+| race = [[Men]]
+| culture = [[Rohirrim]]
+| gender = 
+| height = 
+| hair = 
+| eyes = 
+| actor = [[Bruce Phillips]]<ref name=imdb>http://www.imdb.com/name/nm0680273/</ref>
+| voice = 
+| character =
+}}
+
+'''Grimbold''' was a [[Rohan]] commander from [[Grimslade]]. He led the [[Rohirrim|Riders of Rohan]] during the First [[Battles of the Fords of Isen|Battle of the Fords of Isen]] along with [[Elfhelm]] and [[Théodred]] and killed many [[Orcs]]. Soon he had to retreat due to the death of Théodred. He distinguished himself during the Second Battle of the Fords of Isen by holding off a large army of Orcs for an extended period of time, then staging a retreat with minimal losses when enemy forces arrived.
+
+Later, he commanded the Right-wing of the Rohirrim army sent to aid [[Gondor]] at the [[Battle of the Pelennor Fields]] until he was slain by Orcs.
+
+== Biography ==
+
+Hailing from [[Westfold]], he was one of [[King Théoden]]'s commanders.
+
+During the time of the War of the Ring, he distinguished himself fighting alongside [[Elfhelm]] and Théodred, Théoden's son, in the [[Battles of the Fords of Isen]]. In particular, Grimbold managed to save Théodred's body from [[Saruman]]'s [[Uruk-hai]] after he was mortally wounded. Grimbold later assumed command of the [[Rohirrim]] of [[Westfold]] as [[Erkenbrand]] was delayed, sharing it with Elfhelm.
+
+While Elfhelm wanted to abandon the Fords, Grimbold wanted to hold them, partially due to the tradition of Westfold. Grimbold was surrounded but his [[shield]]-wall held despite no aid from Erkenbrand and Elfhelm. Grimbold then orchestrated a daring break out. He mounted all the riders for whom he had [[horse]]s and made a gap on the east side of the wall through which the riders passed. They formed into two groups and attacked the north and south sides simultaneously. In the ensuing confusion, the remaining Rohirrim retreated on foot as quickly as they could in the dark.
+
+[[File:Grimbold - LOTRO.jpg|thumb| As depicted in ''[[The Lord of the Rings Online]]'']]
+
+As a reward for his valour, he was promoted to Third [[Marshal|Marshal of the Mark]] (holding the function though not the title), which was left vacant when [[Éomer]] was reinstated to lead the ''First [[Éored]]'' during the Battle of the Pelennor Fields. Grimbold fell in that battle slain by Orcs. Afterwards, the memory of his death as with others was lamented in the ''[[Song of the Mounds of Mundburg|Mounds of Mundburg]]''; in it he is described as "doughty".<ref>''[[The Lord of the Rings]], [[The Return of the King (novel)|The Return of the King]],'' Book Five, Chapter VI: "[[The Battle of the Pelennor Fields]]"</ref><ref>''[[The Complete Guide to Middle-earth]]''</ref>
+
+== Portrayal in adaptations ==
+=== The Lord of the Rings film trilogy ===
+* Grimbold appears briefly in [[Peter Jackson]]'s ''[[The Return of the King (film)|The Return of the King]]'' and was played by [[Bruce Phillips]].<ref name=imdb>http://www.imdb.com/name/nm0680273/</ref>
+
+=== Video games ===
+* In ''[[The Lord of the Rings Online]]'' Grimbold is the Thane of Grimslade and the husband of Hildith, who leads the people in his abscence. Grimbold is first met in his encampment in eastern Heathfells region of the [[Gap of Rohan]], where as second-in-command of Prince [[Theodred]] he is concerned with slowing the way of the inevitable advance of the [[Dunlendings]]. During the First Battle of the Fords Grimbold fights shoulder-to-shoulder with the player for most of the day. By the end of it the Rohirrim forces are driven to the Fords where Grimbold is too late to save the Prince from a mortal blow by the large Uruk, for which he blames himself. In the aftermath of the second battle of the Fords, Gandalf tasks the player with searching for Grimbold, and after a lengthy search the player eventually finds him defending the grave of the Prince at the [[Fords of Isen]], his only wish to die defending it. Having seen [[Saruman]]'s army firsthand, Grimbold has lost all hope and believes the days of [[Rohan]] to be over until the player rouses him by telling that the King himself had ridden into war. His will renewed, Grimbold finds [[Erkenbrand]] and his men and marches towards [[Hornburg]] as part of the host led by [[Gandalf]]. The player does not see Grimbold again until much later, when the Rohirrim are passing through the [[Druadan Forest]] on their way to the [[Minas Tirith]]. Grimbold perishes on the fields of Pelennor, mauled to death by a [[fell beast]]. He is survived by his elderly mother Elgyth, wife Hildith and twin sons Grimwald and Grimbert, who are not yet of age.
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" bgcolor="#EDEEFF" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;"
+| width="300px" |'''Foreign Language'''
+| width="300px" |'''Translated Name'''
+|-
+|Amharic 
+|ግሪምቦልድ 
+|-
+|Arabic
+|جريبولد
+|-
+|Armenian 
+|Գրիմբոլդ
+|-
+|Belarusian Cyrillic 
+|Грімболд 
+|-
+|Bengali 
+|গ্রিমবোল্ড
+|-
+|Bulgarian Cyrillic 
+|Гримболд 
+|-
+|Chinese (Hong Kong)
+|葛林柏
+|-
+|Georgian 
+|გრიბოლდი
+|-
+|Greek
+|Γριμβολδ 
+|-
+|Gujarati 
+|ગ્રિમ્બોલ્ડ
+|-
+|Hebrew 
+|גרימבלד
+|-
+|Hindi
+|ग्रिम्बोल्द 
+|-
+|Japanese
+|グリムゴールド ?
+|-
+|Kannada 
+|ಗ್ರಿಂಬೊಲ್ಡ್
+|-
+|Kazakh 
+|Грімболд (Cyrillic) Grimbold (Latin)
+|-
+|Korean 
+|그람 볼드
+|-
+|Kyrgyz Cyrillic 
+|Гримболд  
+|-
+|Macedonian Cyrillic 
+|Гримболд
+|-
+|Marathi 
+|ग्रिंबोल्ड
+|-
+|Mongolian Cyrillic 
+|Гримболд 
+|-
+|Nepalese 
+|ग्रिम्बोल्द 
+|-
+|Pashto 
+|ګریمبولد 
+|-
+|Persian
+|گریمبولد ?
+|-
+|Punjabi 
+|ਗ੍ਰਿਮ੍ਬੋਲ੍ਦ 
+|-
+|Russian 
+|Гримбольд
+|-
+|Sinhalese
+|ග්රිබොල්ඩ්
+|-
+|Tajik Cyrillic 
+|Гримболд 
+|-
+|Tamil
+|க்ரிம்போல்ட்
+|-
+|Telugu
+|గ్రిమ్బొల్ద 
+|-
+|Thai
+|งริมบโลด ?
+|-
+|Ukrainian Cyrillic 
+|Ґрімболд 
+|-
+|Urdu
+|گرامبولڈ
+|-
+|Yiddish
+|גרימבאָלד   
+|}
+
+</div>
+{{Clear}}
+== References ==
+<references />
+
+[[de:Grimbold]]
+[[es:Grimbold]]
+[[it:Grimbold]]
+[[pl:Grimbold]]
+[[ru:Гримбольд]]
+
+[[Category:Rohirrim]]
+[[Category:The Lord of the Rings Characters]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]
+[[Category:Deaths in Battle]]
+[[Category:Minor characters (The Lord of the Rings)]]

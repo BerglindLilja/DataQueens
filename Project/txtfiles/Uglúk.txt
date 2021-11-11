@@ -1,0 +1,91 @@
+{{Infobox Person Servants of Evil
+|image = Uglúk.jpg
+|caption = Uglúk in ''[[The Lord of the Rings: The Two Towers]]''
+|name = Uglúk
+|title = Captain of the [[Uruk-hai]]
+|birth = 
+|death =[[February 29]], [[TA 3019]] 
+|realms = [[Isengard]]
+|spouse = 
+|weapon = Scimitar
+|race = [[Uruk-hai]]
+|gender = 
+|culture = 
+|actor = [[Nathaniel Lees]]
+}}
+{{Quote|I command. I return to Isengard by the shortest road.|Uglúk in ''[[The Two Towers]]''}}
+'''Uglúk''' was the leader of the [[Uruk-hai]] who were sent from [[Isengard]] to pursue the [[Fellowship of the Ring]] in [[TA 3019]].
+
+== Biography ==
+Uglúk and his company ambushed the [[Fellowship of the Ring]] at [[Amon Hen]], succeeding in capturing two of the company's four hobbits, [[Meriadoc Brandybuck]] and [[Peregrin Took]]. In the [[Skirmish at Amon Hen|skirmish]], Uglúk killed [[Boromir]] with arrows. Under orders from his lord [[Saruman]], Uglúk's company set out towards [[Isengard]].<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Two Towers|''The Two Towers'']], Book Three, Ch. I: "[[The Departure of Boromir]]"</ref>  
+
+Uglúk stood by Saruman's demands when a band of Orcs from [[Khazad-dûm|Moria]], led by [[Grishnákh]] of Mordor, tried to apprehend [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] to take them to [[Mordor]]. Uglúk beheaded Grishnákh's follower to prevent Saruman's orders from being disobeyed. The hobbits were taken some way further, but near the borders of [[Fangorn Forest]], an [[Éored]] of [[Rohirrim]] led by [[Éomer]] attacked and routed the Uruk-hai. Uglúk was slain in single combat by Éomer himself during the fighting.<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Two Towers|''The Two Towers'']], Book Three, Ch. III: "[[The Uruk-hai]]"</ref>
+
+== Portrayal in adaptations ==
+[[File:Ralph Bakshi's Uglúk.PNG|left|thumb|Uglúk (1978)]]
+
+=== The Lord of the Rings (1978 animated film) ===
+In [[The Lord of the Rings (1978 film)|''The Lord of the Rings'' (1978 film)]], Uglúk  is voiced by a unknown extra.
+
+=== The Lord of the Rings film trilogy ===
+In [[Peter Jackson]]'s movie adaptation of ''[[The Two Towers (film)|The Two Towers]]'', Uglúk is played by [[Nathaniel Lees]]. In the [[The Fellowship of the Ring (film)|preceding film]], the initial leader of the [[Uruk-hai]] was [[Lurtz]], who killed [[Boromir]] and was slain by [[Aragorn]] at [[Amon Hen]]. Uglúk took command of the troop after his death, proving himself disciplined by standing by the instructions given by Saruman from the "[[Sauron|master]]". When [[Snaga (Isengard)|Snaga]]'s hunger proves a threat to the captive Merry and Pippin, Uglúk reminds him of their importance (and that they "are not for eating"), but Snaga tries to lay hands on them anyway, and Uglúk beheads him.
+
+==== Voice dubbing actors ====
+
+{| class="wikitable" style="text-align: center;"
+!Foreign Language
+!Voice dubbing artist
+|-
+|Spanish (Latin America)
+|Gerardo Vásquez
+|-
+|Spanish (Spain)
+|Enrique Serra Frediani
+|-
+|Portuguese (Brazil) (Television/DVD)
+|Mauro Castro
+|-
+|German
+|Gerald Paradies
+|}
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Chinese (Hong Kong)
+|烏骨陸
+|-
+|Greek
+|Ουγκλούκ
+|-
+|Hebrew
+|אוגלוק
+|-
+|Russian
+|Углук
+|}
+
+</div>
+{{Clear}}
+
+== References ==
+<references />[[Category:Uruk-hai]]
+[[Category:Agents of Saruman]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:Deaths in Battle]]
+[[Category:Non-canonical Servants of Sauron]]
+
+[[de:Uglúk]]
+[[es:Uglúk]]
+[[fi:Ugluk]]
+[[it:Uglúk]]
+[[nl:Uglûk]]
+[[pl:Uglúk]]
+[[pt-br:Ugluk]]
+[[ru:Углук]]
+__NOTOC__

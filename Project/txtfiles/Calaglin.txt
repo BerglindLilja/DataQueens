@@ -1,0 +1,36 @@
+{{NonCanon}}
+<br/>
+{{Infobox Non-canonical Character
+|Name=Calaglin
+|Image=Calaglin.jpeg
+|Caption=
+|AKA=
+|Race=[[Elves]]
+|Lifespan=Unknown
+|Gender=Male
+|Realm=[[Lothlórien]]
+|Culture=[[Silvan Elves]], [[Galadhrim]] ([[Wood-elves|Wood-elves of Lothlórien]])
+|Weapon= [[Bow]], [[Elven]] [[sword]]
+|Actor=[[Micha Kemp]]
+|Voice=
+}}
+
+'''Calaglin''' was a [[Silvan Elves|Silvan]] [[Elves|Elf]] warrior from [[Lothlórien]], home of the Elf-lords [[Galadriel]] and [[Celeborn]]. 
+
+== Portrayal in adaptations ==
+=== Peter Jackson's The Fellowship of the Ring ===
+
+Calaglin was one of the elves that encountered the [[Fellowship of the Ring]] when they entered the borders of Lothlórien.<ref>http://lotrtcgwiki.com/wiki/lotr03010</ref>
+
+== Appearances ==
+*''[[The Fellowship of the Ring (film)]]''
+
+== Notes ==
+*The character appears in a decipher card and is portrayed by [[Micha Kemp]].{{Fact}}
+
+== References ==
+<references/>
+
+[[Category:Non-canonical Elves]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Characters created for Peter Jackson's trilogy]]

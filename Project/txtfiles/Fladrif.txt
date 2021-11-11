@@ -1,0 +1,76 @@
+{{Infobox_Person_Ents
+|image = LOTR06035.jpg
+|caption = Skinbark in Peter Jackson's films
+|name = Fladrif
+|othernames = Skinbark
+|birth =  
+|death = 
+|race = [[Ents]]
+|gender = Male
+|height = 
+|culture = Ents of [[Fangorn Forest]]
+|weapon = Boulder (film only)
+}}
+{{Quote|Skinbark lived on the mountain-slopes west of Isengard. That is where the worst trouble has been. He was wounded by the Orcs, and many of his folk and his tree-herds have been murdered and destroyed. He has gone up into the high places, among the birches that he loves best, and he will not come down.|Treebeard}}
+'''Fladrif''', also known as '''Skinbark''',''' '''was an [[ent]] of [[Fangorn Forest]], and was one of the first Ents in [[Middle-earth]]. By the end of the [[Third Age]], only he, [[Leaflock]], and [[Treebeard]] remained of the original Ents.<ref name=":0">''[[The Lord of the Rings]]'','' [[The Two Towers (novel)|The Two Towers]]'', Book Three, Ch. IV: "[[Treebeard (chapter)|Treebeard]]"</ref>
+
+Skinbark lived on the mountain slopes west of [[Isengard]]. [[Saruman]]'s [[Orc]]s ravaged this area, cutting down trees and killing Ents. Skinbark was wounded by the orcs and retreated far up the mountain slopes to live among the birches that he favored, refusing to come down.<ref name=":0" />
+
+== Portrayal in adaptations ==
+
+Skinbark appears in [[Peter Jackson]]'s ''[[The Lord of the Rings: The Two Towers]]'' along with many other ents of Fangorn Forest. Unlike the book, he is shown to participate in the [[Entmoot]] called by Treebeard, and later in the [[Destruction of Isengard]], where he is seen crushing dozens of orcs by rolling a boulder.
+
+== Translations ==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Chinese
+|佛拉瑞夫 (Fladrif)
+|-
+|Danish
+|Fladrif (Barkhud)
+|-
+|Finnish
+|Fladrif a.k.a. Karppunahka
+|-
+|German
+|Fladrif a.k.a. Borkenhaut
+|-
+|Hebrew
+|פלאדריף
+|-
+|Italian
+|Fladrif a.k.a. Scorzapelle
+|-
+|Norwegian
+|Fladrif a.k.a. Skinnbark<br />Fladrif a.k.a. Lærbark
+|-
+|Russian 
+|Фладриф (Fladrif) 
+Кожествол (Skinbark)
+|-
+|Ukrainian Cyrillic 
+|Фладриф (Fladrif) 
+Шкіростовбур (Skinbark)
+|}
+
+</div>
+{{Clear}}
+
+{{Ents}}
+
+== References ==
+<references />
+
+[[de:Fladrif]]
+[[it:Scorzapelle]]
+[[pl:Fladrif]]
+[[ru:Фладриф]]
+[[Category:Ents]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:CGI characters]]
+[[Category:Sindarin words]]

@@ -1,0 +1,32 @@
+{{NonCanon}}
+<br/>
+{{Infobox Non-canonical Character
+|Name=Járnsmid
+|Image=Iarnsmid.jpeg
+|Caption=
+|AKA=Unknown
+|Race=[[Men]]
+|Lifespan=
+|Gender=Male
+|Realm=[[Rhovanion]]
+|Culture=[[Men of Dale]]
+|Weapon=Unknown
+|Actor=Unknown
+|Voice=
+}}
+
+'''Járnsmid'''<ref>http://lotrtcgwiki.com/wiki/lotr02025</ref> was a merchant from the [[city]] of [[Dale]].
+
+== Portrayal in adaptations ==
+=== Peter Jackson's The Lord of the Rings film trilogy ===
+
+During the [[War of the Ring]], Járnsmid was sent as an emissary to attend the [[Council of Elrond]], discussing on what it is to be done with the [[One Ring]].
+
+== Appearances ==
+*''[[The Fellowship of the Ring (film)]]'' <small>(First appearance)</small>
+
+== References ==
+<references/>[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Characters created for Peter Jackson's trilogy]]
+[[Category:Characters in The Lord of the Rings Trading Card Game]]
+[[Category:Non-canonical Men of Dale and Lake-town]]

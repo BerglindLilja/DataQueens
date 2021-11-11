@@ -1,0 +1,163 @@
+{{Disamb-more|orc of Uglúk's band|[[Snaga (disambiguation)]]}}
+:{{Infobox Person Servants of Evil
+| image = Gimbatulash.jpg
+| caption = 
+| name = Snaga
+| othernames = 
+| title = 
+| birth = 
+| rule = 
+| death = [[February 29]], [[3019]]
+| realms = 
+| spouse = 
+| weapon = Orc [[Scimitar]]
+| race = [[Orcs]]
+| culture = [[Isengard Orcs|Orcs of Isengard]]
+| gender = Male
+| height = 
+| hair = 
+| skin =Bluish (film)
+| eyes =Red (film) 
+| actor = [[Jed Brophy]]
+| voice =[[Andy Serkis]] 
+| character = 
+}}
+
+'''Snaga''' was the name of an [[Orc]] scout in [[Uglúk]]'s band sent by [[Saruman]] to pursue the [[Fellowship ]]in [[TA 3019]] and capture the [[hobbits]] carrying the [[One Ring]].
+
+==Biography==
+
+Snaga was a scout in the band of [[Isengard Orcs|Orcs of Isengard]] led by [[Uglúk]] and tasked to return with their captives [[Meriadoc Brandybuck]] and [[Peregrin Took]] to Saruman, as told in [[The Two Towers|''The Two Towers'']]. When Uglúk believed that the [[Rohirrim]] had been made aware of them, Snaga was blamed for it. The [[Uruk-hai]] captain threatened that he would cut off his ears.
+
+Snaga was killed along with the rest by [[Éomer]]'s band of riders.<ref>''[[The Lord of the Rings]], [[The Two Towers (novel)|The Two Towers]],'' Book Three, Ch. III: "[[The Uruk-hai]]"</ref>
+
+== Portrayal in adaptations ==
+=== Peter Jackson's The Two Towers ===
+{{Quote|Why can't we have some meats? (notices Merry and Pippin)... What about them? They're fresh.|Snaga to [[Uglúk]] about Merry and Pippin}}
+In Peter Jackson's adaptation of [[The Two Towers (film)|''The Two Towers'']]'', ''Snaga is portrayed as a young scout brought by [[Grishnákh]] to help him gain control of Merry and Pippin and hurry the [[Uruk-hai Scouts]] (though it is unclear if all of the lesser Orcs or only Grishnákh are from Mordor, as they look similar to those from Isengard). His personality and role are rather that of the [[Moria Goblins]] who are absent from the film, but appear in the books and attempt to eat the captives.
+
+Hunger for fresh meat eventually overcame his limited discipline and loyalty to the Dark Lord Sauron. After one of the orcs known as [[Mauhúr]] begins to say that they haven<nowiki>'t eaten anything except ill food for three days, Snaga joins in and adds that their captives ''look fresh''</nowiki> until he is denied his meal by the [[Uruk-hai Scouts|Uruk-hai scouts]] loyal to The Eye and The White Hand. He eventually tried to get "Just a mouthful" of the two captured [[Hobbits]] by sneaking in behind [[Uglúk]], who was making sure the captives got to [[Isengard]] unharmed and unspoiled. When the orc attempted to kill [[Merry ]]and [[Pippin]], Uglúk saw him and cut off his head after which the Uruk-hai cannibalize his corpse.
+
+Snaga was played by [[Jed Brophy]] and voiced by [[Andy Serkis]], who was uncredited for the part.
+
+==Gallery==
+<gallery captionalign="left">
+Image:Snaga.jpg|  Snaga
+Image:Morgul rat.jpg|Snaga (right) and Grishnákh (left)
+</gallery>
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{|class="itemtable" bgcolor=#EDEEFF style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;"
+|width=300px|'''Foreign Language'''
+|width=300px|'''Translated name'''
+|-
+|Arabic
+|سناغا
+|-
+|Armenian
+|Սնագա
+|-
+|Belarusian Cyrillic
+|Снага
+|-
+|Bengali
+|স্নাগ
+|-
+|Bulgarian Cyrillic
+|Снага
+|-
+|Chinese
+|史那加
+|-
+|Georgian
+|სნაგაი
+|-
+|Gujarati
+|સ્નેગા
+|-
+|Hebrew
+|סנאגה
+|-
+|Hindi
+|स्नग
+|-
+|Japanese
+|スナガ
+|-
+|Kannada
+|ಸ್ನಾಗಾ
+|-
+|Kazakh
+|Снага (Cyrillic) Snaga (Latin)
+|-
+|Korean
+|스내그
+|-
+|Kyrgyz Cyrillic
+|Снага
+|-
+|Macedonian Cyrillic
+|Снага
+|-
+|Malayalam
+|സ്നാഗ
+|-
+|Marathi
+|स्नॅगा
+|-
+|Mongolian Cyrillic
+|Снага
+|-
+|Nepalese
+|स्न्यागा
+|-
+|Punjabi
+|ਸਨਗਾ
+|-
+|Russian
+|Снага
+|-
+|Sanskrit 
+|स्नग
+|-
+|Serbian
+|Снага (Cyrillic) Snaga (Latin)
+|-
+|Sinhalese
+|ස්නගා
+|-
+|Tajik Cyrillic
+|Снага
+|-
+|Tamil
+|சங்க
+|-
+|Telugu
+|శనగ
+|-
+|Ukrainian Cyrillic
+|Снага
+|-
+|Yiddish
+|סנאַגאַ
+|}
+
+</div>
+{{Clear}}
+
+==References==
+<references/>
+
+[[Category:Orcs]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:Agents of Saruman]]
+[[Category:Non-canonical Servants of Sauron]]
+[[Category:Deaths in Battle]]
+[[Category:Minor characters (The Lord of the Rings)]]
+
+[[de:Snaga]]
+[[it:Snaga (Isengard)]]
+[[pl:Snaga]]
+[[ru:Снага]]

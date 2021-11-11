@@ -1,0 +1,164 @@
+{{Infobox Person Men of Bree
+| image = Barliman_Butterbur.jpg
+| caption = '''Barliman Butterbur''' in the Prancing Pony the day Frodo and company arrived
+| name = Barliman Butterbur
+| othernames = Barley
+| title = Proprietor of [[The Prancing Pony]]
+| birth = Late [[Third Age]] ?
+| rule = 
+| death = 
+| realms = 
+| spouse = 
+| weapon = 
+| race = [[Men]]
+| culture = [[Men of Bree]]
+| gender = 
+| height = 
+| hair = 
+| eyes = 
+| actor = [[David Weatherly]] (LOTR Trilogy)
+Nikolay Burov (Khraniteli)
+| voice = [[wikipedia:Alan Tilvern|Alan Tilvern]] (Bakshi's film)
+| character = 
+}}
+{{Quote|Then who would you take up with? A fat innkeeper who only remembers his own name because people shout it at him all day?|[[Aragorn II Elessar|Aragorn]] to Barliman Butterbur in ''[[The Fellowship of the Ring]]'', [[Strider (chapter)|Strider]]|q2 = [[Aragorn II Elessar|Aragorn]]  The Fellowship of the Ring, Chapter 10 Strider}}
+
+'''Barliman Butterbur''' was a [[Men of Bree|Man of Bree]] and owner of [[The Prancing Pony|''The Prancing Pony'']], in the town of [[Bree]].
+
+==Biography==
+
+Barliman Butterbur owned the Prancing Pony for an unknown period of time in the late [[Third Age]]. He was fond of [[Hobbit]]s and had two hobbit employees: [[Bob]], who worked in the stables, and [[Nob]], a servant. He knew [[Gandalf]] very well as he frequently came and stayed at the inn from time to time over the years. During the [[War of the Ring]], he forgot to send Gandalf's letter to [[Frodo Baggins|Frodo]], leaving Frodo uncertain as to Gandalf's fate and causing him to start his journey much later than the letter indicated. He did not remember it until Frodo and his companions arrived to stay at the inn, and even then it was long before the connection was made.
+
+When Gandalf found out, he threatened to "roast" Butterbur, but forgave him in light of his memory problems. Butterbur did, however, remember in time to produce [[Aragorn II Elessar|Strider]]'s credentials. Gandalf blessed his beer for seven years upon hearing that Frodo and companions were alive and well and with Strider.
+
+After the [[War of the Ring]], Butterbur was amazed to learn that Strider, a former patron of his inn and for whom he thought was a mere [[Rangers of the North|Ranger]] of the wild, had become a [[King of the Reunited Kingdom|king]]. In the days that the hobbits visited The Prancing Pony shortly before the [[Scouring of the Shire]], Bob went home after dark every day, which Butterbur continued to forget.<ref>''[[The Lord of the Rings]], [[The Fellowship of the Ring (novel)|The Fellowship of the Ring]],'' Book One, Chapter IX: "[[At the Sign of the Prancing Pony]]"</ref><ref>''[[The Lord of the Rings]], [[The Fellowship of the Ring (novel)|The Fellowship of the Ring]],'' Book One, Chapter X: "[[Strider (chapter)|Strider]]"</ref>
+
+==Character==
+
+Barliman was a stout, good-hearted man, notorious for his very bad memory, about which he said "One thing drives out another".
+
+== Portrayal in adaptations==
+Butterbur appears in [[Ralph Bakshi]]'s 1978 [[The Lord of the Rings (1978 film)|animated film]], voiced by Alan Tilvern.
+
+[[wikipedia:James Grout|James Grout]] was the voice of Butterbur in [[wikipedia:BBC Radio|BBC Radio]]'s 1981 serialization of ''[[The Lord of the Rings (1981 radio series)|The Lord of the Rings]]''.
+
+===The Lord of the Rings film trilogy===
+
+Butterbur appears in [[Peter Jackson]]'s 2001 film ''[[The Lord of the Rings: The Fellowship of the Ring (film)|The Lord of the Rings: The Fellowship of the Ring]]'', but most of his scenes, such, the references to Gandalf's letter, were cut. [[wikipedia:David Weatherley|David Weatherley]] portrayed him. 
+
+=== The Hobbit film trilogy===
+
+In [[The Hobbit: The Desolation of Smaug|''The Hobbit: The Desolation of Smaug'']], Butterbur's father appears as ''The Prancing Pony''<nowiki/>'s owner, named [[Barney Butterbur]], along with his wife [[Betsy Butterbur|Betsy]].
+<nowiki/>[[File:B. Butterbur - LOTRO.jpg|thumb|220x220px|Barliman as he appears in ''The Lord of the Rings Online'']]
+
+===Video games===
+
+* Butterbur appears in ''[[The Lord of the Rings: The Fellowship of the Ring (video game)|The Lord of the Rings: The Fellowship of the Ring]]''[[The Lord of the Rings: The Fellowship of the Ring (video game)|(video game)]] and ''[[The Lord of the Rings Online]]'', as a non-playable character.
+
+* In ''[[LEGO The Lord of the Rings: The Video Game]]'', he is included in a DLC pack.
+
+=== Voice dubbing actors ===
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" bgcolor="#EDEEFF" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;"
+| width="300px" |'''Foreign Language'''
+| width="270px" |'''Voice dubbing artist'''
+|-
+|Spanish (Latin America)
+|Yamil Atala
+|-
+|Spanish (Spain)
+|Eduardo Muntada
+|-
+|Portuguese (Brazil) (Television/DVD)
+|Mauro Castro
+|-
+|German
+| Wolfgang Völz
+|-
+|Italian (Italy)
+|Sandro Pellegrini
+|-
+|Czech
+|Martin Zahálka
+|-
+|Hungarian
+|Szélyes Imre
+|}
+
+</div>
+{{Clear}}
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Czech
+|Ječmínek Máselník
+|-
+|Danish
+|Bygmand Smørblomst
+|-
+|Finnish
+|Viljami Voivalvatti
+|-
+|French
+|Prosper Poiredebeurré
+|-
+|German
+|Gerstenmann Butterblume
+|-
+|Hebrew
+|בארלימן החמאוני
+|-
+|Hungarian
+|Papsajt Ászok
+|-
+|Italian
+|Omorzo Cactaceo
+|-
+|Norwegian
+|Byggelmann Balderbrå
+|-
+| Portuguese
+|Cevado Carrapicho (Brazilian Portuguese)
+Cervejeiro Carrapiço (Portugal)
+|-
+|Russian
+|Барлиман Баттербур
+|-
+|Serbian
+|Јечмар Маслочвор (Cyrillic) Ječmar Masločvor (Latin)
+|-
+|Slovak
+|Žito Maslík
+|-
+|Spanish (Spain and Latin America)
+|Cebadilla Mantecona
+|-
+|Ukrainian Cyrillic
+|Барліман Баттербур
+|}
+
+</div>
+{{Clear}}
+
+==References==
+<references />
+
+{{DEFAULTSORT:Butterbur, Barliman}}
+
+[[Category:Men of Bree]]
+[[Category:The Lord of the Rings Characters]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]
+
+[[de:Gerstenmann Butterblume]]
+[[fr:Prosper Poiredebeurré]]
+[[it:Omorzo Cactaceo]]
+[[nl:Gersteman Boterbloem]]
+[[pl:Barliman Butterbur]]
+[[ru:Барлиман Баттербур]]

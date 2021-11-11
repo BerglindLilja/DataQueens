@@ -1,0 +1,34 @@
+{{NonCanon}}
+<br/>
+{{Infobox Non-canonical Character
+|Name= Hugin
+|Image= Hugin.JPG
+|Caption= '''Hugin''' as he appears in [[Peter Jackson]]'s ''[[The Fellowship of the Ring (film)|The Fellowship of the Ring]]'' and ''[[The Lord of the Rings Trading Card Game]]''
+|AKA= 
+|Race= [[Men]]
+|Lifespan=
+|Gender= Male
+|Realm= [[Lake-town]]
+|Culture= Men of [[Lake-town]]
+|Weapon= Unknown
+|Actor= Ralph Johnson
+|Voice=
+}}
+
+'''Hugin''' was a human emissary from [[Laketown|Lake-town]] who attended the [[Council of Elrond]]. 
+
+He is not a character from [[J.R.R. Tolkien]]'s books. 
+
+== Portrayal in adaptations ==
+=== Peter Jackson's ''The Lord of the Rings: The Fellowship of the Ring'' ===
+
+In the first of [[Peter Jackson]]'s film adaptations, Hugin defended the political position of [[Boromir]] about the critical question of who had to carry the [[One Ring]] to [[Mordor]]. He is a background character, however, and is not credited with the name.
+
+=== Trading Card Game ===
+Hugin is featured in ''[[The Lord of the Rings Trading Card Game]]'' as a Decipher card.<ref>http://lotrtcgwiki.com/wiki/lotr02024</ref> His name originates here.
+
+== References ==
+<references/>[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Characters in The Lord of the Rings Trading Card Game]]
+[[Category:Characters created for Peter Jackson's trilogy]]
+[[Category:Non-canonical Men of Dale and Lake-town]]

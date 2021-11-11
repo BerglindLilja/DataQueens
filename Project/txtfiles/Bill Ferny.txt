@@ -1,0 +1,120 @@
+{{Infobox Person Men of Bree
+| image = 250px-The Lord of the Rings - The Fellowship of the Ring - Bill Ferny.jpg
+| caption = '''Bill Ferny''' [[LOTR TCG|trading card]] image
+| name = Bill Ferny
+| othernames = 
+| title = 
+| birth = Late [[Third Age]]
+| rule = 
+| death = 
+| realms = 
+| spouse = 
+| weapon = 
+| race = [[Men]]
+| culture = [[Men of Bree]]
+| gender = 
+| height = 
+| hair = 
+| eyes = 
+| actor = Dallas Barnett ([[LOTR TCG|TCG]])
+| voice = 
+| character = 
+}}
+
+'''Bill Ferny''' was a [[Men of Bree|Man of Bree]] and a known agent of [[Saruman]] before and during the [[War of the Ring]].
+
+== Biography ==
+
+Bill Ferny resided in [[Bree]] and was known as an sneering, nefarious character who would sell anything to anyone, including dealings with shady travelers from the South, the agents of Saruman and [[Sauron]]. Ferny lived near the South-gate of Bree.<ref name="Fellowship">''[[The Lord of the Rings]]'', [[The Fellowship of the Ring (novel)|''The Fellowship of the Ring'']], Book One, Ch. X: "[[Strider (chapter)|Strider]]"</ref>
+
+In Bree, [[Meriadoc Brandybuck|Merry]] saw Ferny selling information about the hobbits to the [[Nazgûl]]. Ferny may have also let loose the ponies that otherwise could have been used by the hobbits to leave the town. As a further bit of profit (and ignoring any loyalty to Saruman or the Black Riders), he sold a [[pony]] named [[Bill]] to [[Aragorn II Elessar|Aragorn]] and the Hobbits, for which he demanded twelve [[silver]] pennies, over three times its value.<ref name="Fellowship" />
+
+Later, he supported Saruman's mechanization of the [[Shire]], becoming a watchman at the [[Brandywine Bridge]]. Bill (the pony) repaid his former master for his mistreatment by kicking him. Ferny's ultimate fate is unknown, but as far as the folk of the Shire knew he was never heard from again.<ref>''[[The Lord of the Rings]]'', [[The Return of the King (novel)|''The Return of the King'']], Book Six, Ch. VIII: "[[The Scouring of the Shire]]"</ref>
+
+== Portrayal in adaptations ==
+[[File:The Lord of the Rings Online - Bill Ferny.jpg|thumb|right|Bill Ferny in ''[[The Lord of the Rings Online]]''|379x379px]]
+Ferny is also featured in ''[[The Lord of the Rings: The Fellowship of the Ring (video game)|The Lord of the Rings: The Fellowship of the Ring ]]''[[The Lord of the Rings: The Fellowship of the Ring (video game)|(video game)]], in which he is killed confronting Strider in the streets.
+
+Bill Ferny was featured as a character in ''[[The Lord of the Rings Trading Card Game]]'' as a card called '''Bill Ferny, Swarthy Sneering Fellow'''.<ref>http://lotrtcgwiki.com/wiki/lotr02075</ref>
+
+Ferny appears in ''[[The Lord of the Rings Online]]'' video game, spreading mischief in and around [[Bree]]. Early on, he is revealed to be in league with a band of brigands in the service of "Sharkey" (Saruman) that operate all over [[Bree-land]]. It is shown that he is intent in supporting an alliance between the brigands and some Orcs of the Misty Mountains, undoubtedly serving himself the most. He believes that such  arrangement would allow him to pillage and plunder easier, hence his interest in it. Much to his chagrin, however, the alliance isn't forged. 
+
+In ''[[The Hobbit: The Desolation of Smaug]]'', Ferny's [[Bill Ferny Sr.|father]] appeared as an assassin hired by [[Azog]] along with his partner [[Squint]] to hunt down [[Thorin II Oakenshield]].
+
+==Translations==
+<div style="overflow:auto; height:300px; width:400px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Bulgarian Cyrillic
+|Бил Папратак
+|-
+|Catalan
+|Bill Falgueres
+|-
+|Chinese (Hong Kong)
+|比爾·羊齒蕨
+|-
+|Czech
+|Vili Potměchut
+|-
+|Danish
+|Jens Bregnø
+|-
+|Dutch
+|Willem Varentje
+|-
+|Finnish
+|Bil Imarre
+|-
+|French
+|Bill Fougeron
+|-
+|German
+|Lutz Farning
+|-
+|Hebrew
+|ביל בן-שרך
+|-
+|Hungarian
+|Páfrány Pockó
+|-
+|Italian
+|Billy Felci
+|-
+|Portuguese (Brazil)
+|Bill Samambaia
+|-
+|Romanian
+|Bill Ferigă
+|-
+|Slovak
+|Bill Papradník
+|-
+|Spanish (Spain and Latin America)
+|Bill Helechal
+|-
+|Ukrainian Cyrillic
+|Білл Папоротень
+|}
+
+</div>
+{{Clear}}
+
+== References ==
+<references />
+
+{{DEFAULTSORT:Ferny, Bill}}
+
+[[Category:Villains]]
+[[Category:Men of Bree]]
+[[Category:Agents of Saruman]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Characters in The Lord of the Rings Trading Card Game]][[de:Lutz Farning]]
+[[es:Bill Helechal]]
+[[it:Billy Felci]]
+[[nl:Willem Varentje]]
+[[pl:Bill Ferny]]

@@ -1,0 +1,179 @@
+{{Infobox Person Elves Lothlorien
+| image = Orophin.jpg
+| caption = '''Orophin''' as he appears in the films 
+| name = 
+| othernames = 
+| title = 
+| birth = 
+| rule = 
+| death = 
+| realms = 
+| spouse = 
+| weapon = 
+| race = [[Elves]]
+| culture = [[Silvan Elves]], [[Galadhrim]] 
+| gender = 
+| height = 
+| hair = 
+| eyes = 
+| actor = 
+| voice = 
+| character = 
+}}
+'''Orophin''' was a [[Silvan Elves|Silvan]] [[Marchwarden]] from [[Lothlórien]], and the brother of [[Haldir of Lothlórien|Haldir]] and [[Rúmil of Lórien|Rúmil]].
+== Biography ==
+
+[[File:FOTR - Lorien Brothers.jpg|thumb|left|260px|Orophin (left) with his brothers Haldir and Rúmil in ''[[The Lord of the Rings: The Fellowship of the Ring]]'']]
+
+Orophin guarded the western border of Lothlórien at the time of the [[War of the Ring]]. He stood guard with other [[Elves]], including his brothers Haldir and Rumil.<ref name="lorien">''[[The Lord of the Rings]], [[The Fellowship of the Ring (novel)|The Fellowship of the Ring]],'' Book Two, Chapter VI: "[[Lothlorien (chapter)|Lothlorien]]"</ref>
+
+Like Rúmil, Orophin knew very little [[Westron]]; therefore, he associated little with the [[Fellowship of the Ring (group)|Fellowship of the Ring]]. When Haldir saw [[Gollum]] rustling through the trees near where the hobbits stayed for the night, Orophin left his brothers to warn the [[Galadhrim]].<ref name="lorien" />
+
+== Etymology ==
+
+The name '''''Orophin''''' is either [[Sindarin]] or [[Silvan Elves|Silvan Elvish]].<ref>[[Robert Foster]], ''[[The Complete Guide to Middle-earth]]''</ref> It may mean "small tree", from Sindarin ''oron'' ("tree") and ''pîn'' ("small")<ref>[[Didier Willis]], Elfling Message 24600</ref>, or "mountain peak", from ''orod'' ("mountain") and ''pind'' ("peak, crest").<ref>''[[Parma Eldalamberon]]'', Words, Phrases and Passages in Various Tongues in ''The Lord of the Rings'' by J.R.R. Tolkien</ref>
+
+== Other versions of the legendarium ==
+
+In Tolkien's drafts, Orophin's name was spelled ''Orfin'' and ''Orofin''.<ref>''[[The History of Middle-earth]]'', Vol. VII: ''[[The Treason of Isengard]]'', XII: "Lothlórien"</ref> When Haldir first met the [[Fellowship of the Ring (group)|Fellowship]], Orofin was not present to accompany his brother.<ref>''[[The History of Middle-earth]]'', Vol. 7: ''[[The Treason of Isengard]]'', XIV: "Farewell to Lórien"</ref>
+
+[[File:The Lord of the Rings Online - Orophin.jpg|thumb|Orophin in ''[[The Lord of the Rings Online]]'']]
+
+== Portrayal in adaptations ==
+
+* Jason Secto portrays Orophin in [[The Lord of the Rings film trilogy|Peter Jackson]]'s ''[[The Fellowship of the Ring (film)|The Lord of the Rings: The Fellowship of the Ring]]'' (2001).<ref>http://www.theargonath.cc/cast/secto/secto.html</ref>
+
+* Orophin is featured in ''[[The Lord of the Rings Trading Card Game]]''.
+
+* In ''[[The Lord of the Rings Online]]'', Orophin can be found on the western outskirts of Lothlórien, defending the borders against the [[Orc]] attacks.
+
+== Translations ==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Amharic
+|ዖሮፕሂን
+|-
+|Arabic
+|أوروفين
+|-
+|Armenian
+|Որոպհին
+|-
+|Belarusian Cyrillic
+|Оропін
+|-
+|Bengali
+|ওরফিন
+|-
+|Bulgarian Cyrillic
+|Оропин
+|-
+|Georgian
+|ოროფჰინი
+|-
+|Greek
+|Οροφήν
+|-
+|Gujarati
+|ઓરોફીન
+|-
+|Hebrew
+|אורופין
+|-
+|Hindi
+|ओरोफीन
+|-
+|Japanese
+|オロフィン
+|-
+|Kazakh
+|Оропһін (Cyrillic) Orophin (Latin)
+|-
+|Korean
+|오로 핀
+|-
+|Kyrgyz Cyrillic
+|Оропhин
+|-
+|Macedonian Cyrillic
+|Оропин
+|-
+|Marathi
+|ऑरोफिन
+|-
+|Mongolian Cyrillic
+|Оропhин
+|-
+|Nepalese
+|ॐरोफिन
+|-
+|Pashto
+|وروپهین ?
+|-
+|Persian
+|وروپهین ?
+|-
+|Punjabi
+|ਔਰੋਫਿਨ
+|-
+|Russian
+|Орофин
+|-
+|Sanskrit
+|ॐरोफिन्
+|-
+|Serbian
+|Оропхин (Cyrillic) Orophin (Latin)
+|-
+|Sinhalese
+|ඔරොෆින්
+|-
+|Tajik Cyrillic
+|Оропҳин
+|-
+|Tamil
+|ஓரோபின்
+|-
+|Telugu
+|ఓరోఫిన్
+|-
+|Thai
+|โรโผิน ?
+|-
+|Ukrainian Cyrillic
+|Орофін
+|-
+|Uzbek (Cyrillic) Orophin (Latin)
+|Оропҳин
+|-
+|Yiddish
+|אָראָפין
+|}
+
+</div>
+{{Clear}}
+
+== Gallery ==
+{{Gallery|width=150|height=150|captionalign=center|position=center
+|Orophin bow.jpg|Orophin [[LOTR TCG|Trading Card]]
+|TCG - Orophin, Silvan Elf.jpg|
+}}
+
+== References ==
+<references />
+[[de:Orophin]]
+[[nl:Orophin]]
+[[pl:Orophin]]
+[[ru:Орофин]]
+
+[[Category:Sindarin words]]
+[[Category:Nandor]]
+[[Category:Galadhrim]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:Characters in The History of Middle-earth]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Characters in The Lord of the Rings Trading Card Game]]

@@ -1,0 +1,74 @@
+{{NonCanon}}
+{{Infobox Non-canonical Character
+|Name=  
+|Image= Sharku3.jpg
+|Caption= '''Sharku''' in [[Peter Jackson]]'s ''[[The Two Towers (film)|The Lord of the Rings: The Two Towers]]''
+|AKA=
+|title= Captain of the [[Warg-Riders]]  
+|Race= [[Orcs]]
+|Lifespan=  About [[Second Age|SA]] 1400 - [[TA 3019]]
+|Gender= 
+|Height=
+|Realm=
+|Culture= [[Isengard Orcs|Orcs of Isengard]] 
+|Weapon= Orc [[scimitar]]
+|Actor= [[Jed Brophy]]<ref name=imdb>http://www.imdb.com/name/nm0112400/?ref_=ttfc_fc_cl_t8</ref>
+|Voice=
+}}
+
+{{Quote|He's dead. Took a little tumble off the cliff.|Sharku to Legolas and Gimli, about Aragorn}}
+'''Sharku''' was an [[Orc]] veteran from [[Isengard]] who led [[Saruman]]'s [[Warg-Riders|Warg-riders]]. He only appears in the [[The Two Towers (film)|film adaptation]] of ''[[The Two Towers (novel)|The Two Towers]]''.
+
+While the character is unique to [[Peter Jackson]]'s films, his name is derived from an original footnote in ''[[The Lord of the Rings]]'' stating that [[Saruman]]'s nickname "Sharkey" to be a corruption of the word ''sharku'', meaning 'old man'.<ref>''The Lord of the Rings'', ''The Return of the King,'' Book Six, Chapter VIII: "[[The Scouring of the Shire]]"</ref>
+
+== Appearances ==
+=== Film ===
+
+[[File:Sharkutoppic.jpg|thumb|175px|Sharku during the attack on Rohan]]In the second film of [[Peter Jackson]]'s film trilogy, Sharku is sent by Saruman with a large group of [[Isengard Orcs]] on Wargs to attack the people of Rohan who are trying to reach the fortress of [[Helm's Deep]]. [[Aragorn]] has a short struggle with Sharku on his [[warg]], where, as Sharku tries to knock him off the Warg, Sharku is stabbed in the chest by Aragorn's [[Elven]] knife. The Warg, in an attempt to throw Aragorn off, gallops towards the ledge of a cliff. Sharku then falls off his Warg and is trampled. Aragorn becomes stuck to the Warg's saddle and tumbles to his supposed death. Unable to find Aragorn, [[Legolas]] and [[Gimli]] threaten a dying Sharku who reveals Aragorn's fate before expiring.
+
+He was acted by Peter Jackson's friend [[Jed Brophy]]. 
+
+In [[J.R.R. Tolkien]]'s books, Warg-riders or wolf-riders are occasionally alluded to, but no leader is specified. 
+
+=== Video games ===
+
+[[File:Sharku BFMEII.jpg|thumb|right|Sharku in ''[[The Lord of the Rings: The Battle for Middle-earth II]]''.]]
+Sharku appears in the ''The Two Towers'' video game and in ''[[The Lord of the Rings: The Third Age]]''. He is also a hero in the game ''[[Battle for Middle-earth II]]'' for the Isengard faction.
+
+=== Other ===
+In the [[Top Trumps|''Top Trumps'']] card game, Sharku is said to have been 5,000 years old and a veteran of the Goblin Wars.
+
+=== Voice dubbing actors ===
+
+{| class="wikitable" style="text-align: center;"
+!Foreign Language
+!Voice dubbing artist
+|-
+|Portuguese (Brazil) (Television/DVD)
+|Mauro Castro
+|-
+|Spanish (Latin America)
+|Eduardo Fonseca
+|-
+|Spanish (Spain)
+|Lucas Cisneros
+|-
+|German
+|Reinhard Scheunemann
+|}<br />
+
+== References ==
+<references />
+
+[[de:Sharkû]]
+[[es:Sharku]]
+[[pl:Sharku]]
+[[ru:Шарку]]
+
+[[Category:Non-canonical villains]]
+[[Category:Non-canonical Orcs]]
+[[Category:Non-canonical Agents of Saruman]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:Characters created for Peter Jackson's trilogy]]
+[[Category:Non-canonical Deaths in Battle]]
+[[Category:Non-canonical Servants of Sauron]]

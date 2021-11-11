@@ -1,0 +1,164 @@
+{{Infobox Person Men Gondor
+| image =Damrod.jpg 
+| caption =Damrod portrayed in [[The Lord of the Rings Trading Card Game]] 
+| name = Damrod
+| othernames = 
+| title = 
+| birth = Late [[Third Age]] ?
+| rule = 
+| death = [[TA 3019]]
+| realms = 
+| spouse = 
+| weapon = Presumably a [[bow]] and [[sword]] 
+| race = [[Men]]
+| culture = [[Dúnedain]], [[Men of Gondor]] 
+| gender = 
+| height = 
+| hair = Dark
+| eyes = Grey
+| actor = [[Alistair Browning]] ([[LOTR TCG]])
+| voice = 
+| character = 
+}}
+
+'''Damrod''' was a [[Rangers of Ithilien|Ranger of Ithilien]], one of the most trusted of [[Faramir]]'s men, and companion of [[Mablung the Ranger|Mablung]].
+
+== Biography ==
+
+Damrod led the night patrol that captured [[Gollum]] in the [[Forbidden Pool]]. He also fought in the battle for [[Osgiliath]]. Damrod retreated to [[Minas Tirith]] with all the surviving defenders. A few days later, Damrod was sent with [[Faramir]] to defend [[Osgiliath]] from the enemy's assault. Damrod was among the dead; it is said his body was never recovered due to the overwhelming [[Orc]] invasion of [[Gondor]]. Damrod had little hope, for he believed "the days of Gondor are numbered, and the walls of [[Minas Tirith]] are doomed."<ref>''[[The Lord of the Rings]], [[The Two Towers (novel)|The Two Towers]],'' Book Four, Chapter IV: "[[Of Herbs and Stewed Rabbit]]"</ref><br />
+
+== Portrayal in adaptations ==
+
+Damrod is featured in ''[[The Lord of the Rings Trading Card Game]]'' as a card entitled '''Damrod, Dunadan of Gondor'''.<ref>http://lotrtcgwiki.com/wiki/lotr15057</ref>
+
+==Portrayal in adaptations==
+[[File:The Lord of the Rings Online - Damrod.jpg|thumb|Damrod in ''[[The Lord of the Rings Online]]'']]
+
+In ''[[The Lord of the Rings Online]]'' Mablung and Damrod are first met in [[Osgiliath]] culverts, hiding from the enemy forces above. Having been separated from [[Faramir]], they are unaware of his fate and send the player looking for sings of him throughout the overrun city. While some of those hiding eventually make a break for [[Minas Tirith]] (the player among them), Mablung and Damrod stay behind along with some other Rangers and spend the siege of the White City hiding under the enemy's feet. After the the [[Battle of the Pelennor Fields]] they are finally able to come out and join the Host of the West on the march towards the [[Black Gate]]. Upon entering the Wastes of [[Morannon]], Damrod is chosen to lead the faint-hearted soldiers relieved by [[Aragorn]] and now commanded by Lord [[Duinhir]] towards [[Cair Andros]] through [[Ithilien]] wilderness. After King [[Elessar]] charges Steward [[Faramir]] with cleansing the evil of [[Minas Morgul]] and the [[Morgul Vale]], Damrod joins other Rangers in a camp outside the dead city. He later leads a group of Rangers inside [[Minas Morgul]] itself, using the confusion among enemy forces to sneak between the guard towers beneath the enemy's notice.
+
+==Translations==
+<div style="overflow:auto; height:300px; width:340px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" bgcolor="#EDEEFF" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;"
+| width="300px" |'''Foreign Language'''
+| width="300px" |'''Translated name'''
+|-
+|Amharic
+|ዻምሮድ ?
+|-
+|Arabic
+|ضامرود
+|-
+|Armenian
+|Դամրոդ
+|-
+|Belarusian Cyrillic
+|Дамрод
+|-
+|Bengali
+|দামরোড
+|-
+|Bulgarian Cyrillic
+|Дамрод
+|-
+|Georgian
+|დამროდი
+|-
+|Greek
+|Δαμρώδ
+|-
+|Gujarati
+|ડરામોડ
+|-
+|Hebrew
+|דאמרוד
+|-
+|Hindi
+|डामरोड
+|-
+|Japanese
+|ダムロッド
+|-
+|Kannada
+|ದಂರೋಡ್
+|-
+|Kazakh 
+|Дамрод (Cyrillic) Damrod (Latin)
+|-
+|Korean
+|담로ᄃ ?
+|-
+|Kyrgyz Cyrillic
+|Дамрод
+|-
+|Macedonian Cyrillic
+|Дамрод
+|-
+|Marathi
+|दमोड
+|-
+|Mongolian Cyrillic
+|Дамрод
+|-
+|Nepalese
+|डम्रोद
+|-
+|Pashto
+|ضامرود ?
+|-
+|Persian
+|ضامرود ?
+|-
+|Russian
+|Дамрод
+|-
+|Sanskrit
+|डम्रोद्
+|-
+|Sinhalese
+|ඩම්රඩ්
+|-
+|Serbian
+|Дамрод (Cyrillic) Damrod (Latin)
+|-
+|Tajik Cyrillic
+|Дамрод
+|-
+|Tamil
+|தம்ரோத்
+|-
+|Telugu
+|దంరోడ్
+|-
+|Thai
+|ฎำรโด ?
+|-
+|Ukrainian Cyrillic
+|Дамрод
+|-
+|Uzbek
+|Дамрод (Cyrillic) Damrod (Latin)
+|-
+|Yiddish
+|דאַמראָד
+|}
+
+</div>
+{{Clear}}
+
+== References ==
+<references />
+
+
+[[de:Damrod]]
+[[es:Damrod]]
+[[it:Damrod]]
+[[pl:Damrod]]
+[[ru:Дамрод]]
+[[Category:Dúnedain]]
+[[Category:Men of Gondor]]
+[[Category:Rangers of Ithilien]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]
+[[Category:Characters in The Lord of the Rings Trading Card Game]]

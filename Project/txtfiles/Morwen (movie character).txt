@@ -1,0 +1,52 @@
+{{NonCanon}}<br/>
+{{Disamb-more|woman of Rohan|[[Morwen (disambiguation)]]}}
+{{Infobox Non-canonical Character
+|Name=
+|Image=Robyn Malcolm as Morwen.png
+|Caption= '''Morwen'''<ref>http://lotrtcgwiki.com/wiki/lotr04262?redirect=1</ref> as seen in [[Peter Jackson]]'s ''[[The Two Towers (film)|The Two Towers]]''.
+|AKA=
+|Race= [[Men]]
+|Lifespan= Late-[[Third Age]] ? 
+|Gender=
+|Realm=
+|Culture= [[Rohirrim]]
+|Weapon= 
+|Actor= [[Robyn Malcolm]]
+|Voice=
+}}
+'''Morwen''' was a [[Rohirrim]] woman during the [[War of the Ring]].
+
+== Portrayal in adaptations ==
+Morwen was played by [[Robyn Malcolm]] in [[Peter Jackson]]'s film ''[[The Lord of the Rings: The Two Towers|The Two Towers]]''. Her two young children are [[Freda]] and [[Éothain (film character)|Éothain]], whom she sends away to [[Edoras]] by horse as their village (likely in the [[Westfold]]) is first raided by [[Uruk-hai]] and [[Dunlendings|Wildmen]].
+
+She is seen later in the fortress of the [[Hornburg]][[Helm's Deep|,]] where she is reunited with her children. During the [[Battle of the Hornburg]], she is seen hugging [[Éowyn]] desperately in the refuge of the caves. The fate of her children is unknown.
+
+=== Voice dubbing ===
+
+{| class="wikitable" style="text-align: center;"
+!Foreign Language
+!Voice dubbing artist
+|-
+|Portuguese (Brazil) (Television/DVD)
+|Adriana Pissardini
+|-
+|Spanish (Latin America)
+|Claudia Garzón
+|-
+|Spanish (Spain)
+|Nuria Llop
+|-
+|German
+|Katja Amberger
+|}
+
+== References ==
+<references />
+[[de:Morwen (Film)]]
+[[it:Morwen (film)]]
+[[pl:Morwena (postać filmowa)]]
+
+[[Category:Characters created for Peter Jackson's trilogy]]
+[[Category:Non-canonical characters]]
+[[Category:Non-canonical Rohirrim]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]

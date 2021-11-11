@@ -1,0 +1,72 @@
+{{Infobox Person Hobbits
+| image = Melilotbrandybuck.jpg
+| caption = Melilot Brandybuck in the first film of Peter Jackson's ''Lord of the Rings'' trilogy
+| name = Malilot Brandybuck
+| othernames = 
+| title = 
+| birth = [[SR 1385]]
+| rule = 
+| death = 
+| realms = 
+| spouse = 
+| weapon = 
+| race = [[Hobbits]]
+| culture = [[Buckland|Bucklanders]] ([[Brandybuck]] family)
+| gender = Female
+| height = 
+| hair = 
+| eyes = 
+| actor = 
+| voice = 
+| character = 
+}}
+
+'''Melilot Brandybuck''' was a [[Hobbit]] of [[the Shire]].
+
+==Biography==
+
+Melilot was born in [[SR 1385]] (TA 2985) and was the youngest child of [[Marmadas Brandybuck]]. Melilot's siblings were called [[Merimas Brandybuck|Merimas]] and [[Mentha Brandybuck|Mentha]].<ref>''[[The Lord of the Rings]]'', [[Appendix C]]: Family Trees, Brandybuck of Buckland</ref> At Bilbo's 111th [[Bilbo's Farewell Birthday Party|birthday party]] on [[September 22]], [[TA 3001|3001]], Melilot Brandybuck and [[Everard Took]] began to dance the [[Springle-ring]] on a table when they mistakenly thought Bilbo's speech was over. She was a third cousin of [[Meriadoc Brandybuck]].<ref>''The Lord of the Rings, [[The Fellowship of the Ring]]'', Book One, Chapter I: "[[A Long-expected Party]]"</ref>
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Dutch
+|Melilot Brandebok
+|-
+|Finnish
+|Melilot Rankkibuk
+|-
+|French
+|Mélilot Brandibouc
+|-
+|German
+|Melilot Brandybock
+|-
+|Hebrew
+|מלילוט ברנדיבאק
+|-
+|Italian
+|Melilot Brandibuck
+|}
+
+</div>
+{{Clear}}
+
+==References==
+<references/>
+
+{{DEFAULTSORT:Brandybuck, Melilot}}
+
+[[de:Melilot Brandybock]]
+[[it:Melilot Brandibuck]]
+[[nl:Melilot Brandebok]]
+[[pl:Melilot Brandybuck]]
+
+[[Category:Hobbits]]
+[[Category:Brandybucks]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]

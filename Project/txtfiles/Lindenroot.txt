@@ -1,0 +1,39 @@
+{{NonCanon}}
+{{Infobox Non-canonical Character
+|Name=Lindenroot
+|Image=Screen_shot_2010-12-10_at_8.02.11_PM.png
+|Caption= '''Lindenroot''' in the ''The Two Towers'' film.
+|AKA=
+|Race=[[Ents|Ent]]
+|Lifespan=Born [[TA 1019]]
+|Gender=Male
+|Realm=[[Fangorn Forest]]
+|Culture=Ents of Fangorn
+|Weapon=
+|Actor=
+|Voice=
+}}
+'''Lindenroot''' was an elderly [[Ents|Ent]] who lived in the [[Fangorn Forest|forest of Fangorn]] during the past ages of [[Middle-earth]]. He was 2,000 years at the time of the [[Destruction of Isengard]].
+
+== Biography ==
+In [[TA 3019|3019]], Lindenroot was among the Ents that attended the [[Entmoot]], a gathering or meeting not commonly held. There, he and the Ents would discuss and come to the conclusion that the Ents must go to war against [[Saruman]]. Later, Lindenroot, along with many Ents, followed [[Treebeard]], [[Merry]], [[Pippin]] to [[Isengard]] since they were unhappy that Saruman and his forces were burning and cutting down their trees. He participated in and survived the Destruction of Isengard.
+
+== Appearances ==
+*''[[The Two Towers (film)]]''
+
+== Notes ==
+*Lindenroot is a ''[[The Lord of the Rings Trading Card Game]]'' character and does not appear in the books. 
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->{| class="itemtable" bgcolor="#EDEEFF" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;"
+| width="300px" |'''Foreign Language'''
+| width="300px" |'''Translated name'''
+|-
+|Danish
+|Linderod
+|}</div>{{Clear}}{{Clear}}
+[[Category:Non-canonical Ents]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:CGI characters]]
+[[Category:Characters created for Peter Jackson's trilogy]]

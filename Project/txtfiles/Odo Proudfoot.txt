@@ -1,0 +1,99 @@
+{{Infobox Person Hobbits
+| image = Odo_Proudfoot2.gif
+| caption =
+| name = Odo Proudfoot
+| othernames = 
+| title = 
+| birth = [[TA 2904]] (SR 1304)
+| rule = 
+| death = [[TA 3005]] (SR 1405)
+| realms = 
+| spouse = [[Mrs. Proudfoot|Unnamed wife]]
+| weapon = 
+| race = [[Hobbits]]
+| culture = [[Shire]]-hobbit ([[Proudfoot|Proudfoot family]])
+| gender = Male
+| height = 
+| hair = 
+| eyes = 
+| actor = [[Noel Appleby]]
+| voice = 
+| character =
+}}
+{{Quote|Proudfeet!|Odo Proudfoot correcting his cousin Bilbo}}
+
+'''Odo Proudfoot''' was a [[Hobbit]] of the [[Shire]], and a cousin of [[Bilbo Baggins]]. He characteristically had exceptionally large and hairy feet.
+
+== Biography ==
+[[File:Proudfoot.jpg|thumb|left|Odo Proudfoot at Bilbo's Farewell Birthday Party]]
+Odo Proudfoot was the cousin of Bilbo Baggins. Odo was born in [[TA 2904]] (SR 1304). His parents were Bodo Proudfoot and [[Linda (Baggins) Proudfoot]] – aunt of Bilbo. He had a son named [[Olo Proudfoot|Olo]] to an unnamed wife and a mischievous grandson [[Sancho Proudfoot]].
+
+Odo Proudfoot was a guest at [[Bilbo's Farewell Birthday Party]] on [[September 22]], 1401 (3001). He became annoyed when Bilbo used the incorrect plural of his family name: [[Proudfoot]]s instead of the correct Proudfeet. When Bilbo disappeared using his [[One Ring|Magic Ring]], Odo took his feet off the table and stamped on the ground.
+
+Odo Proudfoot died in [[TA 3005]] (SR 1405) of the [[Third Age]].<ref>''[[The Lord of the Rings]], [[The Fellowship of the Ring (novel)|The Fellowship of the Ring]],'' Book One, Chapter I: "[[A Long-expected Party (chapter)|A Long-expected Party]]"</ref><ref>''[[The Lord of the Rings]],'' [[Appendix C]]: Family Trees, Baggins of Hobbiton</ref><ref>''[[The Complete Guide to Middle-earth]]''</ref>
+
+== Portrayal in adaptations ==
+In the [[The Fellowship of the Ring (film)|first]] and [[The Return of the King (film)|third]] movies of [[Peter Jackson's Film Trilogy|Peter Jackson's film trilogy]], Odo was portrayed by [[Noel Appleby]], credited as "Everard Proudfoot". In the first film, he is chastised by his [[Mrs. Proudfoot|wife]] for enjoying [[Gandalf’s Fireworks|Gandalf's fireworks]] as Gandalf had been labeled as a disturber of the peace; Proudfoot's role during the party is the same.
+
+In the third film, he appears briefly watching Frodo and his friends returning to the Shire and later in the [[Green Dragon Inn]].
+
+=== Voice dubbing actors ===
+
+{| class="wikitable" style="text-align: center;"
+!Foreign Language
+!Voice dubbing artist
+|-
+|Portuguese (Brazil) (Television/DVD)
+|Ivo Roberto
+|-
+|German
+|Michael Rüth
+|-
+|Italian (Italy)
+|Giampaolo Genovesi
+|}
+
+== Translations ==
+{| class="wikitable" style="text-align: center;"
+!Foreign Language
+!Translated name
+|-
+|Finnish
+|Odo Jalojalka
+|-
+|French
+|Odo Fierpied
+|-
+|German
+|Odo Stolzfuß
+|-
+|Hebrew
+|אודו גא-רגל
+|-
+|Italian
+|Odo Tronfipiede
+|-
+|Portuguese (Brazil)
+|Odo Pé-soberbo
+|}
+
+== References ==
+<references/>
+
+== External links ==
+* [http://www.tuckborough.net/otherhobbits.html#Odo%20Proudfoot Odo Proudfoot] at Tuckborough.net
+
+{{DEFAULTSORT:Proudfoot, Odo}}
+[[Category:Hobbits]]
+[[Category:Proudfoots]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]
+
+__NOTOC__
+
+[[de:Odo Stolzfuß]]
+[[es:Odo Ganapié]]
+[[it:Odo Tronfipiede]]
+[[nl:Odo Trotsvoet]]
+[[pl:Odo Proudfoot]]

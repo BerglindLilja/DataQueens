@@ -1,0 +1,120 @@
+{{Infobox Person Hobbits
+| image = Screen_shot_2010-12-08_at_7.58.24_PM.png
+| caption = '''Fatty Bolger''' Decipher Card image
+| name = Fredegar Bolger
+| othernames = Fatty
+| title = 
+| birth = [[TA 2980]] ([[SR 1380]])
+| rule = 
+| death = Early [[Fourth Age]] ?
+| realms = 
+| spouse = unknown, possibly unmarried
+| weapon = 
+| race = [[Hobbits]]
+| culture = [[Shire]]-hobbits ([[Bolger family]])
+| gender = Male
+| height = 
+| hair = 
+| eyes = 
+| actor = [[Norman Cates]]
+(Decipher Card)
+| voice = 
+| character =
+}}
+
+'''Fredegar "Fatty" Bolger''' was one of the small group of [[Hobbit]]s who knew that [[Frodo Baggins|Frodo]] had the [[One Ring]]. Fatty was a descendant of [[Hildibrand Took]] ([[TA 2849]] - [[TA 2934]]), one of the many descendants of [[Gerontius Took]]. He was the son of [[Odovacar Bolger]] and [[Rosamunda Took]].<ref>''[[The Lord of the Rings]]'', [[Appendix C]]: Family Trees, Took of Great Smials</ref>
+
+He had a younger sister, [[Estella (Bolger) Brandybuck|Estella]] ([[TA 2985]] - ?), who would marry [[Meriadoc Brandybuck]].
+
+== History ==
+
+[[File:Screen shot 2010-12-08 at 7.59.34 PM.png|thumb|left|Fatty runs from a Nazgûl.]]
+
+Fatty, along with [[Folco Boffin]], [[Samwise Gamgee|Sam]], [[Meriadoc Brandybuck|Merry]] and [[Peregrin Took|Pippin]] is one of [[Frodo Baggins]]'s friends, and helped move his things from [[Bag End]] to his new home at [[Crickhollow]]. There, he and Merry welcome Frodo, Sam and Pippin when those three arrive from [[Bucklebury]].
+
+When Frodo and the rest set out to take the Ring to [[Rivendell]], Fredegar stayed behind at Crickhollow in an attempt to keep up appearances and delay news of their departure. He was frightened half out of his wits by the arrival of the [[Nazgûl]] but escaped unharmed. Fredegar could have gone with Frodo and his companions into the [[Old Forest]], but was terrified of the stories about it. Though Merry tried to persuade him that the Old Forest would be nothing compared to meeting the Ringwraiths, Fatty was adamant, so the other Hobbits went into the forest with only the knowledge of [[Meriadoc Brandybuck|Merry]] to aid them. Soon while Frodo and his other friends left Fatty stayed to make Frodo seem like he hadn't left.<ref>''[[The Lord of the Rings]]'', ''[[The Fellowship of the Ring]]'', Book One, Chapter V: "[[A Conspiracy Unmasked]]"</ref> Then on September the 30th Fredegar was attacked by Nazgûl and ran to the nearest house and raised the [[Horn-call of Buckland]] and so the Nazgûl left.<ref>''[[The Lord of the Rings]]'', ''[[The Fellowship of the Ring]]'', Book One, Chapter XI: "[[A Knife in the Dark]]"</ref>
+
+During [[Saruman]]'s rule of [[the Shire]] he led a group of partisans fighting against the [[Ruffians]] around the [[Hills of Scary]], before eventually being captured. He and his sons were imprisoned in the [[Lockholes]] and starved, meaning that after his release nobody could call him Fatty any more.<ref>''[[The Lord of the Rings]]'", ''[[The Return of the King]]'', Book Six, Chapter IX: "[[The Grey Havens]]"''</ref>
+
+== Behind the scenes ==
+
+In earlier drafts of ''[[The Lord of the Rings]]'' Fatty Bolger played a much larger role, but this was later abandoned. His role survives as a minor anomaly in the book. When the Hobbits go into the [[Old Forest]] Bolger was originally supposed to go with them.
+
+[[File:Schermafbeelding_2014-06-01_om_12.23.36.png|thumb|Fatty Bolger cheering when Bilbo screams “Bolgers!”]] 
+
+[[File:The Lord of the Rings Online - Fredegar Bolger.jpg|thumb|left|Fredegar in ''[[The Lord of the Rings Online]]'']]
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" bgcolor="#EDEEFF" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;"
+| width="300px" |'''Foreign Language'''
+| width="300px" |'''Translated name'''
+|-
+|Arabic
+|فريدغر بولجر
+|-
+|Belarusian Cyrillic
+|Фрэдэгар Болгер
+|-
+|Bulgarian Cyrillic
+|Фредегар Болгер
+|-
+|Chinese
+|佛瑞斯加·博哲
+|-
+|Dutch
+|Fredegar Burger
+|-
+|French
+|Fredegar Bolgeurre
+|-
+|Georgian
+|ფრედეგარ "სქელო" ბოლჯერი
+|-
+|Greek
+|Φρέντεγκαρ Μπόλγκαρ
+|-
+|Hebrew
+|פרדגאר (פאטי) בולג'ר
+|-
+|Italian
+|Fredegario "Grassotto" Bolgeri
+|-
+|Japanese
+|フレデガリ・ボルジャー
+|-
+|Persian
+|(Fatty Bolger) فتی بوگلر
+|-
+|Polish
+|Fredegar "Grubas" Bolger
+|-
+|Russian
+|Фредегар Болджер
+|-
+|Ukrainian Cyrillic
+|Фредегар Бульбер
+|}
+
+</div>
+{{Clear}}
+
+==References==
+<references />
+
+
+
+{{DEFAULTSORT:Bolger, Fredegar}}
+
+[[de:Fredegar Bolger]]
+[[es:Fredegar Bolger]]
+[[it:Fredegario "Grassotto" Bolgeri]]
+[[nl:Fredegar Burger]]
+[[pl:Fredegar Bolger]]
+[[ru:Фредегар Болджер]]
+[[Category:Hobbits]]
+[[Category:Bolgers]]
+[[Category:The Lord of the Rings Characters]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]

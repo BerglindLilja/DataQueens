@@ -1,0 +1,75 @@
+{{Infobox Person Hobbits
+| image = Screen_shot_2010-04-03_at_7.47.08_PM.png
+| caption = '''William Johnson''' as Old Noakes in the New Line film.
+| name = Old Noakes
+| othernames = 
+| title = 
+| birth = [[TA 2923]]
+| rule = 
+| death = Early [[Fourth Age]] ?
+| realms = 
+| spouse = Unnamed wife 
+| weapon = 
+| race = [[Hobbits]]
+| culture = [[Shire]]-hobbits ([[Noakes|Noakes family]])
+| gender = Male
+| height = 
+| hair = 
+| eyes = 
+| actor = [[William Johnson]]
+| voice = 
+| character = 
+}}
+
+'''Old Noakes''' was a [[Hobbit]] of the [[Shire]] and a resident of [[Bywater]]. He was a regular at the [[Ivy Bush]] inn in [[Hobbiton]].
+
+== Biography ==
+In [[TA 3001]], just before [[Bilbo's Farewell Birthday Party]], Old Noakes was gossiping with the "[[Hamfast Gamgee|Old Gaffer]]", [[Daddy Twofoot]], and [[Sandyman]] the miller at the [[Ivy Bush]] tavern. He believed that [[Drogo Baggins]] (the father of [[Frodo Baggins|Frodo]]) sank he and his wife [[Primula Brandybuck]]'s boat because of his weight. Sandyman thought it was because Primula pushed him off. The Old Gaffer laughed at both of these claims dismissing them as rumors.<ref>''[[The Lord of the Rings]], [[The Fellowship of the Ring (novel)|The Fellowship of the Ring]],'' Book One, Chapter I: "[[A Long-expected Party (chapter)|A Long-expected Party]]"</ref>
+
+== Etymology ==
+"Old" suggests the age of this Hobbit is not young. "Noaks" is probably from the early English phrase "atten oek". This means "At the Oak". Thus fully roughly meaning "old oak".{{Fact}}
+
+== Portrayal in adaptations ==
+=== Voice dubbing actors ===
+
+{| class="wikitable" style="text-align: center;"
+!Foreign Language
+!Voice dubbing artist
+|-
+|Portuguese (Brazil) (Television/DVD)
+|Sidney Lilla
+|}
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Georgian
+|ბებერი ძირმუხა
+|-
+|Italian
+|Vecchio Naquercio
+|-
+|Portuguese (Brazil)
+|Velho Noques
+|}
+
+</div>
+{{Clear}}
+
+== References ==
+<references/>
+
+== External links ==
+*[http://www.tuckborough.net/otherhobbits.html Old Noakes] at [http://www.tuckborough.net/ Tuckborough.net]
+[[Category:Hobbits]]
+[[Category:Noakes]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]
+
+[[de:Alter Eichler]]
+[[it:Vecchio Naquercio]]
+[[nl:Dibbes]]

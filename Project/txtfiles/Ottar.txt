@@ -1,0 +1,31 @@
+{{NonCanon}}
+<br/>
+{{Infobox Non-canonical Character
+|Name=Ottar
+|Image=Ottar.jpg
+|Caption=
+|AKA= Unknown
+|Race= [[Men]]
+|Lifespan= Late [[Third Age]] - ?
+|Gender= Male
+|Realm= [[Rhovanion]]
+|Culture= [[Laketown|Men of Laketown]]
+|Weapon= Unknown
+|Actor= John Parkin
+|Voice=
+}}
+
+'''Ottar'''<ref name=amazon>http://www.amazon.co.uk/Lord-Rings-1-R80-Ottar-Laketown/dp/B00SUVN7E2</ref> was an emissary from [[Lake-town]] who attended the [[Council of Elrond]].
+
+== Notes ==
+
+This character is not mentioned in books and was invented solely for the movies and ''[[The Lord of the Rings Trading Card Game]]''.<ref name=amazon>http://www.amazon.co.uk/Lord-Rings-1-R80-Ottar-Laketown/dp/B00SUVN7E2</ref>
+
+== Appearances ==
+*''[[The Fellowship of the Ring (film)]]''
+
+== References ==
+<references/>[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Characters created for Peter Jackson's trilogy]]
+[[Category:Characters in The Lord of the Rings Trading Card Game]]
+[[Category:Non-canonical Men of Dale and Lake-town]]

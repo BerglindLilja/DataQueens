@@ -1,0 +1,106 @@
+{{Infobox Person Ents
+| image = beechbone.jpg
+| caption = '''Beechbone''' in [[Peter Jackson]]'s ''[[The Two Towers (film)|The Two Towers]]''
+| name = Beechbone
+| othernames = 
+| title = 
+| birth = Unknown
+| rule = 
+| death = [[March 3]], [[3019]]
+| realms = 
+| spouse = 
+| weapon = 
+| race = [[Ents]]
+| culture = Ents of [[Fangorn Forest]]
+| gender = Male
+| height = Very tall
+| hair = 
+| eyes = 
+| actor = 
+| voice = 
+| character = 
+}}
+
+'''Beechbone''' was one of the younger [[Ent|Ents]] who lived in [[Fangorn Forest]], said to be handsome and very tall.
+
+== Biography ==
+Little is known of Beechbone except that he took part in the [[Destruction of Isengard]] with the other Ents on [[March 3]], [[3019]]. In the chaos, he apparently burned to death after being set on fire by gas let out of the vents of [[Isengard]]. This further angered the other Ents, rousing them to finish destroying Isengard.<ref>[[The Lord of the Rings|''The Lord of the Rings'']], [[The Two Towers|''The Two Towers'']], Book Three, Ch. IX: "[[Flotsam and Jetsam]]"</ref>
+
+== Portrayal in adaptions ==
+=== The Lord of the Rings film trilogy ===
+In [[Peter Jackson]]'s [[The Two Towers (film)|film adaptation]], an Ent presumed to be Beechbone is briefly seen being set on fire by Orcs using flaming arrows. He survives, however, by extinguishing himself in the [[Isen|flood]] caused by the dam being broken.
+
+== Translations ==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Catalan 
+|Osdefaig
+|-
+|Chinese (Hong Kong)
+|柏骨
+|-
+|Czech
+|Bukost
+|-
+|Danish
+|Bøgeben
+|-
+|Finnish
+|Pyökkiluu
+|-
+|French
+|Osfayard
+|-
+|Hebrew
+|בן תאשור
+|-
+|Italian 
+|Faggiosso 
+|-
+|Japanese
+|ブナの骨
+|-
+|Norwegian
+|Bøkebein
+|-
+|Polish
+|Brzozowiec
+|-
+|Portuguese (Brazil)
+|Ossofaia
+|-
+|Russian
+|Буковень
+|-
+|Slovenian 
+|Bučna kost
+|-
+|Swedish 
+|Boksläktetben
+|-
+|Turkish
+|Kayın kemiği
+|-
+|Vietnamese
+|Chi Cử khúc xương
+|}
+
+</div>
+{{Clear}}
+
+{{Ents}}
+
+== References ==
+<references />[[de:Buchenbein]]
+[[pl:Brzozowiec]]
+[[ru:Буковень]]
+[[Category:Ents]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:CGI characters]]
+[[Category:Deaths in Battle]]
+__NOTOC__

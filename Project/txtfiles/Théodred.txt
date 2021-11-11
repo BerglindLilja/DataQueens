@@ -1,0 +1,186 @@
+{{Infobox Person Men Rohan
+| image = Theodred decipher.jpg
+| caption = 
+| name = Théodred
+| othernames = 
+| title = [[Marshal|Second Marshal of Rohan]],<br> Prince of Rohan
+| birth = [[TA 2978]]<ref name=eorl/>
+| rule = 
+| death = [[February 25]], [[3019]]<ref name=eorl>''[[The Lord of the Rings]]'', [[Appendix B]]: The Tale of Years (Chronology of the Westlands), "The Great Years"</ref>
+| realms = 
+| spouse = 
+| weapon = [[Sword]]
+| race = [[Men]]
+| culture = [[Rohirrim]] ([[House of Eorl]])
+| gender = Male
+| height = 
+| hair = 
+| eyes = 
+| actor = [[Paris Howe Strewe]]
+| voice = 
+| character = 
+}}
+{{Quote|Let me lie here – to keep the ford until [[Éomer]] comes.|Théodred's last words}}<ref name=isen>''[[Unfinished Tales]]'', Part Three: The Third Age, chapter V: "The Battles of the Fords of Isen"</ref>
+'''Théodred''' was a Prince of [[Rohan]], and the only son and heir of [[King of Rohan|King]] [[Théoden]], who died during the time Théoden was under [[Saruman]]'s spell.
+
+== Biography ==
+
+Théodred's mother [[Elfhild]] died giving birth to him.<ref>''[[The Lord of the Rings]]'', [[Appendix A]]: Annals of the Kings and Rulers, II: The House of Eorl</ref> During the [[War of the Ring]], Prince Théodred was the [[Marshal|Second Marshal of Rohan]] and commanded western Rohan. In the [[First Battle of the Fords of Isen]] he set Grimbold in command with fifty dismounted Riders, while Théodred himself manned the eyot in the centre of the Fords, to cover Grimbold if he was driven back. Amidst the battle Théodred was slain by an [[Orc-men|Orc-man]] and his body was defended by the marshal [[Grimbold]].<ref>''[[The Lord of the Rings]], [[The Two Towers]]'', Book Three, Chapter VI: "[[The King of the Golden Hall]]"</ref> When [[Elfhelm]] arrived with reinforcements he found Grimbold fighting two axemen for Théodred's body.<ref name=isen/> His body was buried where he fell, on the fortified eyot in the middle of the [[Fords of Isen]].
+
+The death of Théodred made his cousin [[Éomer]] the heir to the throne of Rohan. Little else is known about him, except that he loved Éomer like a brother, and loved no one more except for Théoden.
+
+==Etymology==
+
+The name '''''Théodred''''' is taken from the [[Old English language|Anglo-Saxon]] words ''þeod'' ("folk," "people," "nation") and ''ræd'' ("counsel").<ref>''[[The Lord of the Rings: A Reader's Companion]]'', ''[[The Two Towers (novel)|The Two Towers]]'', Book Three, Chapter VI: "The King of the Golden Hall"</ref>
+
+== Other versions of the legendarium ==
+
+In earlier works, Théodred was not the son of Théoden, but of Théoden's brother instead.<ref>''[[The History of Middle-earth]]'', Vol. VII: ''[[The Treason of Isengard]]'', chapter XXVI: "[[The King of the Golden Hall (chapter of The Treason of Isengard)|The King of the Golden Hall]]", Notes</ref>
+
+In the first version, Théodred's death had been [[January 25]], a day before Boromir's death and the Breaking of the Fellowship.<ref>''[[The History of Middle-earth]]'', Vol. VIII: ''[[The War of the Ring (book)|The War of the Ring]]'', Part One: The Fall of Saruman, chapter II: "Helm's Deep", Notes</ref>
+
+{{House of Eorl}}
+
+== Portrayal in adaptations ==
+=== The Lord of Rings trilogy ===
+
+[[File:Eomer_finds_Theodred_-_Two_Towers.png|thumb|260px|Eomer finds wounded Théodred at the Fords of Isen]]
+
+In [[Peter Jackson]]'s ''[[The Two Towers (film)|The Lord of the Rings: The Two Towers]]'', the death of Théodred, who is played by [[Paris Howe Strewe]], is a major event early in the movie, whereas in the book, it has all happened by the time the setting takes place in Rohan. Also, Théodred was supposed to be a man of forty-one years when he died, but in the movie, he is portrayed as a much younger man, between the ages of 18 and 25. He dies in Meduseld and is buried in a barrow outside the gates. At his funerary procession, a [[Lament for Théodred|lament]], original to the films only, is sung for him in [[Rohirric]] by [[Éowyn]].
+
+=== Video Games ===
+
+In ''[[The Lord of the Rings Online]]'', Théodred's age appears more accurate to the book. While his riders defend the [[Fords of Isen]] against the [[Dunlendings]], he leads a small party into nearby [[Dunland]] to scout for potential threats, where they encounter the [[Grey Company]] led by [[Halbarad]]. He later returns to the Gap of Rohan where he sets up a daring plan to attack Isengard, in an attempt to unsettle Saruman and force the Wizard's forces back into the walls. This was to try to keep the White Hand at bay a bit longer so that defenses could be mounted on Rohan's border. This plan goes awry when they were overrun by armies of [[Uruk-Hai|Uruks]] out of [[Isengard]], and forced to retreat to the Gap. Grimbold and half of Théodred's Rohirrim attempted to slow the White Hand forces to give Théodred time to escape.
+
+[[File:Theodred_-_LOTRO.jpg|thumb|260px|Théodred as depicted in ''[[The Lord of the Rings Online]]'']]
+
+On the way back to the Ford, Théodred was ambushed by a contingent of Uruks who had flanked the Rohirrim and is surrounded on the island in the Ford. He is stabbed by one of Uruk commander's half-orcs, and falls to the ground, while another courageous Man of Rohan jumps in to defend him who bravely dies, giving just enough time for Grimbold and the rest of the men retreating from Isengard to mount a rescue. As well as a force from [[Helm's Deep]] led by Elfhelm to mount a charge at the remaining Uruks force. Unfortunately, Théodred had been fatally wounded. After the battle, Grimbold gave him a cushion to make his final minutes as restful as possible. In his last few moments, he asked to be buried on the island in the Ford, along with his men, where they had made their final stand as a warning to the forces of Saruman of Rohan's resolve.
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Amharic
+|ጥሀኦድረድ?
+|-
+|Arabic
+|ثيودريد
+|-
+|Armenian
+|Տհեոդրեդ
+|-
+|Belarusian Cyrillic
+|Тэадрэд
+|-
+|Bengali
+|ঠেওদ্রেদ
+|-
+|Bulgarian Cyrillic
+|Тхеодред
+|-
+|Chinese (Hong Kong)
+|希優德
+|-
+|Georgian
+|თეოდრედ
+|-
+|Greek
+|Θεοντρεντ
+|-
+|Gujarati
+|ઠેઓદ્રેદ
+|-
+|Hebrew
+|טהיודריד
+|-
+|Hindi
+|ठेओद्रेद
+|-
+|Japanese
+|セオドレド
+|-
+|Kannada
+|ಠೆಒದ್ರೆದ್
+|-
+|Kazakh
+|Теодред (Cyrillic) Teodred (Latin)
+|-
+|Korean
+|세오드레드
+|-
+|Kyrgyz Cyrillic
+|Тhэодрэд
+|-
+|Macedonian Cyrillic
+|Тхеодред
+|-
+|Marathi
+|ठेओद्रेद
+|-
+|Mongolian Cyrillic
+|Тhеодред
+|-
+|Nepalese
+|ठेओद्रेद
+|-
+|Persian
+|تئودرد
+|-
+|Punjabi
+|ਥਿਓਡਰੇਡ
+|-
+|Russian
+|Теодред
+|-
+|Sanskrit
+|ठेओद्रेद्
+|-
+|Serbian
+|Теодред (Cyrillic) Teodred (Latin)
+|-
+|Sinhalese
+|ඨෙඔද්‍රෙද්
+|-
+|Tajik Cyrillic
+|Тҳеодред
+|-
+|Tamil
+|ட்ஹெஒத்ரெத்
+|-
+|Telugu
+|ఠెఒద్రెద
+|-
+|Ukrainian Cyrillic
+|Теодреда
+|-
+|Urdu
+|ٹہیوڈراد
+|-
+|Uzbek
+|Тҳеодред (Cyrillic) Theodred (Latin)
+|-
+|Yiddish
+|טהעאָדרעד
+|}
+
+</div>
+{{Clear}}
+
+== References ==
+<references/>
+
+[[de:Théodred]]
+[[es:Théodred]]
+[[fr:Theodred]]
+[[it:Théodred]]
+[[pl:Théodred]]
+[[ru:Теодред]]
+[[Category:Rohirrim]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:Characters in Unfinished Tales]]
+[[Category:Characters in The History of Middle-earth]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:Deaths in Battle]]

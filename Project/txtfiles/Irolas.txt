@@ -1,0 +1,41 @@
+{{NonCanon}}
+{{Infobox Non-canonical Character
+|Name= Irolas
+|Image= irolas.gif
+|Caption= Ian Hughes portrays '''Irolas''' in the ''[[The Lord of the Rings movie trilogy|third film]]''.
+|AKA=
+|Race= [[Men]]
+|Lifespan= Late [[Third Age]] - ?
+|Gender= 
+|Realm=
+|Culture=[[Men of Gondor]]
+|Weapon= 
+|Actor= [[Ian Hughes]]
+|Voice=}}
+
+# {{Quote|Long has he [Lord Denethor] foreseen this doom!|Iorlas, at the Citadel of Minas Tirith}}
+
+'''Irolas''' was a [[Men of Gondor|Man of Gondor]] and an officer of [[Minas Tirith]] during the last years of the [[Third Age]]. 
+
+He is a non-canonical character, not appearing in the works of [[J.R.R. Tolkien]], but invented for [[Peter Jackson]]'s [[The Lord of the Rings: The Return of the King|''The Lord of the Rings: The Return of the King'']]. 
+
+== Biography ==
+He first appears when [[Faramir]] returns from [[Osgiliath]] following the attack led by [[Gothmog (Lieutenant of Morgul)]]. He cried out that Denethor had foreseen the doom of Men at the hand of the Orcs, but Gandalf decried that Denethor had done nothing in response to his foresight. 
+
+He appeared later when retrieving the wounded body of Faramir following the disastrous attempt to retake Osgiliath. He led the ceremonial procession of Faramir's unconscious body to the Citadel of Minas Tirth, hurrying the group along. He was visibly stunned when Denethor despaired and ordered all posts abandoned, before Gandalf knocked Denethor out and assumed control. 
+
+== Behind the scenes ==
+Irolas is clearly intended as a replacement for the original character [[Beregond]], suggested by his Citadel Guard armour and his reaction (alongside [[Peregrin Took]]) to Denethor's despair. For unknown reasons, his character was renamed by Peter Jackson.
+
+A Minas Tirith guard named ''Iorlas'' also appears in the film, stationed at the city's entrance. As Faramir, injured, is brought into Minas Tirith by his horse, the subtitles say: "Iorlas: ''Open the gate quick!'' " This occurrence is correct. Earlier in the film, however, when ''Irolas'' is making an announcement, the subtitles incorrectly give Iorlas' name.
+
+== See also ==
+*[[Iorlas]]
+*[[Boromir]]
+
+[[de:Irolas]]
+[[es:Irolas]]
+[[pl:Irolas]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]
+[[Category:Characters created for Peter Jackson's trilogy]]
+[[Category:Non-canonical Men of Gondor]]

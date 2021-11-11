@@ -1,0 +1,39 @@
+{{ConjecturalTitle}}{{Infobox Person Hobbits
+| image = Mrsproudfoot.png
+| caption = '''Mrs. Proudfoot''' as shown in [[Peter Jackson]]'s ''[[The Fellowship of the Ring (film)|The Fellowship of the Ring]]''. 
+| name = Mrs. Proudfoot
+| title = 
+| birth = 
+| rule = 
+| death = 
+| realms = 
+| spouse = [[Odo Proudfoot]]
+| weapon = 
+| race = [[Hobbits]]
+| culture = [[Shire]]-hobbits ([[Proudfoot]] family)
+| gender = 
+| height = 
+| hair = 
+| eyes = 
+| actor = [[Megan Edwards]]
+| voice = 
+| character = 
+}}
+
+'''Mrs. Proudfoot''' was a [[Hobbit]] of the [[Shire]].
+
+== Biography ==
+She married [[Odo Proudfoot]] at some point prior to [[TA 2946]], when their son [[Olo Proudfoot|Olo]] was born. Little to nothing else is known of her life, including when she died.<ref>[[The Lord of the Rings|''The Lord of the Rings'']]: [[Appendix C]], "Baggins of Hobbiton"</ref>
+
+== Portrayal in adaptations ==
+
+In Peter Jackson's film [[The Fellowship of the Ring (film)|''The Fellowship of the Ring'']]'', ''Mrs. Proudfoot has a non-speaking role, appearing only during the "Shire Introduction" to non-verbally chastise her husband for enjoying the firework-antics of the wizard [[Gandalf]], perceived disturber of the peace.<ref>''[[The Lord of the Rings: The Fellowship of the Ring (film)]]''</ref>
+
+== References ==
+<references/>
+
+{{DEFAULTSORT:Proudfoot, Mrs.}}
+[[Category:Hobbits]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]][[it:Signora Tronfipiede]]
+[[Category:Proudfoots]]
+[[Category:Minor characters (The Lord of the Rings)]]

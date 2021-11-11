@@ -1,0 +1,87 @@
+{{Disamb-two|Marchwarden of Lórien|scholar|[[Rúmil (Noldo)|Rúmil]]}}
+{{Infobox Person Elves Lothlorien
+| image = Rumil.jpg
+| caption = 
+| name = Rúmil
+| othernames = 
+| title = [[Marchwarden]] of [[Lothlórien]]
+| birth = 
+| rule = 
+| death = 
+| realms = 
+| spouse = 
+| weapon = 
+| race = [[Elves]]
+| culture = [[Nandor]] ([[Silvan Elves]]), [[Galadhrim]] 
+| gender = 
+| height = 
+| hair = 
+| eyes = 
+| actor = [[Jørn E. Benzon]]
+| voice = 
+| character = 
+}}
+
+'''Rúmil''' was an [[Galadhrim|Elf of Lórien]] and brother of [[Orophin]] and [[Haldir of Lothlórien|Haldir]], the leading [[Marchwarden]] of Lórien, during the [[Third Age]].
+
+== Biography ==
+[[File:FOTR - Lorien Brothers.jpg|thumb|left|260px|Rúmil and his brothers]]
+
+Rúmil was a marchwarden of [[Lothlórien|Lórien]], and was one who guarded the border of the western part of the forest, with his brothers. He was present at the [[Fellowship of the Ring (group)|Fellowship of the Ring]]'s first meeting with the [[Galadhrim]].
+
+Later, he and Haldir guided the Fellowship to [[Caras Galadhon]]. Rúmil spoke very little [[Westron]] and so could not significantly interact with the Fellowship when he and his brothers encountered them in the [[forest]].<ref>''[[The Lord of the Rings]], [[The Fellowship of the Ring]]'', Book Two, Chapter VI: "[[Lothlorien]]"</ref>
+
+== Etymology ==
+
+According to [[Robert Foster]], the name '''''Rúmil''''' is [[Quenya]].<ref>''[[The Complete Guide to Middle-earth]]''</ref>
+
+== Early versions of the legendarium ==
+
+In early drafts of ''[[The Lord of the Rings]]'', Rúmil had the names ''Rhimbron'', ''Romrin'', and ''Rhomrin''.<ref>''[[The History of Middle-earth]]'', Vol. VII: ''[[The Treason of Isengard]]'', XII: "Lothlórien"</ref> As Rhimbron, he had another companion named Hathaldir.<ref>''[[The History of Middle-earth]]'', Vol. VII: ''[[The Treason of Isengard]]'', XII: "Lothlórien", Notes</ref>
+
+== Portrayal in adaptations ==
+=== The Lord of the Rings film trilogy ===
+In [[Peter Jackson]]'s ''[[The Fellowship of the Ring (film)|The Fellowship of the Ring]]'' [[The Fellowship of the Ring (film)|film]], Rúmil is portrayed by the Danish-born [[New Zealand]] actor [[Jørn E. Benzon]], the older brother of [[Glorfindel]]'s actor, [[Jarl Benzon]].
+
+=== The Lord of the Rings: TCG ===
+
+In ''[[The Lord of the Rings Trading Card Game]]'', Rúmil is identified as the brother of Haldir, a Silvan Elf, and an Elven Protector.
+
+=== Video games ===
+*In ''[[The Lord of the Rings: War of the Ring]]'' by Games Workshop, he can be fielded as part of the Guardians of [[Caras Galadhon]] Legendary Formation.
+
+*In ''[[The Lord of the Rings Online]]'', Rúmil can be found on the western outskirts of [[Lothlorien|Lothl]][[Galadhrim|órien]], defending the borders against the [[Orc]] attacks.
+
+== Gallery ==
+
+{{Gallery|width=150|height=150|captionalign=center|position=center
+|TCG - Rumil, brother of Haldir.jpg|TCG: Rumil, brother of Haldir
+|TCG - Rumil, Silvan Elf.jpg|Another [[LOTR TCG|TCG]] image
+|Rúmil of Lórien.jpg|Rumil in ''[[The Lord of the Rings Online]]''
+}}
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Voice dubbing artist'''
+|-
+|Russian
+|Румиль
+|}
+
+</div>
+{{Clear}}
+
+== References ==
+<references />
+
+[[de:Rúmil]]
+[[nl:Rúmil van Lórien]]
+[[pl:Rúmil (brat Haldira)]]
+[[ru:Румиль]]
+[[Category:Nandor]]
+[[Category:Galadhrim]]
+[[Category:The Lord of the Rings: The Fellowship of the Ring (film) Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]

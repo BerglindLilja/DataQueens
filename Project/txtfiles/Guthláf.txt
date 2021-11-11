@@ -1,0 +1,58 @@
+{{Infobox Person Men Rohan
+| image = The Lord of the Rings Online - Guthláf.jpg
+| caption = Guthláf in ''[[The Lord of the Rings Online]]''
+| name = Guthláf
+| othernames = 
+| title = Banner-bearer
+| birth = Late [[Third Age]]
+| rule = 
+| death = [[March 15]], [[3019]] 
+| realms = 
+| spouse = 
+| weapon = [[Weapons|Sword]]
+| race = [[Men]]
+| culture = [[Rohirrim]]
+| gender = Male
+| height = 
+| hair = 
+| eyes = 
+| actor = 
+| voice = 
+| character = 
+}}
+
+'''Guthláf''' was the banner-bearer of [[King of Rohan|King]] [[Théoden]] of [[Rohan]].
+
+== Biography ==
+
+Guthláf rode to the relief of [[Minas Tirith]] with his Lord in the War of the Ring, and there fought in the [[Battle of the Pelennor Fields]] where he was slain. He fell with the banner in his hand, and it had to be taken from him after death to be given to [[Éomer]]. He earned himself mention in the ''[[Song of the Mounds of Mundburg]]''.<ref>''[[The Lord of the Rings]], [[The Return of the King (novel)|The Return of the King]],'' Book Five, Chapter VI: "[[The Battle of the Pelennor Fields]]"</ref>
+
+== Portrayal in adaptations ==
+=== The Lord of the Rings Online ===
+
+*In the ''[[The Lord of the Rings Online]]'', Guthláf is the son of Thane Sparhafoc of Fenmarch and has a sister named Meregyth. He has been dismissed from his duty as [[Theoden]]'s banner-bearer by [[Gríma]] and had return home, protecting the lumber camp near the village of Imping in [[Eastfold]]. After the [[Battle of Helm's Deep]] Guthláf is restored in his duties by the King and rides south to [[Gondor]] at his side. Player next meets him in the [[Druadan Forest]], from where the Rohirrim set out for the [[Pelennor Fields]]. Guthláf is killed when the [[Witch-King]] of [[Angmar]] attacks King Theoden.
+
+== Translations ==
+{| class="wikitable" style="text-align: center;"
+!Foreign Language
+!Translated name
+|-
+|Chinese (Hong Kong)
+|古斯拉夫
+|}
+
+== Etymology ==
+''Gúthlaf'' was an Old English name, which [[Tolkien]] got from the ''Beowulf'' poem.{{Fact}}
+
+== References ==
+<references/>
+
+== Notes ==
+*He is featured in a decipher card of the ''[[Lord of the Rings Trading Card Game]]''.
+
+[[de:Guthláf]]
+[[it:Guthláf]]
+[[nl:Gúthlaf]]
+[[pl:Guthláf]]
+[[Category:Rohirrim]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]

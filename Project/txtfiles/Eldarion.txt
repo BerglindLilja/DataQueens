@@ -1,0 +1,188 @@
+<br />{{Infobox Person Men Dúnedain
+| image = Eldarion.jpg
+| caption = '''Eldarion''' as a child
+| name = Eldarion
+| othernames = 
+| title = [[King of the Reunited Kingdom]]
+| birth = [[FO 1]]
+| rule = [[FO 120]] - c.[[FO 220]]
+| death = c.[[FO 220]]
+| realms = [[Reunited Kingdom]]
+| spouse = 
+| children =
+| parentage = [[Aragorn II Elessar|Elessar]] & [[Arwen]]
+| weapon = 
+| race = [[Men]]
+| culture = [[Dúnedain]] ([[House of Telcontar]])
+| gender = 
+| height = 
+| hair = Dark
+| eyes = 
+| actor = [[Sadwyn Brophy]] (in ''The Return of the King'')
+| voice = 
+| character =
+| parentage = 
+| siblings = }}
+
+'''Eldarion''' ([[Quenya]]: [[IPA charts|IPA]]; "Scion of the Eldar") was the only son and heir of [[Aragorn II Elessar|Elessar]], the [[King of the Reunited Kingdom]], and his [[Half-elven]] wife and queen [[Arwen|Arwen Undómiel]].
+
+== Biography ==
+
+Eldarion was born in [[FO 1]],<ref name="NOME">''[[The Nature of Middle-earth]]'', I: "Time and Ageing", The Ageing of Elves</ref> and is recorded to have several sisters. He ascended to the throne upon the death of his father in [[FO 120]]. Next to nothing is known of his rule, except that he probably maintained the peace and the borders of the Reunited Kingdom as set down by his father after the [[War of the Ring]].<ref>''[[The Lord of the Rings]],'' [[Appendix A]]: Annals of the Kings and Rulers, I: The Númenórean Kings, (v): "The tale of Aragorn and Arwen"</ref>
+
+== Lineage ==
+
+Through his father, [[Aragorn II Elessar]], he is a direct descendant of Elendil, the grandson of [[Arathorn II]] and [[Gilraen]], great-grandson of [[Arador]] and great-great grandson of [[Argonui]]; both from [[Dúnedain|Dúnedain of the North]].
+
+Through his mother, [[Arwen Undómiel]], he was the grandson of Lord [[Elrond]] and Lady [[Celebrian]], nephew of [[Elladan and Elrohir]] of Rivendell, grandnephew of [[Elros]] Tar-Minyatur, great-grandson of Lady [[Galadriel]] and Lord [[Celeborn]] of [[Lothlorien|Lothlórien]], great grandson of [[Eärendil]] and [[Elwing]].
+
+== Etymology ==
+
+'''''Eldarion '''''is [[Quenya]] for "Son of the Eldar", from ''elda'' ("high-elf) and ''-ion'' (a patronymic ending, "son of, descendant").<ref>''[[The Letters of J.R.R. Tolkien]]'', [[Letter 338]]</ref>
+
+== Behind the scenes ==
+
+[[Tolkien|J.R.R. Tolkien]] had vague plans for a sequel to ''The Lord of the Rings'' trilogy called ''[[The New Shadow]]'', a story set sometime during King Eldarion's reign. However, he abandoned it after about 13 pages. Therefore, it is debatable whether ''The New Shadow'' can be considered canon.
+== Trivia ==
+*He is portrayed by [[Sadwyn Brophy]], son of [[Jed Brophy]], who portrayed [[Sharku]] and [[Snaga]] in [[The Two Towers (film)|''The Two Towers'' film]] and [[Nori]] in [[The Hobbit (films)|''The Hobbit'' films]].
+
+== Translations ==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Amharic
+|ዐልዳሪኦን ?
+|-
+|Arabic
+|الدرون
+|-
+|Armenian 
+|Էլդարիոն
+|-
+|Belarusian Cyrillic
+|Эльдарыён (Eldarion)
+Эльдарыён Тэлкантар (Eldarion Telcontar)
+|-
+|Bengali
+|এল্দারিওন   
+|-
+|Bulgarian Cyrillic
+|Елдарион
+|-
+|Catalan 
+|Eldàrion
+|-
+|Chinese
+|艾達瑞安 (Eldarion)
+艾達瑞安·泰爾康泰 (Eldarion Telcontar)
+|-
+|Georgian 
+|ელდარიონი
+|-
+|Greek
+|Ελδαριον 
+|-
+|Hebrew
+|אלדרין
+|-
+|Hindi
+|एल्दरिओन    
+|-
+|Japanese
+|エルダリオン
+|-
+|Kannada
+|ಎಲ್ಡಾರಿಯನ್
+|-
+|Kazakh 
+|Эльярион (Cyrillic) Élyarïon (Latin)
+|-
+|Korean
+|엘다리온
+|-
+|Kyrgyz Cyrillic
+|Элдарион 
+|-
+|Macedonian Cyrillic
+|Елдарион
+|-
+|Marathi
+|एल्डरियन
+|-
+|Mongolian Cyrillic
+|Элдарион 
+|-
+|Nepalese
+|एल्दरिओन
+|-
+|Persian 
+|الداریون
+|-
+|Punjabi
+|ਐਲਡਰਿਅਨ
+|-
+|Russian
+|Эльдарион
+|-
+|Serbian
+|Елдариона (Cyrillic) Eldarion (Latin)
+|-
+|Sinhalese
+|එල්ඩියොන්
+|-
+|Tajik Cyrillic
+|Елдарион
+|-
+|Tamil
+|ஏல்தரிஒந்  
+|-
+|Telugu
+|ఏల్దరిఒన  
+|-
+|Thai
+|เอลดาริออน
+|-
+|Ukrainian Cyrillic
+|Елдаріон (Eldarion)
+Елдаріон Телконтар (Eldarion Telcontar)
+|-
+|Urdu
+|الدآرااون
+|-
+|Yiddish
+|עלדאַריאָן
+|}
+
+</div>
+{{Clear}}
+
+{{Sequence
+|before=[[Aragorn II Elessar]]
+|title=[[King of all the Dúnedain]]<br/>[[King of the West]]<br/>[[High King of Gondor and Arnor]]<br/>[[King of Gondor]]<br/>[[King of Arnor]]<br/>[[King of the Reunited Kingdom]]<br/>Lord of the [[House of Telcontar]]
+|after=Unknown
+|years=[[FO 120]] - [[FO 220|?]]
+}}
+
+{{ArnorArthedain}}
+
+{{KingsofGondor}}
+
+== References ==
+<references/>
+
+[[de:Eldarion]]
+[[es:Eldarion]]
+[[fr:Eldarion]]
+[[it:Eldarion]]
+[[pl:Eldarion]]
+[[ru:Эльдарион]]
+[[Category:Quenya words]]
+[[Category:Dúnedain]]
+[[Category:Men of Gondor]]
+[[Category:Kings of Gondor]]
+[[Category:Kings of Arnor]]
+[[Category:Characters in The History of Middle-earth]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]

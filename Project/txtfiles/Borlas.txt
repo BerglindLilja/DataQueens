@@ -1,0 +1,37 @@
+{{Infobox Person Men Gondor
+|image = Borlas.jpg
+|caption = Borlas, portrayed by [[Billy Jackson]], in the New Line Film
+|name = Borlas
+|birth = Late Third Age or early Fourth Age
+|death = Unknown
+|realms = [[Reunited Kingdom]] ([[Arnor]] and [[Gondor]])
+|spouse = Unnamed wife
+|children = Unamed daughter, [[Berelach]]
+|parentage = [[Beregond (Captain)]]
+|siblings = [[Bergil]]
+|race = [[Men]]
+|gender = Male
+|culture = [[Men of Gondor]]
+|actor = [[Billy Jackson]]
+}}'''Borlas''' was a [[Men of Gondor|Man]] of [[Gondor]] in the [[Fourth Age]], and a key figure in [[Tolkien|J.R.R. Tolkien]]'s short-lived story ''[[The New Shadow]]''. He had two children, an unnamed daughter and a son [[Berelach]], a friend of [[Saelon]].<ref name="shadow" />
+
+== Biography ==
+
+Borlas was the son of [[Beregond (Captain)|Beregond]], the captain who saved [[Faramir]] from being burned by [[Denethor II|Denethor]]. After the [[War of the Ring]], he lived in [[Pen-arduin]], which was in [[Emyn Arnen]].<ref>''[[The History of Middle-earth]]'', Vol. XII: ''[[The Peoples of Middle-earth]]'', Index, pg. 471</ref> Sometime in the past he caught a [[Saelon|young man]] stealing an apple from his garden. He scolded him describing his behavior as "[[Orc]] work" but took the boy under his wing becoming his master. Years later, he learned through him of the growing shadow among [[Men]] and the possibility of a [[The New Shadow Cult|secret cult]] worshiping the old enemies of the world.<ref name="shadow">''[[The History of Middle-earth]]'', Vol. XII: ''[[The Peoples of Middle-earth]]'', chapter XVI: "[[The New Shadow]]"</ref>
+
+== Etymology ==
+
+''Borlas'' is Sindarin for "Enduring joy" from ''bor'' ("endure") and ''glass'' or ''galas'' ("joy").<ref>''The History of Middle-earth'', Vol. V: ''[[The Lost Road and Other Writings]]'', Part Three: "[[The Etymologies]]"</ref>
+
+{{House of Baranor}}
+
+== Portrayal in adaptations ==
+
+Borlas is played by [[Billy Jackson]], the son of [[Peter Jackson]], in the [[The Return of the King (film)|Return of the King film adaptation]].
+
+== References ==
+<references />[[pl:Borlas]]
+[[Category:Men of Gondor]]
+[[Category:Characters in The History of Middle-earth]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]
+[[Category:Sindarin words]]

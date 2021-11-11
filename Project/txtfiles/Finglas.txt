@@ -1,0 +1,70 @@
+{{Infobox Person Ents
+|birth = 
+|death = 
+|realms = [[Fangorn forest]]
+|spouse = 
+|weapon = 
+|race = [[Ent]]
+|culture = 
+|gender = 
+|height = 
+|hair = 
+|eyes = 
+|image = Leaflock-0.jpg
+|othernames = Leaflock
+|caption = "Leaflock" by Gail McIntosh}}[[File:Leaflock_-_TT.png|thumb|275px|Leaflock as shown in Peter Jackson's films]]
+{{Quote|Leaflock has grown sleepy, almost tree-ish, you might say: he has taken to standing by himself half-asleep all through the summer with the deep grass of the meadows round his knees. Covered with leafy hair he is. He used to rouse up in winter; but of late he has been too drowsy to walk far even then.|Treebeard}}
+'''Finglas''' ([[Sindarin]] for 'hair-leaf'), known in [[Westron]] as '''Leaflock''', was an [[Ent]] of [[Fangorn Forest]].
+
+Finglas was one of three oldest Ents still living during the end of the [[Third Age]]. He, [[Skinbark]], and [[Treebeard]] were the only ones left of the first and eldest of the Ents in [[Middle-earth]]. By the time of the [[War of the Ring]], Finglas had become sleepy and "treeish" (dormant and inanimate, like a tree). He stood alone in a meadow and dozed during the summer. At first he would awake in wintertime, but eventually he remained in place year-round, preferring to remain dormant to avoid the troubles of the world.<ref>''[[The Lord of the Rings]]'','' [[The Two Towers (novel)|The Two Towers]]'', Book Three, Ch. IV: "[[Treebeard (chapter)|Treebeard]]"</ref>
+
+== Description ==
+Finglas is described as a large, abundantly-leafed tree, short, and stout of heart. He had very round feet with seven stubby toes, and could step on Orc-foes easily. There was not much more written about him, as he is not a recurring character.
+
+== Portrayal in adaptations ==
+[[File:Leaflock.jpg|thumb|200px|Leaflock from ''[[The Lord of the Rings Online]]'']]
+In [[Peter Jackson]]'s ''[[The Lord of the Rings: The Two Towers (film)|The Lord of the Rings: The Two Towers]]'', Leaflock is portrayed as a very large, thick, and oak-like Ent. He helps besiege [[Isengard]], and put out the furnace fires of the industrial devilry of [[Saruman]] below [[Orthanc]]. He is notably seen landing on top of two Orcs, crushing and killing them instantly at the start of the siege and "smacking" two Orcs (not [[Uruk-hai]]) together some time later.
+
+He also appears in [[The Lord of the Rings Online|''The Lord of the Rings Online'']], where he can be interacted with in Fangorn forest.
+
+==Translations==
+<div style="overflow:auto; height:300px; width:500px; float:left">
+<!--<div style="overflow:auto; height:200px;">-->
+{| class="itemtable" style="color:#6f3d0b; border:2px solid #FFF; border-top: 0; text-align:left; -moz-border-radius-bottomleft:8px; -moz-border-radius-bottomright:8px; -webkit-border-bottom-left-radius:8px; -webkit-border-bottom-right-radius:8px;" bgcolor="#edeeff"
+| width="300" |'''Foreign Language'''
+| width="300" |'''Translated name'''
+|-
+|Chinese (Hong Kong)
+|芬格拉斯 A.K.A. 葉叢
+|-
+|Danish
+|Finglas (Løvlok)
+|-
+|Finnish
+|Finglas (Lehvähapsi)
+|-
+|Hebrew
+|פינגלאס (Finglas)
+על תל (Leaflock)
+|-
+|Norwegian
+|Finglas a.k.a. Løvlokk
+|}
+
+</div>
+{{Clear}}
+
+{{Ents}}
+
+== References ==
+<references />
+[[de:Finglas]]
+[[it:Ciuffofoglio]]
+[[pl:Finglas]]
+[[ru:Финглас]]
+[[Category:Ents]]
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:Minor characters (The Lord of the Rings)]]
+[[Category:CGI characters]]
+[[Category:Sindarin words]]
+__NOTOC__

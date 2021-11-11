@@ -1,0 +1,92 @@
+{{NonCanon}}
+<br/>
+{{Infobox Non-canonical Character
+|Name=Madril
+|Image=Madril.jpg
+|Caption='''Madril''' in ''[[The Lord of the Rings: The Two Towers]]''. 
+|AKA=
+|Race=[[Men]]
+|Lifespan=Late [[Third Age]] ? - March, [[3019]]
+|Gender=Male
+|Realm=
+|Culture=[[Men of Gondor]]
+|Weapon=[[Sword]] and [[Bow]]
+|Actor=[[John Bach]]
+|Voice=
+}}
+
+'''Madril''' was a [[Rangers of Ithilien|Ranger of Ithilien]] under the command [[Faramir]], at [[Henneth Annûn]] and at [[Osgiliath]].
+
+== Portrayal in adaptations ==
+=== Peter Jackson's The Lord of the Rings trilogy ===
+
+Madril was both an adviser and a second-in-command to Faramir. He was with Faramir when [[Sam]] and [[Frodo]] were captured by his men. When Faramir decided to let them go, Madril reminded him that if he failed to deliver the [[One Ring|Ring]] to [[Gondor]] he risked losing his life.<ref>http://www.imdb.com/character/ch0000165/?ref_=nm_flmg_act_21</ref> He accompanies Faramir on his mission of the [[Battle of Osgiliath]]. He commanded a group of archers during the Battle of Osgiliath but he suffered a head wound. As Faramir called for retreat, Madril was cut down by an [[Orc]] of [[Minas Morgul]], being severely wounded during the battle, and was thought by Faramir to be dead when the [[Men of Gondor]] retreat at the Ringwraiths' arrival. He is then seen lying defenseless on the ground, before being killed by [[Gothmog (Lieutenant of Morgul)|Gothmog]] with an Orcish spear.
+
+== Video games ==
+=== The Lord of the Rings: The Return of the King ===
+
+In ''[[The Lord of the Rings: The Return of the King (video game)|The Lord of the Rings: The Return of the King]]'' video game, Madril appears through the use of archival footage.<ref>http://www.imdb.com/title/tt0387360/</ref>  
+
+=== LEGO the Lord of the Rings ===
+
+In ''[[LEGO The Lord of the Rings: The Video Game|LEGO The Lord of the Rings]]'', Madril appears in Level 13, The [[Dead Marshes]], as a playable character along with [[Faramir]].
+<ref>http://www.imdb.com/title/tt2283948/fullcredits?ref_=tt_cl_sm#cast</ref>
+
+== Table-Top ==
+
+=== Lord of the Rings: Strategy Battle Game ===
+In ''The Lord of the Rings: Strategy Battle Game'' book "Shadow in the East", A younger Madril is introduced alongside Lieutenant Cirion during the closing years of the Third Age. Madril was on the scene for Gondor's very first encounters with Khand and [[Easterling]] forces that entered from Rhun and beyond.
+
+== Behind the scenes ==
+
+Madril is played in Peter Jackson's films by [[John Bach]].
+
+=== Voice Dubbing actors ===
+
+{| class="wikitable" style="text-align: center;"
+!Foreign Language
+!Voice dubbing artist
+|-
+|Portuguese (Brazil) (Television/DVD)
+|Nestor Chiesse ''(TTT)'' / Wellington Lima ''(ROTK)''
+|-
+|Spanish (Latin America)
+|Roberto Mendiola ''(TTT)'' / Sebastián Llapur ''(ROTK)''
+|-
+|Spanish (Spain)
+|Adrià Frías
+|-
+|German
+|Reinhard Brock
+|-
+|Czech (Czech Republic)
+|Bedřich Štětena
+|-
+|Italian (Italy)
+|Claudio Puglisi
+|-
+|Turkish
+|Uğur Aslanoğlu
+|}
+
+== Gallery ==
+
+<gallery>
+Tumblr m5oav86wXu1qed5gvo1 500.png|Madril and Faramir
+Tumblr m5opgiKqzv1qjxbero1 500.jpg|Madril dies
+</gallery>
+
+== References ==
+<references/>
+
+[[de:Madril]]
+[[es:Madril]]
+[[pl:Madril]]
+[[ru:Мадрил]]
+[[fr:Madril]]
+
+[[Category:The Lord of the Rings: The Two Towers (film) Characters]]
+[[Category:The Lord of the Rings: The Return of the King (film) Characters]]
+[[Category:Characters created for Peter Jackson's trilogy]]
+[[Category:Non-canonical Deaths in Battle]]
+[[Category:Non-canonical Rangers of Ithilien]]
