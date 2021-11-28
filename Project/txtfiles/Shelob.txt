@@ -11,7 +11,7 @@
 | spouse = 
 | weapon = 
 | race = [[Spiders]]
-| culture = Descendant of [[Ungoliant]]<ref>''[[The Lord of the Rings]]'', ''[[The Two Towers]]'', Book Five, Ch. X: "[[The Choices of Master Samwise]]", pg. 739</ref>
+| culture = Descendant of [[Ungoliant]]
 | gender = Female
 | height = 
 | hair = 
