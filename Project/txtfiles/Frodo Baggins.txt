@@ -1,5 +1,19 @@
-{{Featured star}}{{Infobox_Person_Hobbits|age = 53|caption = '''Frodo''', as portrayed by Elijah Wood|image = FotR - Elijah Wood as Frodo.png|othernames = Frodo of the Nine Fingers, Nine-Fingered Frodo, Maura Labingi<br/>([[Westron]] name), Mr. [[Underhill]],
-Sneaky hobbit (by Gollum)|name = |title = Bearer of the [[One Ring]], Elf-friend, Deputy Mayor of [[Michel Delving]]|birth = [[September 22]], [[TA 2968]] ([[SR 1368]])|death = Unknown (Last sighting [[September 29]], [[TA 3021|3021]]) ([[SR 1421]])|weapon = [[Sting]] and [[Barrow-blades|Barrow-blade]]|race = |gender = |culture = [[Shire]]-hobbit ([[Brandybuck|Brandybuck family]]/[[Baggins family]])|hair = Brown|actor = [[Elijah Wood]] (LOTR Trilogy)
+{{Featured star}}
+{{Infobox_Person_Hobbits
+|age = 53
+|caption = '''Frodo''', as portrayed by Elijah Wood
+|image = FotR - Elijah Wood as Frodo.png
+|othernames = Frodo of the Nine Fingers, Nine-Fingered Frodo, Maura Labingi<br/>([[Westron]] name), Mr. [[Underhill]],Sneaky hobbit (by Gollum)
+|name = 
+|title = Bearer of the [[One Ring]], Elf-friend, Deputy Mayor of [[Michel Delving]]
+|birth = [[September 22]], [[TA 2968]] ([[SR 1368]])
+|death = Unknown (Last sighting [[September 29]], [[TA 3021|3021]]) ([[SR 1421]])
+|weapon = [[Sting]] and [[Barrow-blades|Barrow-blade]]
+|race = 
+|gender = 
+|culture = [[Shire]]-hobbit ([[Brandybuck|Brandybuck family]]/[[Baggins family]])
+|hair = Brown
+|actor = [[Elijah Wood]] (LOTR Trilogy)
 Valery Dyachenko (Khraniteli)|rule = November, TA 3019 to Mid-year's Day, TA 3020|realms=|spouse=|height=|eyes=|voice= Elijah Wood (video games)|character=|Age=53}}{{title|image=Tengwar Frodo Baggins.png}}
 {{quote|I will take the Ring, though I do not know the way.|Frodo, at the Council of Elrond, in ''[[The Fellowship of the Ring]]''}}
 '''Frodo Baggins''', son of [[Drogo Baggins]], was a [[hobbit]] of the [[Shire]] in the late [[Third Age]]. He was, and still is, [[J.R.R. Tolkien|Tolkien]]'s most renowned character for his leading role in the [[Quest of the Ring]], in which he bore the [[One Ring]] to [[Mount Doom]], where it was destroyed. He was a [[Ring-bearer]], best friend to his gardener, [[Samwise Gamgee]], and one of the three hobbits who sailed from [[Middle-earth]] to [[Aman|the Uttermost West]] at the end of the [[Third Age]].
