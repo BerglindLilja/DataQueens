@@ -13,7 +13,7 @@
 | spouse = [[Estella Bolger]]
 | parentage = [[Saradoc Brandybuck]] 
 | weapon = [[Barrow-blades|Dagger of Westernesse]]
-| race = [[Hobbit]]
+| race = [[Hobbits]]
 | culture = [[Shire]]-hobbits, [[Buckland]]ers ([[Brandybucks|Brandybuck family]])
 | gender = 
 | height = 4'6" (1.38 m)

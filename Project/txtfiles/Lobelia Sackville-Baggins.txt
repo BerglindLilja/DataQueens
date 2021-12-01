@@ -11,7 +11,7 @@
 | realms = 
 | spouse = [[Otho Sackville-Baggins]]
 | weapon = Umbrella 
-| race = [[Hobbit]]
+| race = [[Hobbits]]
 | culture = [[Shire]]-hobbits ([[Bracegirdle]]s & [[Sackville-Bagginses]]) 
 | gender = 
 | height =1.17m (3'10") 
