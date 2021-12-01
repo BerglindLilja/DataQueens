@@ -2401,7 +2401,7 @@ _Dear Frodo,_
 
 
 
-                           _Chapter 1_
+                           _Chapter 13_
             Many Meetings
 
      Frodo woke and found himself lying in bed. At first he thought that he had slept late, after a long unpleasant dream that still hovered on the edge of memory. Or perhaps he had been ill? But the ceiling looked strange; it was flat, and it had dark beams richly carved. He lay a little while longer looking at patches of sunlight on the wall, and listening to the sound of a waterfall.
@@ -2721,7 +2721,7 @@ _Dear Frodo,_
      `Quite right, Sam,' laughed Bilbo. `You can trot off and tell Gandalf that he has gone to bed. Good night, Frodo! Bless me, but it has been good to see you again! There are no folk like hobbits after all for a real good talk. I am getting very old, and I began to wonder if I should ever live to see your chapters of our story. Good night! I'll take a walk, I think, and look at the stars of Elbereth in the garden. Sleep well!'
 
 
-                           _Chapter 2_
+                           _Chapter 14_
             The Council of Elrond
 
      Next day Frodo woke early, feeling refreshed and well. He walked along the terraces above the loud-flowing Bruinen and watched the pale, cool sun rise above the far mountains, and shine down. Slanting through the thin silver mist; the dew upon the yellow leaves was glimmering, and the woven nets of gossamer twinkled on every bush. Sam walked beside him, saying nothing. but sniffing the air, and looking every now and again with wonder in his eyes at the great heights in the East. The snow was white upon their peaks.
@@ -3035,7 +3035,7 @@ _Dear Frodo,_
      Sam sat down, blushing and muttering. `A nice pickle we have landed ourselves in, Mr. Frodo!' he said, shaking his head.
 
 
-                           _Chapter 3_
+                           _Chapter 15_
             The Ring Goes South
 
      Later that day the hobbits held a meeting of their own in Bilbo's room. Merry and Pippin were indignant when they heard that Sam had crept into the Council, and had been chosen as Frodo's companion.
@@ -3296,7 +3296,7 @@ _Dear Frodo,_
      A cold wind flowed down behind them, as they turned their backs on the Redhorn Gate, and stumbled wearily down the slope. Caradhras had defeated them.
 
 
-                           _Chapter 4_
+                           _Chapter 16_
             A Journey in the Dark
 
      It was evening, and the grey light was again waning fast, when they halted for the night. They were very weary. The mountains were veiled in deepening dusk, and the wind was cold. Gandalf spared them one more mouthful each of the miruvor of Rivendell. When they had eaten some food he called a council.
@@ -3566,7 +3566,7 @@ _Dear Frodo,_
      'He is dead then,' said Frodo. `I feared it was so.' Gimli cast his hood over his face.
 
 
-                           _Chapter 5_
+                           _Chapter 17_
             The Bridge of Khazad-dûm
 
      The Company of the Ring stood silent beside the tomb of Balin. Frodo thought of Bilbo and his long friendship with the dwarf, and of Balin's visit to the Shire long ago. In that dusty chamber in the mountains it seemed a thousand years ago and on the other side of the world.
@@ -3682,7 +3682,7 @@ _Dear Frodo,_
      They looked back. Dark yawned the archway of the Gates under the mountain-shadow. Faint and far beneath the earth rolled the slow drum-beats: _doom_. A thin black smoke trailed out. Nothing else was to be seen; the dale all around was empty. _Doom_. Grief at last wholly overcame them, and they wept long: some standing and silent, some cast upon the ground. _Doom, doom_. The drum-beats faded.
 
 
-                           _Chapter 6_
+                           _Chapter 18_
             Lothlórien
 
      'Alas! I Fear we cannot stay here longer,' said Aragorn. He looked towards the mountains and held up his sword. `Farewell, Gandalf! ' he cried. 'Did I not say to you: _if you pass the doors of Moria, beware_? Alas that I spoke true! What hope have we without you? '
@@ -3914,7 +3914,7 @@ _Dear Frodo,_
      `Here is the heart of Elvendom on earth,' he said, `and here my heart dwells ever, unless there be a light beyond the dark roads that we still must tread, you and I. Come with me! ' And taking Frodo's hand in his, he left the hill of Cerin Amroth and came there never again as living man.
 
 
-                           _Chapter 7_
+                           _Chapter 19_
             The Mirror of Galadriel
 
      The sun was sinking behind the mountains, and the shadows were deepening in the woods, when they went on again. Their paths now went into thickets where the dusk had already gathered. Night came beneath the trees as they walked, and the Elves uncovered their silver lamps.
@@ -4066,7 +4066,7 @@ _Dear Frodo,_
      `I would,' she said. `That is how it would begin. But it would not stop with that, alas! We will not speak more of it. Let us go!'
 
 
-                           _Chapter 8_
+                           _Chapter 20_
             Farewell to Lórien
 
      That night the Company was again summoned to the chamber of Celeborn, and there the Lord and Lady greeted them with fair words. At length Celeborn spoke of their departure.
@@ -4193,7 +4193,7 @@ _Dear Frodo,_
      So the Company went on their long way, down the wide hurrying waters, borne ever southwards. Bare woods stalked along either bank, and they could not see any glimpse of the lands behind. The breeze died away and the River flowed without a sound. No voice of bird broke the silence. The sun grew misty as the day grew old, until it gleamed in a pale sky like a high white pearl. Then it faded into the West, and dusk came early, followed by a grey and starless night. Far into the dark quiet hours they floated on, guiding their boats under the overhanging shadows of the western woods. Great trees passed by like ghosts, thrusting their twisted thirsty roots through the mist down into the water. It was dreary and cold. Frodo sat and listened to the faint lap and gurgle of the River fretting among the tree-roots and driftwood near the shore, until his head nodded and he fell into an uneasy sleep.
 
 
-                           _Chapter 9_
+                           _Chapter 21_
             The Great River
 
      Frodo was roused by Sam. He found that he was lying, well wrapped, under tall grey-skinned trees in a quiet corner of the woodlands on the west bank of the Great River, Anduin. He had slept the night away, and the grey of morning was dim among the bare branches. Gimli was busy with a small fire near at hand.
@@ -4309,7 +4309,7 @@ _Dear Frodo,_
      The tenth day of their journey was over. Wilderland was behind them. They could go no further without choice between the east-way and the west. The last stage of the Quest was before them.
 
 
-                           _Chapter 10_
+                           _Chapter 22_
             The Breaking of the Fellowship
 
      Aragorn led them to the right arm of the River. Here upon its western side under the shadow of Tol Brandir a green lawn ran down to the water from the feet of Amon Hen. Behind it rose the first gentle slopes of the hill clad with trees, and trees marched away westward along the curving shores of the lake. A little spring fell tumbling down and fed the grass.

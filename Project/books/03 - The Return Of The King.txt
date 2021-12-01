@@ -1397,7 +1397,7 @@ J. R. R. Tolkien — The Lord Of The Rings. (3/4)
      For one moment more Pippin's thought hovered. 'Bilbo!' it said. 'But no! That came in his tale, long long ago. This is my tale, and it is ended now. Good-bye!' And his thought fled far away and his eyes saw no more.
 
 
-                           _Chapter 1_
+                           _Chapter 11_
             The Tower of Cirith Ungol
 
      Sam roused himself painfully from the ground. For a moment he wondered where he was, and then all the misery and despair returned to him. He was in the deep dark outside the under-gate of the orcs' stronghold; its brazen doors were shut. He must have fallen stunned when he hurled himself against them; but how long he had lain there he did not know. Then he had been on fire, desperate and furious; now he was shivering and cold. He crept to the doors and pressed his ears against them.
@@ -1549,7 +1549,7 @@ J. R. R. Tolkien — The Lord Of The Rings. (3/4)
      The will of the Watchers was broken with a suddenness like the snapping of a cord, and Frodo and Sam stumbled forward. Then they ran. Through the gate and past the great seated figures with their glittering eyes. There was a crack. The keystone of the arch crashed almost on their heels, and the wall above crumbled, and fell in ruin. Only by a hair did they escape. A bell clanged; and from the Watchers there went up a high and dreadful wail. Far up above in the darkness it was answered. Out of the black sky there came dropping like a bolt a winged shape, rending the clouds with a ghastly shriek.
 
 
-                           _Chapter 2_
+                           _Chapter 12_
             The Land of Shadow
 
      Sam had just wits enough left to thrust the phial back into his breast. 'Run, Mr. Frodo!' he cried. 'No, not that way! There's a sheer drop over the wall. Follow me!'
@@ -1681,7 +1681,7 @@ J. R. R. Tolkien — The Lord Of The Rings. (3/4)
      With a last despairing effort Frodo raised himself on his hands, and struggled on for maybe twenty yards. Then he pitched down into a shallow pit that opened unexpectedly before them, and there he lay like a dead thing.
 
 
-                           _Chapter 3_
+                           _Chapter 13_
             Mount Doom
 
      Sam put his ragged orc-cloak under his master's head, and covered them both with the grey robe of Lórien; and as he did so his thoughts went out to that fair land, and to the Elves, and he hoped that the cloth woven by their hands might have some virtue to keep them hidden beyond all hope in this wilderness of fear. He heard the scuffling and cries die down as the troops passed on through the Isenmouthe. It seemed that in the confusion and the mingling of many companies of various kinds they had not been missed, not yet at any rate.
@@ -1787,7 +1787,7 @@ J. R. R. Tolkien — The Lord Of The Rings. (3/4)
      'Yes,' said Frodo. 'But do you remember Gandalf's words: _Even Gollum may have something yet to do?_ But for him, Sam, I could not have destroyed the Ring. The Quest would have been in vain, even at the bitter end. So let us forgive him! For the Quest is achieved, and now all is over. I am glad you are here with me. Here at the end of all things, Sam.'
 
 
-                           _Chapter 4_
+                           _Chapter 14_
             The Field of Cormallen
 
      All about the hills the hosts of Mordor raged. The Captains of the West were foundering in a gathering sea. The sun gleamed red, and under the wings of the Nazgûl the shadows of death fell dark upon the earth. Aragorn stood beneath his banner, silent and stern, as one lost in thought of things long past or far away; but his eyes gleamed like stars that shine the brighter as the night deepens. Upon the hill-top stood Gandalf, and he was white and cold and no shadow fell on him. The onslaught of Mordor broke like a wave on the beleaguered hills, voices roaring like a tide amid the wreck and crash of arms.
@@ -1894,7 +1894,7 @@ J. R. R. Tolkien — The Lord Of The Rings. (3/4)
      And there in the midst of the fields they set up their pavilions and awaited the morning; for it was the Eve of May, and the King would enter his gates with the rising of the Sun.
 
 
-                           _Chapter 5_
+                           _Chapter 15_
             The Steward and the King
 
      Over the city of Gondor doubt and great dread had hung. Fair weather and clear sun had seemed but a mockery to men whose days held little hope, and who looked each morning for news of doom. Their lord was dead and burned, dead lay the King of Rohan in their citadel, and the new king that had come to them in the night was gone again to a war with powers too dark and terrible for any might or valour to conquer. And no news came. After the host left Morgul Vale and took the northward road beneath the shadow of the mountains no messenger had returned nor any rumour of what was passing in the brooding East.
@@ -2049,7 +2049,7 @@ J. R. R. Tolkien — The Lord Of The Rings. (3/4)
      Then the King welcomed his guests, and they alighted; and Elrond surrendered the sceptre, and laid the hand of his daughter in the hand of the King, and together they went up into the High City, and all the stars flowered in the sky. And Aragorn the King Elessar wedded Arwen Undómiel in the City of the Kings upon the day of Midsummer, and the tale of their long waiting and labours was come to fulfilment.
 
 
-                           _Chapter 6_
+                           _Chapter 16_
             Many Partings
 
      When the days of rejoicing were over at last the Companions thought of returning to their own homes. And Frodo went to the King as he was sitting with the Queen Arwen by the fountain, and she sang a song of Valinor, while the Tree grew and blossomed. They welcomed Frodo and rose to greet him; and Aragorn said:
@@ -2208,7 +2208,7 @@ J. R. R. Tolkien — The Lord Of The Rings. (3/4)
      These words no one else heard, and Frodo kept them to himself.
 
 
-                           _Chapter 7_
+                           _Chapter 17_
             Homeward Bound
 
      At last the hobbits had their faces turned towards home. They were eager now to see the Shire again; but at first they rode only slowly, for Frodo had been ill at ease. When they came to the Ford of Bruinen, he had halted, and seemed loth to ride into the stream; and they noted that for a while his eyes appeared not to see them or things about him. All that day he was silent. It was the sixth of October.
@@ -2290,7 +2290,7 @@ J. R. R. Tolkien — The Lord Of The Rings. (3/4)
      'Not to me,' said Frodo. 'To me it feels more like falling asleep again.'
 
 
-                           _Chapter 8_
+                           _Chapter 18_
             The Scouring of the Shire
 
      It was after nightfall when, wet and tired, the travellers came at last to the Brandywine, and they found the way barred. At either end of the Bridge there was a great spiked gate; and on the further side of the river they could see that some new houses had been built: two-storeyed with narrow straight-sided windows, bare and dimly lit, all very gloomy and un-Shirelike.
@@ -2546,7 +2546,7 @@ J. R. R. Tolkien — The Lord Of The Rings. (3/4)
      'I shan't call it the end, till we've cleared up the mess,' said Sam gloomily. 'And that'll take a lot of time and work.'
 
 
-                           _Chapter 9_
+                           _Chapter 19_
             The Grey Havens
 
      The clearing up certainly needed a lot of work, but it took less time than Sam had feared. The day after the battle Frodo rode to Michel Delving and released the prisoners from the Lockholes. One of the first that they found was poor Fredegar Bolger, Fatty no longer. He had been taken when the ruffians smoked out a band of rebels that he led from their hidings up in the Brockenbores by the hills of Scary.
