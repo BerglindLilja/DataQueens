@@ -1,7 +1,6 @@
 {
     "aragorn ii elessar": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " You draw far too much attention to yourself Mr. “Underhill”! ",
         " A little more caution from you. That is no trinket you carry. ",
         " Indeed. ",
@@ -128,7 +127,6 @@
         " This belongs to you. ",
         " She is sailing to the undying lands, with all that is left of her kin. ",
         " Wargs! We are under attack! ",
-        " \"Do I not also have your love?\" ",
         " Mae carnen, Brego, mellon nîn.  ",
         " Gimli, where is the king? ",
         " Hannon le.  ",
@@ -228,7 +226,6 @@
     ],
     "arwen": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " What’s this? A ranger caught off his guard? ",
         " Frodo… Im Arwen. Telin le thaed *I am Arwen. I have come to help you* ",
         " Lasto beth nin. Tolo dan na galad *Hear my voice. Come back to the light*",
@@ -262,7 +259,6 @@
         " May the grace of the Valar protect you. ",
         " I've made my choice. ",
         " There is still hope. ",
-        " \"Do I not also have your love?\" ",
         " Gerich meleth nîn, ada.  ",
         " Tell me what you have seen. ",
         " You have the gift of foresight. What did you see? ",
@@ -277,7 +273,6 @@
     ],
     "frodo baggins": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " You’re late!",
         " Its wonderful to see you Gandalf!",
         " What news of the outside world? Tell me everything.",
@@ -453,7 +448,6 @@
         " We've got to keep moving. C'mon Sam. ",
         " Sméagol? ",
         " We've lingered here for too long. C'mon Sam! ",
-        " \"Do I not also have your love?\" ",
         " We are hobbits of the Shire. Frodo Baggins is my name and this is Samwise Gamgee. ",
         " There was no other. We set out from Rivendell with seven companions. One we lost in Moria. Two were my kin. A dwarf there was also. And an elf. And two men. Aragorn, son of Arathorn and Boromir of Gondor. ",
         " Yes, for my part. ",
@@ -549,14 +543,11 @@
         "  You have so much to enjoy and to be and to do. Your part in this story will go on. "
     ],
     "balin": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "bilbo baggins": [
         "",
         " What’s this?",
-        " Bilbo Baggins of the Shire. ",
         " A ring.",
         " No thank you! We don’t want any more visitors, well-wishers or distant relations!",
         " Gandalf? ",
@@ -607,7 +598,6 @@
         " Here’s a pretty thing… Mithril! As light as a feather! And as hard as dragon scales! Let me see you put it on. Go on.",
         " Oh… M..my old Ring! I sh-sh-should very much like… to hold it again, one last time. ",
         " Oh…I’m sorry I brought this upon you my boy…I’m sorry that you must carry this burden. I’m sorry for everything!",
-        " \"Do I not also have your love?\" ",
         " Tell me again, lad, where are we going? ",
         " Frodo, any chance of seeing that old Ring of mine again? Hmm? The one I gave you. ",
         " Oh. Pity? I should like to have held it one last time. ",
@@ -615,52 +605,16 @@
         "  I think I’m quite ready for another adventure. "
     ],
     "bell boffin": [
-        "",
-        " Out of the Way! Watch where you’re going! ",
-        " You cannot hide! I see you! There is no life in the void…only death…",
-        " Build me an army worthy of Mordor! ",
-        " Who enters my domain? ",
-        " The Dead do not suffer the living to pass. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " None but the King of Gondor may command me. ",
-        " That line was broken. ",
-        " We fight. ",
-        "  Grond! Grond! Grond! Grond! Grond! ",
-        " Release us. ",
-        " You gave us your word. ",
-        " My master, Sauron the Great, bids thee welcome. ",
-        " Is there any in this rout with authority to treat with me?",
-        "  Old Greybeard. I have a token I was bidden to show thee. ",
-        " The Halfling was dear to thee, I see. Know that he suffered greatly at the hands of his host. Who would’ve thought one so small could endure so much pain? And he did, Gandalf. He did.",
-        " And who is this? Isildur’s heir? It takes more to make a king than a broken Elvish blade."
+        ""
     ],
     "minto boffin": [
-        "",
-        " Out of the Way! Watch where you’re going! ",
-        " You cannot hide! I see you! There is no life in the void…only death…",
-        " Build me an army worthy of Mordor! ",
-        " Who enters my domain? ",
-        " The Dead do not suffer the living to pass. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " None but the King of Gondor may command me. ",
-        " That line was broken. ",
-        " We fight. ",
-        "  Grond! Grond! Grond! Grond! Grond! ",
-        " Release us. ",
-        " You gave us your word. ",
-        " My master, Sauron the Great, bids thee welcome. ",
-        " Is there any in this rout with authority to treat with me?",
-        "  Old Greybeard. I have a token I was bidden to show thee. ",
-        " The Halfling was dear to thee, I see. Know that he suffered greatly at the hands of his host. Who would’ve thought one so small could endure so much pain? And he did, Gandalf. He did.",
-        " And who is this? Isildur’s heir? It takes more to make a king than a broken Elvish blade."
+        ""
     ],
     "filibert bolger": [
         ""
     ],
     "fredegar bolger": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "boromir": [
         "",
@@ -721,28 +675,15 @@
         "  No! Frodo! "
     ],
     "melilot brandybuck": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " Aah!",
-        "  Wait! We are coming too! ",
-        " Frodo! ",
-        " Yaahh! ",
-        " Shire!!!!",
-        " \"Do I not also have your love?\" ",
-        "",
-        " But the only brew for the brave and true, Comes from The Green Dragon!",
-        " Death! "
+        ""
     ],
     "meriadoc brandybuck": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " Quickly! ",
         " No, no the big one, big one ",
         " You’re supposed to stick it in the ground! ",
         " Outside! ",
         " That was good!",
-        " Aah!",
-        " Aah!",
         " Hello Frodo! ",
         " Hold this.  ",
         " ‘Dunno why he is so upset. It’s only a couple of carrots!",
@@ -766,22 +707,17 @@
         " They’re close.",
         " Who is she?",
         " Where are you taking him?",
-        "  Wait! We are coming too! ",
-        "  Wait! We are coming too! ",
         " You’d have to send us home tied up in a sack to stop us! ",
         " Well that rules you out Pip. ",
         " That’s good, Pippin. ",
         " Get him! ",
         " He got my arm! He got my arm!",
         " What do you suppose that means? ",
-        " Frodo! ",
         " Aragorn! ",
         " Pippin! ",
         " No.",
         " What? ",
         " He’s remembered!",
-        " Yaahh! ",
-        " Yaahh! ",
         " What do they say about him?",
         " Where’s Frodo?",
         " Frodo!",
@@ -791,8 +727,6 @@
         " Hey! Hey you! Over here! ",
         " Over here!",
         " I know it’s working! Run!",
-        " Shire!!!!",
-        " Shire!!!!",
         " I think, we might have made a mistake leaving the Shire, Pippin. ",
         " It's the trees. ",
         " You remember the Old Forest? On the borders of Buckland? Folks used to say that there was something in the water that made the trees tall, and come alive. ",
@@ -808,7 +742,6 @@
         " Saruman! ",
         " Isengard? ",
         " It's Saruman's army! The war has started. ",
-        " \"Do I not also have your love?\" ",
         " What’s that? ",
         " A gathering of what? ",
         " Yes? ",
@@ -825,11 +758,7 @@
         " Only, you’ve never done a hard day’s work. ",
         " Welcome, my lord, to Isengard! ",
         " We’re under orders, from Treebeard, who’s taken over management of Isengard. ",
-        "",
-        "",
         " Pippin!",
-        " But the only brew for the brave and true, Comes from The Green Dragon!",
-        " But the only brew for the brave and true, Comes from The Green Dragon!",
         " Thank you! I win!",
         " What you doing? ",
         " Pippin! Pippin?",
@@ -856,8 +785,6 @@
         " My lady, you are fair and brave and have much to live for, and many who love you. I know it is too late to turn aside. I know there is not much point now in hoping. If I were a knight of Rohan, capable of great deeds. But I’m not. I’m a Hobbit. And I know I can’t save Middle-Earth. I just want to help my friends. Frodo. Sam. Pippin. More than anything, I wish I could see them again.",
         " To battle.",
         " Death! ",
-        " Death! ",
-        " Death! ",
         "  I knew you’d find me. ",
         " Are you going to leave me? ",
         " No!",
@@ -866,19 +793,15 @@
     ],
     "barliman butterbur": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " Good evening little masters! If you’re seeking accommodation we’ve got some nice, cozy, hobbit-sized rooms available. Mr. Uh….",
         " Underhill. Yes. ",
         " Gandalf? Gandalf? Ohh yes! I remember, elderly chap, big gray beard, pointy hat.  Not seen him for 6 months. ",
         "  Get out of my way.",
         " He’s one of them rangers. Dangerous folk they are.. wandering in the wild. What his right name is I’ve never heard but around here, he’s known as Strider.",
-        " You’ll all be destroyed!",
-        " \"Do I not also have your love?\" "
+        " You’ll all be destroyed!"
     ],
     "calaglin": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "celeborn": [
         "",
@@ -889,24 +812,16 @@
         " Goodnight. "
     ],
     "círdan": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "albert dreary": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "durin's bane": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "dínendal": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "elendil": [
         ""
@@ -963,17 +878,7 @@
         ""
     ],
     "erland": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " Aah!",
-        "  Wait! We are coming too! ",
-        " Frodo! ",
-        " Yaahh! ",
-        " Shire!!!!",
-        " \"Do I not also have your love?\" ",
-        "",
-        " But the only brew for the brave and true, Comes from The Green Dragon!",
-        " Death! "
+        ""
     ],
     "bill ferny": [
         ""
@@ -984,7 +889,6 @@
     ],
     "galadriel": [
         "",
-        " Bilbo Baggins of the Shire. ",
         "  Frodo… ",
         " Your coming to us… ..is as the footsteps of Doom. You bring great evil here Ring-bearer!",
         " He has fallen into shadow.  The Quest stands upon the edge of a knife. Stray but a little and it will fail to the ruin of all. ",
@@ -1002,7 +906,6 @@
         "  Farewell, Frodo Baggins. I give you the light of Eärendil, our most beloved star.",
         " Namárië.",
         "  May it be a light for you in dark places, when all other lights go out.",
-        " \"Do I not also have your love?\" ",
         " I amar prestar aen, ",
         "  And you, Frodo Baggins, I give you the light of Eärendil, our most beloved star. ",
         "  May it be a light for you in dark places, when all other lights go out. ",
@@ -1010,13 +913,10 @@
         " The power of the Three Rings is ended. The time has come for the Dominion of Men. "
     ],
     "hamfast gamgee": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "samwise gamgee": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " I think I’ll just have another ale. ",
         " Goodnight. ",
         " Goodnight.",
@@ -1124,7 +1024,6 @@
         " Ready to do what? ",
         " Mr. Frodo! Look! It's an Oliphant! No one at home will believe this. ",
         " Ah! ",
-        " \"Do I not also have your love?\" ",
         " Spies! Now wait just a minute! ",
         " His gardener. ",
         " We have to get out of here. You go. Go now. You can do it. Use the Ring, Mr. Frodo. Just this once. Put it on. Disappear. ",
@@ -1241,7 +1140,6 @@
     ],
     "gandalf": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " The road goes ever on and on down from the door where it began. Now far ahead the road has gone, and I must follow if I can… ",
         " A wizard is never late, Frodo Baggins. Nor is he early. He arrives precisely when he means to. ",
         " Ooh! You didn’t think I’d miss your Uncle Bilbo’s birthday?",
@@ -1267,7 +1165,6 @@
         " He’s very fond of you. ",
         " Whoa! ",
         " Whoa! Up they go. ",
-        " Aah!",
         " Meriadoc Brandybuck and Peregrin Took. I might’ve known. ",
         " I suppose you think that was terribly clever.",
         " There are many magic rings in this world Bilbo Baggins and none of them should be used lightly. ",
@@ -1341,7 +1238,6 @@
         " Aragorn is right. We cannot use it. ",
         "  Do you not understand that while we bicker among ourselves, Sauron’s power grows?! None can escape it! ",
         " ",
-        "  Wait! We are coming too! ",
         " We must hold this course west of the Misty Mountains for 40 days. If our luck holds the Gap of Rohan will still be open to us. From there our road turns east to Mordor.",
         " No Gimli, I would not take the roads through Moria unless I had no other choice.",
         " Spies of Saruman! The passage south is being watched. We must take the Pass of Caradhras. ",
@@ -1358,7 +1254,6 @@
         " Ando Eldarinwa a lasta quettanya, Fenda Casarinwa! *Gate of Elves listen to my word, Threshold of Dwarves!*",
         " Oh, it’s useless! ",
         " Mellon ",
-        " Frodo! ",
         " Into the Mines! ",
         " We now have but one choice. We must face the long dark of Moria. Be on your guard. There are older and fouler things than orcs in the deep places of the world.",
         " Quietly now. It’s a four-day journey to the other side. Let us hope that our presence may go unnoticed. ",
@@ -1378,7 +1273,6 @@
         " “Here lies Balin, son of Fundin, Lord of Moria.” He is dead then. It’s as I feared. ",
         " “They have taken the bridge, and the second hall. We have barred the gates, but cannot hold them for long. The ground shakes. Drums, drums in the deep.  We cannot get out. A Shadow moves in the dark. We cannot get out…They are coming.”",
         " Fool of a Took! Throw yourself in next time and rid us of your stupidity! ",
-        " Yaahh! ",
         " I think there’s more to this hobbit than meets the eye.",
         " To the bridge of Khazad-dûm! ",
         " A Balrog. A demon of the ancient world. This foe is beyond any of you. Run! Quickly!",
@@ -1389,7 +1283,6 @@
         " Go back to the Shadow!",
         " YOU…SHALL NOT…PASS!! ",
         " Fly you fools! ",
-        " Shire!!!!",
         "  So do all who live to see such times but that is not for them to decide. All you have to decide is what to do with the time that is given to you.",
         " You cannot pass! ",
         " I'm the servant of the secret fire, wielder of the flame of Anor. The dark fire will not avail you! Flame of Udun! ",
@@ -1422,7 +1315,6 @@
         " Helm's Deep! They flee to the mountains when they should stand and fight. Who will defend them if not their king? ",
         " There is no way out of that of ravine. Théoden is walking into a trap. He thinks he is leading them to safety but what he'll get is a massacre. Théoden has a strong will but I fear for him. I fear for the survival of Rohan. He will need you before the end there, Aragorn. The people of Rohan will need you. The defenses have to hold. ",
         " Good luck. My search will not be in vain. Look to my coming. At first light of the fifth day at dawn, look to the East. ",
-        " \"Do I not also have your love?\" ",
         " Look to my coming at first light on the fifth day. At dawn look to the East. ",
         " Théoden-king stands alone. ",
         " Sauron’s wrath will be terrible, his retribution swift. The battle for Helm’s Deep is over. The battle for Middle-Earth is about to begin. All our hopes now lie with two little hobbits. Somewhere in the wilderness. ",
@@ -1435,8 +1327,6 @@
         " Saruman! You were deep in the enemy’s counsel. Tell us what you know!",
         " Send word to all our allies, and to every corner of Middle-Earth that still stands free. The enemy moves against us. We need to know where he will strike.",
         " Peregrin Took! I’ll take that, my lad. Quickly now. ",
-        "",
-        " But the only brew for the brave and true, Comes from The Green Dragon!",
         " No word. Nothing. ",
         " Do we know that? ",
         " That Frodo is alive. Yes. Yes, he’s alive. ",
@@ -1503,7 +1393,6 @@
         " Fight! Fight to the last man! Fight for your lives! ",
         " Up! Quickly! ",
         " Go back to the abyss! Fall into the nothingness that awaits you and your master!",
-        " Death! ",
         " Stay this madness! ",
         " So passes Denethor, son of Ecthelion. ",
         " End? No, the journey doesn’t end here. Death is just another path, one that we all must take. The grey rain curtain of this world rolls back, and all turns to silver glass. And then you see it. ",
@@ -1521,9 +1410,7 @@
         " I will not say, “Do not weep”, for not all tears are an evil.  It is time, Frodo. "
     ],
     "gil-galad": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "gimli": [
         "",
@@ -1645,9 +1532,7 @@
         ""
     ],
     "harry goatleaf": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "gollum": [
         "",
@@ -1690,41 +1575,95 @@
         " Yes. There is a path, and some stairs and then a tunnel. ",
         " Good Sméagol always help. ",
         "We wants it, we needs it. Must have the Preciousss. They stole it from us. Sneaky little hobbitses. Wicked, tricksy, falssse! ",
+        " No! No! Master! ",
         " Yess. Preciousss first. They will cheat you, hurt you, lie! ",
+        " Master's my friend. ",
         " You don't have any friends. Nobody likes you. ",
+        " Not listening. Not listening. ",
         " You´re a liar, and a thief. ",
+        " No. ",
         " Murderer! ",
+        " Go away. ",
         " Go away?! Ahahhaa! ",
+        " I hate you, I hate you. ",
         " Where would you be without me? Gollum. Gollum. I saved us. It was me. We survived because of me. ",
+        " Not anymore. ",
         " What did you say? ",
+        " Master looks after us now. We don't need you. ",
         " What? ",
+        " Leave now and never come back. ",
         " No! ",
+        " Leave now and never come back! ",
         " Ahh! ",
+        " LEAVE NOW AND NEVER COME BACK! ",
+        " We told him to go away! And away he goes, preciousss. Gone, gone, gone, Sméagol is free! ",
+        " Look! Look! See what Sméagol finds! Ehehe! Hohohhooo! They are young! They are tender and nice. Yes they are! Eat them. Eat them. ",
+        " Argh!! What's he doing! Stupid fat hobbit. You ruins it! ",
+        " What's taters? Preciousss, what's taters? Huh? ",
+        " Phooh! ",
+        " Oh yes we could. Ssspoiling nice fish! Give it to ussss raw. and wwwriggling. You keep nasty chips! ",
+        " Wicked men, servants of Sauron. They are called to Mordor. The Dark One is gathering all armies to him. It won't be long now. He will soon be ready. ",
+        " To make His war. The last war that will cover all the world in shadow. ",
+        "  Rock and pool, Is nice and cool, ",
+        " We must... go now? ",
+        " Master! ",
         " Sméagol... Why do you cry, Sméagol? ",
+        " Cruel men hurts us. Master tricksed us. ",
         " Of course he did. I told you he was tricksy. I told you he was false. ",
+        " Master is our friend... our friend. ",
         " Master betrayed ussss! ",
+        " No, not it’s business. Leave us alone. ",
         " Filthy little hobbitsesss! They stole it from usss! ",
+        " No... no... ",
         "  My - PRECIOUS!!!! ",
+        " Master... Master looks after us. Master wouldn’t hurt us. ",
         " Master broke his promise! ",
+        " Don’t ask Sméagol. Poor, poor Sméagol. ",
         " Master betrayed us! Wicked, tricksy, false! We ought to ring his filthy little neck! Kill him! Kill him! Kill them both. Then we take the Preciousss and we be the master. ",
+        " But the fat hobbit. He knows. Eyes always watching. ",
         " Then we stabs them out. Put out his eyses. And make him crawl. ",
+        " Yes! Yes! Yes! ",
         " Kill them both. ",
+        " Yes! No. No. It’s too risky, it’s too risky. ",
         " We could let her do it. ",
+        " Yes. She could do it. ",
         " Yes, Precious she could. And then we takes it once they’re dead. ",
+        " Once they’re dead. Hush! ",
+        " Come on, hobbits. Long ways to go yet. Sméagol will show you the way. Follow me.",
+        " Pull it in. Go on. Go on. Go on. Pull it in! ",
+        " Déagol? Déagol.  Give us that Déagol my love. ",
+        " Because…it’s my birthday and I wants it. ",
+        " My Precious. ",
+        "  They cursed us. “Murderer” they called us. They cursed us and drove us away. ",
         " Gollum. Gollum. Gollum.  ",
+        "  And we wept, precious. We wept to be so alone.",
+        " —and cool, So nice for feet, And we only wish, To catch a fish/ So juicy sweet.",
+        " And we forgot the taste of bread…the sound of trees…the softness of the wind. We even forgot our own name. My Precious. ",
         " Wake up! Wake up! Wake up, sleepies. We must go, yes. We must go at once. ",
         " Come on! Must go! No time! ",
         " No time to lose, silly. ",
         " Come, Hobbitses. Very close now. Very close to Mordor. No safe places here. Hurry! ",
+        " Too risky. Too risky. Thieves. They stole it from us. Kill them. Kill them. Kill them both! ",
         " Shh! Quiet. Mustn’t wake them. Mustn’t ruin it now. ",
+        " But they knows. They knows. They suspects us! ",
         " What’s it saying, my precious, my love? Is Sméagol losing his nerve? ",
+        " No. Not. Never. Sméagol hates nasty Hobbitses. Sméagol wants to see them…dead. ",
         " And we will. Sméagol did it once, he can do it again.  It’s ours. Ours! ",
+        " We must get the precious. We must get it back. ",
         " Patience. Patience, my love. First we must lead them to her. ",
+        " We lead them to the winding stairs. ",
         " Yes. The stairs. And then? ",
+        " Up, up, up, up, up the stairs we go, until we come to…the tunnel. ",
         " And when they go in, there’s no coming out. She’s always hungry. She always needs…to feed. She must eat. All she gets is filthy Orcses. ",
+        " And they doesn’t taste very nice, does they, precious? ",
         " No. Not very nice at all, my love. She hungers for sweeter meats, Hobbit-meat.  And when she throws away the bones, and empty clothes, then we will find it. ",
+        " And take it for me! ",
         " For us. ",
+        " Y-yes, we meant “for us”. *gollum, gollum* ",
         " The precious will be ours, once the Hobbitses are dead. ",
+        " No! No! Master! ",
+        " Never! Sméagol wouldn’t hurt a fly!  Argh! He’s a horrid, fat Hobbit who hates Sméagol and who makes up nasty lies! ",
+        " Argh! ",
         "  We’re not in decent places.",
         " Come on, Hobbits! Mustn’t stop now. This way.",
         " The Dead City. Very nasty place. Full of enemies. ",
@@ -1734,6 +1673,7 @@
         " Not that way! ",
         " What’s it doing? ",
         " No!",
+        " Hide! Hide! ",
         " Come away, Hobbits. We climb. We must climb. ",
         " Up, up, up the stairs we go. And then it’s into the tunnel.",
         " Careful, master! Careful! Very far to fall. Very dangerous are the stairs. Come master! ",
@@ -1753,46 +1693,24 @@
         "  You’ll see! Oh, yes. You will see. ",
         " Naughty little fly, why does he cry? Caught in a web, soon you’ll be…eaten. ",
         " Got away, did it, Precious? Not this time! Not this time! ",
+        " It wasn’t us! It wasn’t us! Sméagol wouldn’t hurt master. We promised. You must believe us. It was the Precious! The precious made us do it! ",
         " Clever Hobbits to climb so high! ",
         " Mustn’t go that way. Mustn’t hurt the precious. ",
         " Sméagol lied.",
         " Yes! Yes! Precious! Precious! Precious! Precious! "
     ],
     "golradir": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "gwaihir": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "haldir of lothlórien": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " Out of the Way! Watch where you’re going! ",
-        " You cannot hide! I see you! There is no life in the void…only death…",
-        " Build me an army worthy of Mordor! ",
         " The Dwarf breathes so loud we could have shot him in the dark. ",
         " You have entered the realm of the Lady of the Wood. You cannot go back.  Come, she is waiting. ",
-        " \"Do I not also have your love?\" ",
         " I bring word from Elrond of Rivendell. An alliance once existed between Elves and Men. Long ago we fought and died together. We come to honour that allegiance. ",
-        " We are proud to fight alongside men, once more. ",
-        " Who enters my domain? ",
-        " The Dead do not suffer the living to pass. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " None but the King of Gondor may command me. ",
-        " That line was broken. ",
-        " We fight. ",
-        "  Grond! Grond! Grond! Grond! Grond! ",
-        " Release us. ",
-        " You gave us your word. ",
-        " My master, Sauron the Great, bids thee welcome. ",
-        " Is there any in this rout with authority to treat with me?",
-        "  Old Greybeard. I have a token I was bidden to show thee. ",
-        " The Halfling was dear to thee, I see. Know that he suffered greatly at the hands of his host. Who would’ve thought one so small could endure so much pain? And he did, Gandalf. He did.",
-        " And who is this? Isildur’s heir? It takes more to make a king than a broken Elvish blade."
+        " We are proud to fight alongside men, once more. "
     ],
     "hugin": [
         ""
@@ -1805,13 +1723,10 @@
         ""
     ],
     "khamûl": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "legolas": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " This is no mere ranger. He is Aragorn, son of Arathorn. You owe him your allegiance. ",
         " And heir to the throne of Gondor. ",
         "  Have you heard nothing Lord Elrond has said? The Ring must be destroyed! ",
@@ -1846,7 +1761,6 @@
         " A scout! ",
         " Aragorn? ",
         " You lie! ",
-        " \"Do I not also have your love?\" ",
         " Le ab-dollen.  You look terrible. ",
         " Or too few. Look at them. They’re frightened. I can see it in their eyes. Boe a hyn: neled herain dan caer menig.  ",
         " Aragorn, nedin dagor hen ú-'erir otheri. Natha daged dhaer.  ",
@@ -1877,17 +1791,7 @@
         " What about side by side with a friend? "
     ],
     "linnar, sindri, and uri": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " Aah!",
-        "  Wait! We are coming too! ",
-        " Frodo! ",
-        " Yaahh! ",
-        " Shire!!!!",
-        " \"Do I not also have your love?\" ",
-        "",
-        " But the only brew for the brave and true, Comes from The Green Dragon!",
-        " Death! "
+        ""
     ],
     "lurtz": [
         "",
@@ -1896,34 +1800,24 @@
     ],
     "farmer maggot": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " Wait till I get this through you! Stay out of my fields! You ruffians, I’ll catch up with you! ",
-        " Wait till I get this through you! Stay out of my fields! You ruffians, I’ll catch up with you! ",
-        " \"Do I not also have your love?\" "
+        " Wait till I get this through you! Stay out of my fields! You ruffians, I’ll catch up with you! "
     ],
     "mrs. bracegirdle": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "old noakes": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " We’re safe, my lady! Thank you! ",
-        " \"Do I not also have your love?\" "
+        " We’re safe, my lady! Thank you! "
     ],
     "orophin": [
         ""
     ],
     "otho sackville-baggins": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "ottar": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "mrs. proudfoot": [
         "",
@@ -1934,54 +1828,22 @@
         " Proudfeet!"
     ],
     "rúmil of lórien": [
-        "",
-        " Out of the Way! Watch where you’re going! ",
-        " You cannot hide! I see you! There is no life in the void…only death…",
-        " Build me an army worthy of Mordor! ",
-        " Who enters my domain? ",
-        " The Dead do not suffer the living to pass. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " None but the King of Gondor may command me. ",
-        " That line was broken. ",
-        " We fight. ",
-        "  Grond! Grond! Grond! Grond! Grond! ",
-        " Release us. ",
-        " You gave us your word. ",
-        " My master, Sauron the Great, bids thee welcome. ",
-        " Is there any in this rout with authority to treat with me?",
-        "  Old Greybeard. I have a token I was bidden to show thee. ",
-        " The Halfling was dear to thee, I see. Know that he suffered greatly at the hands of his host. Who would’ve thought one so small could endure so much pain? And he did, Gandalf. He did.",
-        " And who is this? Isildur’s heir? It takes more to make a king than a broken Elvish blade."
+        ""
     ],
     "lobelia sackville-baggins": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " “Bilbo! Bilbo Baggins!”",
-        " \"Do I not also have your love?\" "
+        " “Bilbo! Bilbo Baggins!”"
     ],
     "saelbeth": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "ted sandyman": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " Aah!",
         "  Get out of my way.",
-        " You’ll all be destroyed!",
-        "  Wait! We are coming too! ",
-        " Frodo! ",
-        " Yaahh! ",
-        " Shire!!!!",
-        " \"Do I not also have your love?\" ",
-        "",
-        " But the only brew for the brave and true, Comes from The Green Dragon!",
-        " Death! "
+        " You’ll all be destroyed!"
     ],
     "saruman": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " Smoke rises from the mountain of Doom. The hour grows late and Gandalf the Grey rides to Isengard seeking my counsel. For that is why you have come, is it not?..my old friend. ",
         " You are sure of this? ",
         " The Ring of Power has been found. ",
@@ -2020,7 +1882,6 @@
         " If the wall is breached, Helm's Deep will fall. ",
         " Tens of thousands. ",
         " A new power is rising. It's victory is at hand. This night the land will be stained with the blood of Rohan! March to Helm's Deep! Leave none alive! To war! There will be no dawn for Men. ",
-        " \"Do I not also have your love?\" ",
         "  and made peace afterwards. Can we not take counsel together as we once did, my old friend? Can we not have peace, you and I?",
         " Gibbets and crows? Dotard! What do you want, Gandalf Greyhame? Let me guess. The key of Orthanc. Or perhaps the Keys of Barad-dur itself along with the crowns of the seven kings and the rods of the Five Wizards!",
         " So you have come here for information. I have some for you.",
@@ -2034,17 +1895,7 @@
     ],
     "sauron": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " You cannot hide! I see you! There is no life in the void…only death…",
-        " Build me an army worthy of Mordor! ",
-        " \"Do I not also have your love?\" ",
-        " I see you… ",
-        "  Grond! Grond! Grond! Grond! Grond! ",
-        " My master, Sauron the Great, bids thee welcome. ",
-        " Is there any in this rout with authority to treat with me?",
-        "  Old Greybeard. I have a token I was bidden to show thee. ",
-        " The Halfling was dear to thee, I see. Know that he suffered greatly at the hands of his host. Who would’ve thought one so small could endure so much pain? And he did, Gandalf. He did.",
-        " And who is this? Isildur’s heir? It takes more to make a king than a broken Elvish blade."
+        " I see you… "
     ],
     "silindë": [
         ""
@@ -2055,7 +1906,6 @@
         " It is in the ground. ",
         " It was your idea!",
         " Let’s get another one! ",
-        " Aah!",
         " Frodo? Merry! It’s Frodo Baggins. ",
         " What’s the meaning of this? ",
         " And some cabbages. And those few bags of potatoes that we lifted last week and, and the mushrooms the week before! ",
@@ -2078,26 +1928,22 @@
         " Oh that’s nice! Ash on my tomatoes! ",
         " Is he going to die? ",
         " What are they saying? ",
-        "  Wait! We are coming too! ",
         " Anyway you need people of intelligence on this sort of mission, quest… thing. ",
         " Great! Where are we going?",
         " Thanks. ",
         " Aaah! ",
         " For the Shire! ",
         " Hold him! Hold him Merry!",
-        " Frodo! ",
         " Are we lost? ",
         " I think we are. ",
         " Merry? ",
         " I’m hungry. ",
-        " Yaahh! ",
         " Hide here quick! Come on!",
         "  What’s he doin’? ",
         " No! ",
         " Hey! ",
         "  This way!",
         " It’s working! ",
-        " Shire!!!!",
         " Merry! Merry! ",
         "  Aragorn! ",
         " Merry! Merry! ",
@@ -2125,8 +1971,6 @@
         " I feel like I’m back at the Green Dragon.",
         " A mug of ale in my hand. Putting my feet up on a settle after a hard day’s work.",
         " We are sitting on a field of victory, enjoying a few well-earned comforts. The salted pork is particularly good. ",
-        "",
-        " But the only brew for the brave and true, Comes from The Green Dragon!",
         " Thank you!",
         " I just want to look at it. Just one more time. ",
         "  Gandalf, forgive me. ",
@@ -2190,60 +2034,21 @@
     ],
     "watcher in the water": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " Baggins. Baggins. Baggins. Baggins! Baggins!",
-        " Aragorn…Aragorn…Elessar…",
-        " \"Do I not also have your love?\" ",
-        " Who enters my domain? ",
-        " The Dead do not suffer the living to pass. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " None but the King of Gondor may command me. ",
-        " That line was broken. ",
-        " We fight. ",
-        " Release us. ",
-        " You gave us your word. "
+        " Aragorn…Aragorn…Elessar…"
     ],
     "witch-king of angmar": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " Out of the Way! Watch where you’re going! ",
-        " You cannot hide! I see you! There is no life in the void…only death…",
-        " Build me an army worthy of Mordor! ",
-        " \"Do I not also have your love?\" ",
         " Send forth all legions. Do not stop the attack until the city is taken. Slay them all. ",
         " I will break him. ",
-        " Who enters my domain? ",
-        " Who enters my domain? ",
-        " The Dead do not suffer the living to pass. ",
-        " The Dead do not suffer the living to pass. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " None but the King of Gondor may command me. ",
-        " None but the King of Gondor may command me. ",
-        " That line was broken. ",
-        " That line was broken. ",
-        " We fight. ",
-        " We fight. ",
-        "  Grond! Grond! Grond! Grond! Grond! ",
         " Do you not know death when you see it, old man? This is my hour. ",
         " You have failed. The world of Men will fall.",
         " Feast on his flesh. ",
         " Do not come between a Nazgûl and his prey. ",
-        "  You fool. No man can kill me! Die now. ",
-        " Release us. ",
-        " Release us. ",
-        " You gave us your word. ",
-        " You gave us your word. ",
-        " My master, Sauron the Great, bids thee welcome. ",
-        " Is there any in this rout with authority to treat with me?",
-        "  Old Greybeard. I have a token I was bidden to show thee. ",
-        " The Halfling was dear to thee, I see. Know that he suffered greatly at the hands of his host. Who would’ve thought one so small could endure so much pain? And he did, Gandalf. He did.",
-        " And who is this? Isildur’s heir? It takes more to make a king than a broken Elvish blade."
+        "  You fool. No man can kill me! Die now. "
     ],
     "aldor (movie character)": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "beechbone": [
         ""
@@ -2252,17 +2057,13 @@
         ""
     ],
     "bregalad": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "brego (horse)": [
         ""
     ],
     "damrod": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "denethor ii": [
         "",
@@ -2373,7 +2174,6 @@
         " Take heart, Merry. It will soon be over.",
         " Courage, Merry. Courage for our friends.  ",
         "  Whatever happens, stay with me. I’ll look after you. ",
-        " Death! ",
         " Take the reins! Pull him left! Left! ",
         " Merry!",
         "  I will kill you if you touch him! ",
@@ -2383,9 +2183,7 @@
     ],
     "faramir": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " Bind their hands. ",
-        " \"Do I not also have your love?\" ",
         " What news? ",
         " How many? ",
         " Who’s covering the river to the north? ",
@@ -2438,33 +2236,23 @@
         " It’s just the damp of the first spring rain. I do not believe this darkness will endure."
     ],
     "finglas": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "fladrif": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "freca (film character)": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "freda": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " But Papa says Eothain must not ride. He's too big for him! ",
         " I don't wanna go! I don't wanna go! ",
-        " Mama! ",
-        " \"Do I not also have your love?\" "
+        " Mama! "
     ],
     "gamling": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " What is it? Hama? ",
-        " \"Do I not also have your love?\" ",
         " We need more time to lay provisions for a siege, lord. ",
         " Secure the gate. ",
         " Every villager able to wield a sword has been sent to the armory. My lord? ",
@@ -2488,79 +2276,46 @@
         " Let’s put a maggot-hole in your belly. "
     ],
     "guma": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "haleth (son of háma)": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " Out of the Way! Watch where you’re going! ",
-        " You cannot hide! I see you! There is no life in the void…only death…",
-        " Build me an army worthy of Mordor! ",
-        " \"Do I not also have your love?\" ",
-        " Háleth, son of Háma, my lord. The men are saying that we will not live out the night. They say that it is hopeless. ",
-        " Who enters my domain? ",
-        " The Dead do not suffer the living to pass. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " None but the King of Gondor may command me. ",
-        " That line was broken. ",
-        " We fight. ",
-        "  Grond! Grond! Grond! Grond! Grond! ",
-        " Release us. ",
-        " You gave us your word. ",
-        " My master, Sauron the Great, bids thee welcome. ",
-        " Is there any in this rout with authority to treat with me?",
-        "  Old Greybeard. I have a token I was bidden to show thee. ",
-        " The Halfling was dear to thee, I see. Know that he suffered greatly at the hands of his host. Who would’ve thought one so small could endure so much pain? And he did, Gandalf. He did.",
-        " And who is this? Isildur’s heir? It takes more to make a king than a broken Elvish blade."
+        " Háleth, son of Háma, my lord. The men are saying that we will not live out the night. They say that it is hopeless. "
     ],
     "hláfwine": [
         ""
     ],
     "háma": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " I cannot allow you before Théoden-king so armed, Gandalf Grayhame... By order of - Grima Wormtongue. ",
         "  Your staff. ",
         " By order of the king, The city must empty. We make for the refuge of Helm's Deep. Do not burden yourself with treasures. Take only what provisions you need. ",
-        " I'm not sure. ",
-        " \"Do I not also have your love?\" "
+        " I'm not sure. "
     ],
     "lindenroot": [
         ""
     ],
     "madril": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" ",
         " It’s been very quiet across the river. The Orcs are lying low. The garrison may have moved out. We’ve sent scouts to Cair Andros. If the Orcs attack from the north, we’ll have some warning.",
         " Faramir! ",
         " We cannot hold them! The city is lost! "
     ],
     "mauhúr": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " Man-flesh. ",
-        " \"Do I not also have your love?\" "
+        " Man-flesh. "
     ],
     "morwen (movie character)": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "rootcouncil": [
         ""
     ],
     "sharku": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "snaga (isengard)": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "théoden": [
         "",
@@ -2673,7 +2428,6 @@
     ],
     "treebeard": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " Little Orcs! ",
         " Tree? I am no tree! I am an Ent. ",
         " Treebeard some call me. ",
@@ -2684,7 +2438,6 @@
         " There is always smoke rising up from Isengard these days. ",
         " There was a time, when Saruman would walk in my woods, but now, he has a mind of metal and wheels. ",
         " He no longer cares for growing things. ",
-        " \"Do I not also have your love?\" ",
         " The ents have not troubled about the wars of men and wizards for a very long time. But now something is about to happen that has not happened for an age: ent moot. ",
         " It is a gathering. ",
         " Beech, Oak, Chestnut, Ash. Good, good, good many have come. Now we must decide if the ents will go to war. ",
@@ -2723,7 +2476,6 @@
     ],
     "gríma wormtongue": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " That is a lie! Saruman the White has ever been our friend and ally. ",
         " Why do you lay these troubles on an already troubled mind? Can you not see? Your uncle is weary of your malcontent, your warmongering. ",
         " You see much, Èomer son of Èomund. Too much. You are banished forthwith from the kingdom of Rohan, under pain of death. ",
@@ -2742,51 +2494,34 @@
         " How? How can fire undo stone? What kind of device can break down a wall? ",
         " Even if it is breached, it would take a number beyond reckoning, thousands to storm the keep. ",
         " But, my lord, there is no such force. ",
-        " \"Do I not also have your love?\" ",
         " No. "
     ],
     "éothain (film character)": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " Yes mum. ",
-        " \"Do I not also have your love?\" "
+        " Yes mum. "
     ],
     "borlas": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "diamond took": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "déagol": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" ",
         " Sméagol! I’ve got one; I’ve got a fish, Sméag-Sméagol! ",
         " Why? "
     ],
     "eldarion": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "gardner": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "elanor gardner": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "gorbag": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" ",
         " Killed another one, has she? ",
         " This scum will be awake in a couple of hours. ",
         " It’s going to the Great Eye, along with everything else. ",
@@ -2795,40 +2530,21 @@
     ],
     "gothmog (lieutenant of morgul)": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " Out of the Way! Watch where you’re going! ",
-        " You cannot hide! I see you! There is no life in the void…only death…",
-        " Build me an army worthy of Mordor! ",
-        " \"Do I not also have your love?\" ",
         " Quiet!",
         " Kill him!",
         "  Faster. ",
         " Draw swords! ",
         " The age of Men is over. The time of the Orc has come.",
         " What of the Wizard? ",
-        " Who enters my domain? ",
-        " The Dead do not suffer the living to pass. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " None but the King of Gondor may command me. ",
-        " That line was broken. ",
-        " We fight. ",
         " Fear. The city is rank with it. Let us ease their pain. Release the prisoners! ",
         " Stay where you are. ",
         " What are you doing, you useless scum?!",
         " Get back there and smash it down.",
         " Grond will breach it. Bring up the wolf’s head. ",
-        "  Grond! Grond! Grond! Grond! Grond! ",
         " Move into the city. Kill all in your path. ",
         " Form ranks, you maggots. Form ranks! Pikes in front. Archers behind. ",
         " Fire! ",
-        " Fire at will! ",
-        " Release us. ",
-        " You gave us your word. ",
-        " My master, Sauron the Great, bids thee welcome. ",
-        " Is there any in this rout with authority to treat with me?",
-        "  Old Greybeard. I have a token I was bidden to show thee. ",
-        " The Halfling was dear to thee, I see. Know that he suffered greatly at the hands of his host. Who would’ve thought one so small could endure so much pain? And he did, Gandalf. He did.",
-        " And who is this? Isildur’s heir? It takes more to make a king than a broken Elvish blade."
+        " Fire at will! "
     ],
     "grimbold": [
         "",
@@ -2842,75 +2558,18 @@
         ""
     ],
     "herubrand": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " Aah!",
-        "  Wait! We are coming too! ",
-        " Frodo! ",
-        " Yaahh! ",
-        " Shire!!!!",
-        " \"Do I not also have your love?\" ",
-        "",
-        " But the only brew for the brave and true, Comes from The Green Dragon!",
-        " Death! "
+        ""
     ],
     "iorlas": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "irolas": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "king of the dead": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " Out of the Way! Watch where you’re going! ",
         " Baggins. Baggins. Baggins. Baggins! Baggins!",
-        " You cannot hide! I see you! There is no life in the void…only death…",
-        " Build me an army worthy of Mordor! ",
-        " Aragorn…Aragorn…Elessar…",
-        " \"Do I not also have your love?\" ",
-        " Who enters my domain? ",
-        " Who enters my domain? ",
-        " Who enters my domain? ",
-        " Who enters my domain? ",
-        " The Dead do not suffer the living to pass. ",
-        " The Dead do not suffer the living to pass. ",
-        " The Dead do not suffer the living to pass. ",
-        " The Dead do not suffer the living to pass. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " None but the King of Gondor may command me. ",
-        " None but the King of Gondor may command me. ",
-        " None but the King of Gondor may command me. ",
-        " None but the King of Gondor may command me. ",
-        " That line was broken. ",
-        " That line was broken. ",
-        " That line was broken. ",
-        " That line was broken. ",
-        " We fight. ",
-        " We fight. ",
-        " We fight. ",
-        " We fight. ",
-        "  Grond! Grond! Grond! Grond! Grond! ",
-        " Release us. ",
-        " Release us. ",
-        " Release us. ",
-        " Release us. ",
-        " You gave us your word. ",
-        " You gave us your word. ",
-        " You gave us your word. ",
-        " You gave us your word. ",
-        " My master, Sauron the Great, bids thee welcome. ",
-        " Is there any in this rout with authority to treat with me?",
-        "  Old Greybeard. I have a token I was bidden to show thee. ",
-        " The Halfling was dear to thee, I see. Know that he suffered greatly at the hands of his host. Who would’ve thought one so small could endure so much pain? And he did, Gandalf. He did.",
-        " And who is this? Isildur’s heir? It takes more to make a king than a broken Elvish blade."
+        " Aragorn…Aragorn…Elessar…"
     ],
     "léowyn": [
         "",
@@ -2933,7 +2592,6 @@
         " Take heart, Merry. It will soon be over.",
         " Courage, Merry. Courage for our friends.  ",
         "  Whatever happens, stay with me. I’ll look after you. ",
-        " Death! ",
         " Take the reins! Pull him left! Left! ",
         " Merry!",
         "  I will kill you if you touch him! ",
@@ -2942,60 +2600,20 @@
         " The city has fallen silent. There is no warmth left in the sun. It grows so cold."
     ],
     "mahud": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "mouth of sauron": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " Out of the Way! Watch where you’re going! ",
-        " You cannot hide! I see you! There is no life in the void…only death…",
-        " You cannot hide! I see you! There is no life in the void…only death…",
-        " Build me an army worthy of Mordor! ",
-        " Build me an army worthy of Mordor! ",
-        " \"Do I not also have your love?\" ",
-        " I see you… ",
-        " Who enters my domain? ",
-        " The Dead do not suffer the living to pass. ",
-        " The way is shut. It was made by those who are dead. And the Dead keep it. The way is shut. Now you must die. ",
-        " None but the King of Gondor may command me. ",
-        " That line was broken. ",
-        " We fight. ",
-        "  Grond! Grond! Grond! Grond! Grond! ",
-        "  Grond! Grond! Grond! Grond! Grond! ",
-        " Release us. ",
-        " You gave us your word. ",
-        " My master, Sauron the Great, bids thee welcome. ",
-        " My master, Sauron the Great, bids thee welcome. ",
-        " My master, Sauron the Great, bids thee welcome. ",
-        " Is there any in this rout with authority to treat with me?",
-        " Is there any in this rout with authority to treat with me?",
-        " Is there any in this rout with authority to treat with me?",
-        "  Old Greybeard. I have a token I was bidden to show thee. ",
-        "  Old Greybeard. I have a token I was bidden to show thee. ",
-        "  Old Greybeard. I have a token I was bidden to show thee. ",
-        " The Halfling was dear to thee, I see. Know that he suffered greatly at the hands of his host. Who would’ve thought one so small could endure so much pain? And he did, Gandalf. He did.",
-        " The Halfling was dear to thee, I see. Know that he suffered greatly at the hands of his host. Who would’ve thought one so small could endure so much pain? And he did, Gandalf. He did.",
-        " The Halfling was dear to thee, I see. Know that he suffered greatly at the hands of his host. Who would’ve thought one so small could endure so much pain? And he did, Gandalf. He did.",
-        " And who is this? Isildur’s heir? It takes more to make a king than a broken Elvish blade.",
-        " And who is this? Isildur’s heir? It takes more to make a king than a broken Elvish blade.",
-        " And who is this? Isildur’s heir? It takes more to make a king than a broken Elvish blade."
+        " I see you… "
     ],
     "murgash": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "mûmakil mahûd": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "shagrat": [
         "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" ",
         " You get back, you scum! What’s this? Looks like old Shelob’s been having a bit of fun. ",
         " No. This fellow ain’t dead. ",
         " She jabs him with her stinger and he goes as limp as a boned fish. Then she has her way with them. That’s how she likes to feed. Fresh blood. Get him to the tower! ",
@@ -3008,13 +2626,10 @@
         ""
     ],
     "ufthak": [
-        "",
-        " Bilbo Baggins of the Shire. ",
-        " \"Do I not also have your love?\" "
+        ""
     ],
     "hobbits": [
         "",
-        " Bilbo Baggins of the Shire. ",
         " Look it’s Gandalf! It’s Gandalf!",
         " Gandalf! Gandalf! ",
         " Fireworks?!? Gandalf?!?",
@@ -3063,7 +2678,41 @@
     ],
     "men": [
         "",
-        " Out of the Way! Watch where you’re going! ",
-        " What’ll we drink to? Let’s drink to victory! To victory!"
+        " What do you want?",
+        " Hobbits! Four hobbits! What business brings you to Bree? ",
+        " Alright young sir, I meant no offense. It’s my job to ask questions after nightfall. There’s talk of strange folk abroad. Can’t be too careful. ",
+        " Murderers! ",
+        " Eothain, take your sister. You'll go faster with just two. ",
+        " Listen to me! You must ride to Edoras and raise the alarm. Do you understand me? ",
+        " Listen to me. I will find you there. ",
+        "Quickly! Go, child!  Oh, child. ",
+        " Helm’s Deep! At last! There it is! ",
+        " Freya! Freya! ",
+        " Make way for Théoden! Make way for the King! ",
+        " What of those who cannot fight my lord? The women and children? ",
+        " Hail! ",
+        " What’ll we drink to? Let’s drink to victory! To victory!",
+        " We need 10 more.",
+        " The beacon! The beacon of Amon Dîn is lit! ",
+        " Nazgûl! ",
+        " Take cover! Nazgûl! ",
+        " Run for your lives!",
+        " It’s Mithrandir! The White Rider! ",
+        " It is as the Lord Denethor predicted! Long has he foreseen this doom! ",
+        " What of Théoden’s Riders? Will Rohan’s army come? Mithrandir.",
+        " Make way for the king. Make way! The king is here. My lord. Hail to you, sire. ",
+        " We have three hundred more from Fenmarch, Théoden King. ",
+        " None have come, my lord. ",
+        " Sir? King Théoden awaits you, My Lord. ",
+        " What’s happening? Where is he going? I don’t understand. Lord Aragorn! Why does he leave on the eve of battle? ",
+        " Open the gate! Quick! ",
+        " Quick, hurry! ",
+        " They were outnumbered. None survived. ",
+        " Down to the lower level. Quick! ",
+        " Who are you to deny us passage?",
+        " Boarded? By you and whose army?",
+        " Come on, soldier! Move it! Hurry along there! Hurry along! ",
+        " Come on. Come on!",
+        " Take them down! "
     ]
 }
