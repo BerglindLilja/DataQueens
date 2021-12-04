@@ -890,7 +890,7 @@ Arwen: I've made my choice. 
 Elrond: He is not coming back. Why do you linger when there is no hope? 
 Arwen: There is still hope. 
 Elrond: If Aragorn survives this war, You will still be parted. If Sauron is defeated and Aragorn made king and all that you hoped for comes true... you will still have to taste the bitterness of mortality. Whether by the sword or the slow decay of time, Aragorn will die. And there will be no comfort for you, no comfort to ease the pain of his passing. He will come to death. An image of the splendor of the kings of men in glory, undimmed before the breaking of the world. But you, my daughter, you will linger on, in darkness and in doubt. As night falling winter has come without a star. Here you will dwell, bound to you grief, under the fading trees, until all the world has changed and the long years of your life are utterly spent. Arwen... there is nothing for you here, only death. 
-A im, ú-'erin veleth lîn? [Translation: "Do I not also have your love?" 
+A im, ú-'erin veleth lîn? 
 Arwen: Gerich meleth nîn, ada.  
 
  
@@ -1127,7 +1127,7 @@ Gimli: Let’s hope they last the night. 
  
 
 Aragorn: A Eruchin, ú-dano i faelas a hyn an uben tanatha le. 
-[Translation: "Show them no mercy! For you shall receive none!" 
+
 Gimli: What’s happening out there? 
 Legolas:  Shall I describe it to you? Or would you like me to find you a box? 
 
